@@ -126,7 +126,7 @@ $$
 
 **Definition of Optimal Policy**
 
->$$\pi^{*}(s)=argmax_a~Q^*(s,a)$$
+>$$\pi^{*}(s)=argmax_{a}~Q^*(s,a)$$
 #### 4.4 Bellman Optimality Equations
 
 **for State Values**
