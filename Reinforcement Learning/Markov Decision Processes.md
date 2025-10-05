@@ -36,7 +36,9 @@ $$
 
 **Key Properties:**
 
->* Probability distribution: $$\sum_{s'\in S}P(s'|s,a)=1~for~all~s,a$$
+>* Probability distribution: 
+>
+>$$\sum_{s'\in S}P(s'|s,a)=1~for~all~s,a$$
 >* Stationary: Transition probabilities don' change over time
 >* Markovian: Next state depends only on current state and action
 
