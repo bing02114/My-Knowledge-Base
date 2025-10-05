@@ -4,65 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca97cf2543fffe69",
+        "id": "720c9f31b1a31e2c",
         "type": "tabs",
         "children": [
           {
-            "id": "09739018edeca447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathmatics/Numerical Analysis/1.Basic Concepts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.Basic Concepts"
-            }
-          },
-          {
-            "id": "5ed0e0c81ad6a96e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.14"
-            }
-          },
-          {
-            "id": "0af2a587392ab66d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning/Markov Decision Processes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Markov Decision Processes"
-            }
-          },
-          {
-            "id": "6b39f6810e54d2d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning/Markov Decision Processes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Markov Decision Processes"
-            }
-          },
-          {
-            "id": "a4b5064b5b3bddac",
+            "id": "3f3de7d17155017d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,8 +21,7 @@
               "title": "conflict-files-obsidian-git"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4b5064b5b3bddac",
+  "active": "3f3de7d17155017d",
   "lastOpenFiles": [
+    "Programming Language/C++/STL-Container.md",
+    "Programming Language/C++/STL-Algorithms.md",
     "Reinforcement Learning/Markov Decision Processes.md",
     "conflict-files-obsidian-git.md",
     "Reinforcement Learning/images/interaction loop.png",
@@ -246,8 +193,6 @@
     "Reinforcement Learning/images/BellmanEquationQ.png",
     "Reinforcement Learning/images",
     "Reinforcement Learning",
-    "Programming Language/C++/STL-Container.md",
-    "Programming Language/C++/STL-Algorithms.md",
     "Programming Language/C++",
     "Programming Language",
     "Mathmatics/Numerical Analysis/1.Basic Concepts.md",
