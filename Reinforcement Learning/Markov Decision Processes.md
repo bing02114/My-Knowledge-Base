@@ -110,21 +110,21 @@ $$
 
 #### 4.3 Optimal Value Functions
 
->$$V^*(s)=max_{\pi}V^{\pi}(s)$$$$Q^*(s,a)=max_{\pi}Q^{\pi}(s,a)$$
+>$$V^{*}(s)=max_{\pi}V^{\pi}(s)$$$$Q^{*}(s,a)=max_{\pi}Q^{\pi}(s,a)$$
 
 **Relationship Between Optimal Functions**
 
->$$V^*(s)=max_aQ^*(s,a)$$
+>$$V^{*}(s)=max_aQ^*(s,a)$$
 
 **Definition of Optimal Policy**
 
->$$\pi^*(s)=argmax_a~Q^*(s,a)$$
+>$$\pi^{*}(s)=argmax_a~Q^*(s,a)$$
 #### 4.4 Bellman Optimality Equations
 
 **for State Values**
 
 ![](../Reinforcement%20Learning/images/BellmanOptimalityEquationsV.png)
 
-**for Action Values
+**for Action Values**
 
 ![](../Reinforcement%20Learning/images/BellmanOptimalityEquationsQ.png)
