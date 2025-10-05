@@ -122,16 +122,16 @@ $$
 
 #### 4.3 Optimal Value Functions
 
->$$V^{*}(s)=max_{\pi}V^{\pi}(s)$$
->$$Q^{*}(s,a)=max_{\pi}Q^{\pi}(s,a)$$
+>$$V^{\ast}(s)=max_{\pi}V^{\pi}(s)$$
+>$$Q^{\ast}(s,a)=max_{\pi}Q^{\pi}(s,a)$$
 
 **Relationship Between Optimal Functions**
 
->$$V^{*}(s)=max_aQ^{*}(s,a)$$
+>$$V^{\ast}(s)=max_aQ^{\ast}(s,a)$$
 
 **Definition of Optimal Policy**
 
->$$\pi^{*}(s)=\arg\max_{a}Q^{*}(s,a)$$
+>$$\pi^{\ast}(s)=\arg\max_{a}Q^{\ast}(s,a)$$
 #### 4.4 Bellman Optimality Equations
 
 **for State Values**
