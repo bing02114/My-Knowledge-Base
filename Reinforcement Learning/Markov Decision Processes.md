@@ -83,11 +83,13 @@ $$
 #### 3.2 State-Value Function
 
 >How good to be in state s
+>
 >$$V^{\pi}(s)=E[G_t|s_t=s,\pi]$$
 
 #### 3.3 Action-Value Function
 
 >How good is it to take action a in state s
+>
 >$$Q^{\pi}(s,a)=E[G_t|s_t=s,a_t=a,\pi]$$
 
 ***
@@ -120,15 +122,16 @@ $$
 
 #### 4.3 Optimal Value Functions
 
->$$V^{*}(s)=max_{\pi}V^{\pi}(s)$$$$Q^{*}(s,a)=max_{\pi}Q^{\pi}(s,a)$$
+>$$V^{*}(s)=max_{\pi}V^{\pi}(s)$$
+>$$Q^{*}(s,a)=max_{\pi}Q^{\pi}(s,a)$$
 
 **Relationship Between Optimal Functions**
 
->$$V^{*}(s)=max_aQ^*(s,a)$$
+>$$V^{*}(s)=max_aQ^{*}(s,a)$$
 
 **Definition of Optimal Policy**
 
->$$\pi^{*}(s)=argmax_{a}~Q^*(s,a)$$
+>$$\pi^{*}(s)=\arg\max_{a}Q^{*}(s,a)$$
 #### 4.4 Bellman Optimality Equations
 
 **for State Values**
