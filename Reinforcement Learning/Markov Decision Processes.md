@@ -16,7 +16,7 @@
 
 #### 1.3 The Agent-Environment Interaction Loop
 
-![](Reinforcement%20Learning/images/interaction%20loop.png)
+![](../Reinforcement%20Learning/images/interaction%20loop.png)
 #### 1.4 Types of MDPs
 
 > 1. Episodic: Tasks with a clear start and a terminal state, forming an "episode"
