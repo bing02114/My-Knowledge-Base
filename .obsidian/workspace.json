@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathmatics/Linear Algebra/1.Matrices and Linear Equations/1.Introduction to Linear System.md",
+                "file": "Mathmatics/Linear Algebra/1.Matrices and Linear Equations/2.Solving Linear Systemswith Matrix Elimination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Introduction to Linear System"
+              "title": "2.Solving Linear Systemswith Matrix Elimination"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "3f3de7d17155017d",
   "lastOpenFiles": [
-    "Mathmatics/Linear Algebra/1.Matrices and Linear Equations/2.Solving Linear Systemswith Matrix Elimination.md",
     "Mathmatics/Linear Algebra/1.Matrices and Linear Equations/1.Introduction to Linear System.md",
+    "Mathmatics/Linear Algebra/1.Matrices and Linear Equations/2.Solving Linear Systemswith Matrix Elimination.md",
     "Mathmatics/Linear Algebra/1.Matrices and Linear Equations",
     "Mathmatics/Linear Algebra/6.Transformations and Decompositions.md",
     "Mathmatics/Linear Algebra/5.Eigenvalues and Eigenvectors.md",
