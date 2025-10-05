@@ -182,8 +182,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1f8bf7a0a955ba84",
+  "active": "6a5388248080b012",
   "lastOpenFiles": [
+    "Reinforcement Learning/images/BellmanOptimalityEquationsV.png",
+    "Reinforcement Learning/images/BellmanOptimalityEquationsQ.png",
+    "Reinforcement Learning/images/BellmanEquationV.png",
+    "Reinforcement Learning/images/BellmanEquationQ.png",
+    "Reinforcement Learning/images/interaction loop.png",
+    "Reinforcement Learning/images",
+    "Reinforcement Learning/assert",
+    "Reinforcement Learning/新建文件夹",
     "Pasted image 20251005100637.png",
     "Reinforcement Learning/Markov Decision Processes.md",
     "BellmanOptimalityEquationsQ.png",
@@ -208,8 +216,6 @@
     "Deep Learning",
     "README.md",
     "test.md",
-    "Machine Learning/README.md",
-    "Machine Learning",
-    "Mathmatics"
+    "Machine Learning/README.md"
   ]
 }
