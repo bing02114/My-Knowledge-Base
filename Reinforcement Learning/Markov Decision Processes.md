@@ -2,16 +2,18 @@
 #### 1.1 Formal Definition
 
 >A model for sequential decision making when outcomes are uncertain.
+>
 >Formally defined by the tuple (S,A,R,P)
 
->S: Set of **states** - all possible situations
->A: Set of **actions** - all possible decisions
->R(s,a,s'): **Reward function** - immediate feedback for transitions
->P(s'|s,a): **Transition probabilities** - how actions change states
+>* S: Set of **states** - all possible situations
+>* A: Set of **actions** - all possible decisions
+>* R(s,a,s'): **Reward function** - immediate feedback for transitions
+>* P(s'|s,a): **Transition probabilities** - how actions change states
 
 #### 1.2 The Markov Property
 
 >The future is independent of the past, given the present.
+>
 ><font color="Red">The next state only denpends on the current state and action, not the entire history</font>
 
 #### 1.3 The Agent-Environment Interaction Loop
@@ -97,12 +99,15 @@ $$
 **for State Values**
 
 ![](../Reinforcement%20Learning/images/BellmanEquationV.png)
->$$1.[r+\gamma V^{\pi}(s')]$$  `immediate reward r + the discounted value of the next state
->$$2.\sum_{s',r}P(s',r|s,a)[r+\gamma V^{\pi}(s')]$$  `This is action-value function`
->$$3.\sum_a\pi(a|s)$$  `Average over all possible actions the agent might take
+>$$1.[r+\gamma V^{\pi}(s')]$$
+>  `immediate reward r + the discounted value of the next state
+>$$2.\sum_{s',r}P(s',r|s,a)[r+\gamma V^{\pi}(s')]$$
+>  `This is action-value function`
+>$$3.\sum_a\pi(a|s)$$
+>  `Average over all possible actions the agent might take
 >
 >**The equation says**:
-> <font color="red">The value of a state `s` under policy `\pi` is the weighted average of the values of all actions you might take from `s`, where the weights are the probabilities of taking each action according to `\pi`</font>
+> <font color="red">The value of a state s under policy \pi is the weighted average of the values of all actions you might take from s, where the weights are the probabilities of taking each action according to \pi</font>
 
 **for Action Values**
 
