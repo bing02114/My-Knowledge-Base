@@ -96,7 +96,7 @@ $$
 
 **for State Values**
 
-![](Reinforcement%20Learning/images/BellmanEquationV.png)
+![](../Reinforcement%20Learning/images/BellmanEquationV.png)
 >$$1.[r+\gamma V^{\pi}(s')]$$  `immediate reward r + the discounted value of the next state
 >$$2.\sum_{s',r}P(s',r|s,a)[r+\gamma V^{\pi}(s')]$$  `This is action-value function`
 >$$3.\sum_a\pi(a|s)$$  `Average over all possible actions the agent might take
@@ -106,7 +106,7 @@ $$
 
 **for Action Values**
 
-![](Reinforcement%20Learning/images/BellmanEquationQ.png)
+![](../Reinforcement%20Learning/images/BellmanEquationQ.png)
 
 #### 4.3 Optimal Value Functions
 
@@ -123,8 +123,8 @@ $$
 
 **for State Values**
 
-![](Reinforcement%20Learning/images/BellmanOptimalityEquationsV.png)
+![](../Reinforcement%20Learning/images/BellmanOptimalityEquationsV.png)
 
 **for Action Values
 
-![](Reinforcement%20Learning/images/BellmanOptimalityEquationsQ.png)
+![](../Reinforcement%20Learning/images/BellmanOptimalityEquationsQ.png)
