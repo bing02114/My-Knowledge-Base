@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1.Basic Concepts"
             }
+          },
+          {
+            "id": "5ed0e0c81ad6a96e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f8bf7a0a955ba84",
+  "active": "5ed0e0c81ad6a96e",
   "lastOpenFiles": [
     "Mathmatics/Numerical Analysis/1.Basic Concepts.md",
     "conflict-files-obsidian-git.md",
