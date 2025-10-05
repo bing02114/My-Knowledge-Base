@@ -22,9 +22,9 @@
 #### 1.4 Types of MDPs
 
 > 1. Episodic: Tasks with a clear start and a terminal state, forming an "episode"
-> 	1. game of chess
+>
 > 2. Continuing: Tasks that have no terminal states and go on indefinitely
-> 	1. Stock trading
+
 
 ***
 ### 2. The Agent's Goal and Strategy
@@ -47,6 +47,7 @@ $$
 **Classification:**
 
 >Deterministic: $$a = \pi(s)$$
+>
 >Stochastic: 
 >$$a\sim \pi(a|s)$$
 
@@ -93,6 +94,7 @@ $$
 #### 4.1 The Recursive Relationship
 
 ><font color="Red">The value of a state can be defined in terms of the values of its successor states. </font>
+>
 ><font color="Red">This is the foundation for all RL algorithms</font>
 #### 4.2 Bellman Equation for a Policy
 
@@ -107,6 +109,7 @@ $$
 >  `Average over all possible actions the agent might take
 >
 >**The equation says**:
+>
 > <font color="red">The value of a state s under policy \pi is the weighted average of the values of all actions you might take from s, where the weights are the probabilities of taking each action according to \pi</font>
 
 **for Action Values**
