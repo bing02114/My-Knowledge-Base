@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +182,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6a5388248080b012",
+  "active": "1f8bf7a0a955ba84",
   "lastOpenFiles": [
-    "Programming Language/C++/STL-Algorithms.md",
+    "Pasted image 20251005100637.png",
     "Reinforcement Learning/Markov Decision Processes.md",
+    "BellmanOptimalityEquationsQ.png",
+    "BellmanOptimalityEquationsV.png",
+    "BellmanEquationQ.png",
+    "BellmanEquationV.png",
+    "interaction loop.png",
+    "Programming Language/C++/STL-Algorithms.md",
     "Reinforcement Learning/未命名",
     "Large Language Model",
     "Programming Language/C++/STL-Container.md",
