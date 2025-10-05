@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Basic Concepts.md",
+                "file": "Reinforcement Learning/Markov Decision Processes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Concepts"
+              "title": "Markov Decision Processes"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Basic Concepts.md",
+                "file": "Reinforcement Learning/Markov Decision Processes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Basic Concepts 的大纲"
+              "title": "Markov Decision Processes 的大纲"
             }
           },
           {
@@ -184,7 +184,7 @@
   "active": "6a5388248080b012",
   "lastOpenFiles": [
     "Programming Language/C++/STL-Algorithms.md",
-    "Reinforcement Learning/Basic Concepts.md",
+    "Reinforcement Learning/Markov Decision Processes.md",
     "Reinforcement Learning/未命名",
     "Large Language Model",
     "Programming Language/C++/STL-Container.md",
