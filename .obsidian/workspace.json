@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d5cf25b9bd968736",
+        "id": "262e0abfa923d4d6",
         "type": "tabs",
         "children": [
           {
-            "id": "6a5388248080b012",
+            "id": "00f189d76e23d18f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathmatics/Numerical Analysis/README.md",
+                "file": "Mathmatics/Numerical Analysis/1.Basic Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1.Basic Concepts"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -182,14 +183,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6a5388248080b012",
+  "active": "00f189d76e23d18f",
   "lastOpenFiles": [
+    "Mathmatics/Numerical Analysis/2.Analytical Solution of Linear Equations.md",
+    "Mathmatics/Numerical Analysis/README.md",
+    "Mathmatics/Numerical Analysis/1.Basic Concepts.md",
+    "Large Language Model/README.md",
+    "Machine Learning/README.md",
+    "Large Language Model/V.Applications & Evaluation",
+    "Large Language Model/IV.Model Classification & Evolution",
+    "Large Language Model/III.Key Technologies & Optimizations",
+    "Large Language Model/II.Core Archeitecutre-Transformer",
+    "Large Language Model/I.Fundamental Concepts",
     "Mathmatics/Numerical Analysis/5.Interpolation Methods.md",
     "Mathmatics/Numerical Analysis/4.Iterative Solutions for Nonlinear Equations.md",
-    "Mathmatics/Numerical Analysis/README.md",
     "Reinforcement Learning/Markov Decision Processes.md",
     "Reinforcement Learning/README.md",
-    "Large Language Model/README.md",
     "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/1.Orthogonality.md",
     "Mathmatics/Linear Algebra/images/projection.png",
     "Mathmatics/Linear Algebra/images",
@@ -206,28 +215,20 @@
     "Mathmatics/Linear Algebra/6.Transformations and Decompositions.md",
     "Mathmatics/Linear Algebra/5.Eigenvalues and Eigenvectors.md",
     "Mathmatics/Linear Algebra/1.Matrices and Linear Equations",
-    "Mathmatics/Linear Algebra",
     "BellmanEquationQ.png",
     "Reinforcement Learning/images/BellmanOptimalityEquationsV.png",
     "Reinforcement Learning/images/BellmanOptimalityEquationsQ.png",
     "Reinforcement Learning/images/BellmanEquationV.png",
     "Reinforcement Learning/images/BellmanEquationQ.png",
     "Reinforcement Learning/images/interaction loop.png",
-    "Reinforcement Learning/images",
-    "Reinforcement Learning/assert",
-    "Reinforcement Learning/新建文件夹",
     "Pasted image 20251005100637.png",
     "BellmanOptimalityEquationsQ.png",
     "BellmanOptimalityEquationsV.png",
     "Programming Language/C++/STL-Algorithms.md",
-    "Reinforcement Learning/未命名",
     "Programming Language/C++/STL-Container.md",
-    "Mathmatics/Numerical Analysis/1.Basic Concepts.md",
-    "Mathmatics/Numerical Analysis/2.Analytical Solution of Linear Equations.md",
     "Mathmatics/Numerical Analysis/3.Iterative Solutions for Systems of Linear Equations.md",
     "Mathmatics/README.md",
     "README.md",
-    "test.md",
-    "Machine Learning/README.md"
+    "test.md"
   ]
 }
