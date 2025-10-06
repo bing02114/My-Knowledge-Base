@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Large Language Model/README.md",
+                "file": "Mathmatics/Numerical Analysis/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 466.5
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -184,7 +184,11 @@
   },
   "active": "6a5388248080b012",
   "lastOpenFiles": [
+    "Mathmatics/Numerical Analysis/5.Interpolation Methods.md",
+    "Mathmatics/Numerical Analysis/4.Iterative Solutions for Nonlinear Equations.md",
+    "Mathmatics/Numerical Analysis/README.md",
     "Reinforcement Learning/Markov Decision Processes.md",
+    "Reinforcement Learning/README.md",
     "Large Language Model/README.md",
     "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/1.Orthogonality.md",
     "Mathmatics/Linear Algebra/images/projection.png",
@@ -219,8 +223,6 @@
     "Reinforcement Learning/未命名",
     "Programming Language/C++/STL-Container.md",
     "Mathmatics/Numerical Analysis/1.Basic Concepts.md",
-    "Mathmatics/Numerical Analysis/5.Interpolation Methods.md",
-    "Mathmatics/Numerical Analysis/4.Iterative Solutions for Nonlinear Equations.md",
     "Mathmatics/Numerical Analysis/2.Analytical Solution of Linear Equations.md",
     "Mathmatics/Numerical Analysis/3.Iterative Solutions for Systems of Linear Equations.md",
     "Mathmatics/README.md",
