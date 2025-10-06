@@ -32,7 +32,7 @@
 ##### 1. Environment Dynamics: The State Transition Probability
 $$P(s'|s,a) = P[S_{t+1}=s' | S_t=s, A_t=a]
 $$
->The probability of transitoning to state's given current state s and action a
+><font color="Red">The probability of transitoning to state's given current state s and action a</font>
 
 **Key Properties:**
 
