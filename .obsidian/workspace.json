@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/I.RNN.md",
+                "file": "Deep Learning/Loss Funcitons/Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I.RNN"
+              "title": "Regression"
             }
           }
         ]
@@ -182,10 +182,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1f8bf7a0a955ba84",
+  "active": "00f189d76e23d18f",
   "lastOpenFiles": [
+    "Deep Learning/Loss Funcitons/Classification.md",
+    "Deep Learning/Loss Funcitons/Regression.md",
+    "Deep Learning/Models/I.RNN.md",
+    "Deep Learning/Loss Funcitons/未命名",
+    "Deep Learning/Loss Funcitons",
+    "Deep Learning/Models",
+    "Deep Learning/images/RNN.png",
+    "Deep Learning/images",
+    "Deep Learning/新建文件夹",
+    "Mathmatics/Linear Algebra/1.Matrices and Linear Equations/1.Introduction to Linear System.md",
     "Large Language Model/II.Core Archeitecutre-Transformer/II.Core Component-Attention Mechanism.md",
-    "Deep Learning/I.RNN.md",
     "Large Language Model/README.md",
     "Machine Learning/2.Linear Models/I.Evaluation.md",
     "Machine Learning/1.Model Evaluation and Selection/III.Performance Metrics.md",
@@ -202,11 +211,6 @@
     "Machine Learning/8.Clustering Algorithm",
     "Machine Learning/7.Ensemble Learning",
     "Machine Learning/6.Bayesian Classifiers",
-    "Machine Learning/5.Support Vector Machine",
-    "Machine Learning/4.Neural Networks",
-    "Machine Learning/3.Decision Tree",
-    "Machine Learning/2.Linear Models",
-    "Machine Learning/1.Model Evaluation and Selection",
     "Mathmatics/Numerical Analysis/1.Basic Concepts.md",
     "Mathmatics/Numerical Analysis/2.Analytical Solution of Linear Equations.md",
     "Mathmatics/Numerical Analysis/README.md",
@@ -218,9 +222,6 @@
     "Mathmatics/Linear Algebra/2.Vector Space/2.Independence, Basis, and Dimension.md",
     "Mathmatics/Linear Algebra/2.Vector Space/1.The Four Fundamental Subspaces.md",
     "Mathmatics/Linear Algebra/1.Matrices and Linear Equations/2.Solving Linear Systemswith Matrix Elimination.md",
-    "Mathmatics/Linear Algebra/1.Matrices and Linear Equations/1.Introduction to Linear System.md",
-    "Mathmatics/Linear Algebra/4.Determinants.md",
-    "Mathmatics/Linear Algebra/2.Vector Space/3.Rank and Matrix Spaces.md",
     "BellmanEquationQ.png",
     "Reinforcement Learning/images/BellmanOptimalityEquationsV.png",
     "Reinforcement Learning/images/BellmanOptimalityEquationsQ.png",
@@ -228,7 +229,6 @@
     "Reinforcement Learning/images/BellmanEquationQ.png",
     "Reinforcement Learning/images/interaction loop.png",
     "Pasted image 20251005100637.png",
-    "BellmanOptimalityEquationsQ.png",
-    "BellmanOptimalityEquationsV.png"
+    "BellmanOptimalityEquationsQ.png"
   ]
 }
