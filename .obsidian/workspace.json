@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "262e0abfa923d4d6",
+        "id": "465fea150f5a6db4",
         "type": "tabs",
         "children": [
           {
-            "id": "00f189d76e23d18f",
+            "id": "a144bb6a3c65ceb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning/Activation Funcitons/Activation Functions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Activation Functions"
+              "title": "新标签页"
             }
           }
         ]
@@ -182,13 +178,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "00f189d76e23d18f",
+  "active": "1f8bf7a0a955ba84",
   "lastOpenFiles": [
+    "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/2.Least Squares Approximations.md",
+    "Mathmatics/Numerical Analysis/README.md",
+    "Mathmatics/Numerical Analysis/5.Interpolation Methods.md",
     "Mathmatics/Numerical Analysis/4.Iterative Solutions for Nonlinear Equations.md",
-    "Deep Learning/Activation Funcitons/Activation Functions.md",
-    "Deep Learning/Activation Funcitons",
     "Mathmatics/Numerical Analysis/3.Iterative Solutions for Systems of Linear Equations.md",
     "Mathmatics/Numerical Analysis/2.Analytical Solution of Linear Equations.md",
+    "Mathmatics/Numerical Analysis/1.Basic Concepts.md",
+    "Deep Learning/Activation Funcitons/Activation Functions.md",
+    "Deep Learning/Activation Funcitons",
     "Deep Learning/Loss Funcitons/Regression.md",
     "Deep Learning/Loss Funcitons/Classification.md",
     "Deep Learning/Models/I.RNN.md",
@@ -215,12 +215,8 @@
     "Machine Learning/9.Dimensionality Reduciton and Metric Learning",
     "Machine Learning/8.Clustering Algorithm",
     "Machine Learning/7.Ensemble Learning",
-    "Mathmatics/Numerical Analysis/1.Basic Concepts.md",
-    "Mathmatics/Numerical Analysis/README.md",
-    "Mathmatics/Numerical Analysis/5.Interpolation Methods.md",
     "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/1.Orthogonality.md",
     "Mathmatics/Linear Algebra/images/projection.png",
-    "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/2.Least Squares Approximations.md",
     "Mathmatics/Linear Algebra/2.Vector Space/2.Independence, Basis, and Dimension.md",
     "BellmanEquationQ.png",
     "Reinforcement Learning/images/BellmanOptimalityEquationsV.png",
