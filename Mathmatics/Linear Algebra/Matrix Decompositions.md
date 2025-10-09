@@ -3,16 +3,16 @@
 [2.Solving Linear Systems with Matrix Elimination](./1.Matrices%20and%20Linear%20Equations/2.Solving%20Linear%20Systems%20with%20Matrix%20Elimination.md)
 ### 2. A=QR - Gram-Schmidt Orthonormalization
 
-[1.Orthogonality](Mathmatics/Linear%20Algebra/3.Orthogonality%20and%20Its%20Applications/1.Orthogonality.md)
+[1.Orthogonality](./3.Orthogonality%20and%20Its%20Applications/1.Orthogonality.md)
 ### 3. A=PDP^-1 - Spectral Decomposition
 
-[1.Introduction to Eigenvalues and Eigenvectors](Mathmatics/Linear%20Algebra/5.Eigenvalues%20and%20Eigenvectors/1.Introduction%20to%20Eigenvalues%20and%20Eigenvectors.md)
+[1.Introduction to Eigenvalues and Eigenvectors](./5.Eigenvalues%20and%20Eigenvectors/1.Introduction%20to%20Eigenvalues%20and%20Eigenvectors.md)
 
-[2.Special Matrices and Their Properties](Mathmatics/Linear%20Algebra/5.Eigenvalues%20and%20Eigenvectors/2.Special%20Matrices%20and%20Their%20Properties.md)
+[2.Special Matrices and Their Properties](./5.Eigenvalues%20and%20Eigenvectors/2.Special%20Matrices%20and%20Their%20Properties.md)
 
 ### 4. A=U∑V^T  - Singular Value Decomposition
 
-[2.Signular Value Decomposition](Mathmatics/Linear%20Algebra/6.Transformations%20and%20Decompositions/2.Signular%20Value%20Decomposition.md)
+[2.Signular Value Decomposition](./6.Transformations%20and%20Decompositions/2.Signular%20Value%20Decomposition.md)
 ### 5. A=LL^T - Cholesky Decomposition
 
 **The Formula**
