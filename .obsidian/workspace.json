@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathmatics/Linear Algebra/Matrix Decompositions.md",
+                "file": "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/2.Projection Matrices & Least Squares Approximations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix Decompositions"
+              "title": "2.Projection Matrices & Least Squares Approximations"
             }
           }
         ]
@@ -184,11 +184,15 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
-    "Mathmatics/Linear Algebra/Spatial Meaning of Special Matrices.md",
+    "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/1.Orthogonality.md",
+    "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/2.Projection Matrices & Least Squares Approximations.md",
+    "Mathmatics/Linear Algebra/4.Determinant/1.Determinants.md",
+    "Mathmatics/Linear Algebra/5.Eigenvalues and Eigenvectors/1.Introduction to Eigenvalues and Eigenvectors.md",
+    "Mathmatics/Linear Algebra/5.Eigenvalues and Eigenvectors/2.Special Matrices and Their Properties.md",
+    "Mathmatics/Linear Algebra/6.Transformations and Decompositions/1.Linear Transformations.md",
     "Mathmatics/Linear Algebra/6.Transformations and Decompositions/2.Signular Value Decomposition.md",
     "Mathmatics/Linear Algebra/Matrix Decompositions.md",
-    "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/1.Orthogonality.md",
-    "Mathmatics/Linear Algebra/5.Eigenvalues and Eigenvectors/2.Special Matrices and Their Properties.md",
+    "Mathmatics/Linear Algebra/Spatial Meaning of Special Matrices.md",
     "Mathmatics/Linear Algebra/images/JordanForm.png",
     "1.Matrices and Linear Equations/2.Solving Linear Systems with Matrix Elimination.md",
     "1.Matrices and Linear Equations",
@@ -196,13 +200,9 @@
     "1.Matrices.md",
     "Mathmatics/Linear.md",
     "Mathmatics/Linear Algebra/images/EquationOfCholesky.png",
-    "Mathmatics/Linear Algebra/5.Eigenvalues and Eigenvectors/1.Introduction to Eigenvalues and Eigenvectors.md",
     "Mathmatics/Linear Algebra/2.Vector Space/2.Independence, Basis, and Dimension.md",
-    "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/2.Projection Matrices & Least Squares Approximations.md",
     "Mathmatics/Linear Algebra/1.Matrices and Linear Equations/1.Introduction to Linear System.md",
-    "Mathmatics/Linear Algebra/4.Determinant/1.Determinants.md",
     "Mathmatics/Linear Algebra/2.Vector Space/1.The Four Fundamental Subspaces.md",
-    "Mathmatics/Linear Algebra/6.Transformations and Decompositions/1.Linear Transformations.md",
     "README.md",
     "Mathmatics/Linear Algebra/images/SVD.jpg",
     "Mathmatics/Linear Algebra/images/positive.png",
