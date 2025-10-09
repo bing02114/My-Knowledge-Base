@@ -1,6 +1,6 @@
 ### 1. A=LU - Gaussian Limination
 
-[2.Solving Linear Systemswith Matrix Elimination](Mathmatics/Linear%20Algebra/1.Matrices%20and%20Linear%20Equations/2.Solving%20Linear%20Systemswith%20Matrix%20Elimination.md)
+[2.Solving Linear Systems with Matrix Elimination](Mathmatics/Linear%20Algebra/1.Matrices%20and%20Linear%20Equations/2.Solving%20Linear%20Systems%20with%20Matrix%20Elimination.md)
 ### 2. A=QR - Gram-Schmidt Orthonormalization
 
 [1.Orthogonality](1.Orthogonality.md)
