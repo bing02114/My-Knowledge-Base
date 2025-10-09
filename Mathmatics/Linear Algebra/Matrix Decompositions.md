@@ -25,7 +25,7 @@ $$A=LL^{T}$$
 
 **The Algorithm**
 
-![](EquationOfCholesky.png)
+![](./images/EquationOfCholesky.png)
 
 >**By solving element by element, from top-left to bottom-right**
 
