@@ -2,5 +2,6 @@
   "promptDelete": false,
   "useMarkdownLinks": true,
   "strictLineBreaks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute"
 }

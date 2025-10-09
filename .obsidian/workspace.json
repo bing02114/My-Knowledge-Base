@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -185,16 +184,16 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Mathmatics/Linear Algebra/1.Matrices and Linear Equations/2.Solving Linear Systemswith Matrix Elimination.md",
+    "Mathmatics/Linear Algebra/Matrix Decompositions.md",
+    "Mathmatics/Linear Algebra/Spatial Meaning of Special Matrices.md",
     "Mathmatics/Linear Algebra/images/EquationOfCholesky.png",
     "Mathmatics/Linear Algebra/5.Eigenvalues and Eigenvectors/1.Introduction to Eigenvalues and Eigenvectors.md",
     "Mathmatics/Linear Algebra/5.Eigenvalues and Eigenvectors/2.Special Matrices and Their Properties.md",
-    "Mathmatics/Linear Algebra/Matrix Decompositions.md",
     "Mathmatics/Linear Algebra/2.Vector Space/2.Independence, Basis, and Dimension.md",
     "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/2.Projection Matrices & Least Squares Approximations.md",
     "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/1.Orthogonality.md",
-    "Mathmatics/Linear Algebra/1.Matrices and Linear Equations/2.Solving Linear Systemswith Matrix Elimination.md",
     "Mathmatics/Linear Algebra/1.Matrices and Linear Equations/1.Introduction to Linear System.md",
-    "Mathmatics/Linear Algebra/Spatial Meaning of Special Matrices.md",
     "Mathmatics/Linear Algebra/6.Transformations and Decompositions/2.Signular Value Decomposition.md",
     "Mathmatics/Linear Algebra/4.Determinant/1.Determinants.md",
     "Mathmatics/Linear Algebra/2.Vector Space/1.The Four Fundamental Subspaces.md",
@@ -229,7 +228,6 @@
     "Reinforcement Learning/images/BellmanOptimalityEquationsV.png",
     "Reinforcement Learning/images/BellmanOptimalityEquationsQ.png",
     "Reinforcement Learning/images/BellmanEquationV.png",
-    "Reinforcement Learning/images/BellmanEquationQ.png",
-    "Reinforcement Learning/images/interaction loop.png"
+    "Reinforcement Learning/images/BellmanEquationQ.png"
   ]
 }
