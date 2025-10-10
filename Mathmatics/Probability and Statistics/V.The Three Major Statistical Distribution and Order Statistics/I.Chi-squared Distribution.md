@@ -15,7 +15,7 @@ One can observe the relationship between the chi-squared distribution with n deg
 
 $$X = \sum_{i=1}^{n} X_i^2 \sim \Gamma(\frac{n}{2}, \frac{1}{2})$$
 
-![](Mathmatics/Probability%20and%20Statistics/images/chisquared.png)
+![](../images/chisquared.png)
 
 ### 3.Properties
 
