@@ -57,13 +57,7 @@ $$f(x)=max(0,x)$$
 
 ### 4.Leaky ReLU
 
-$$ 
-f(x)=\left\{
-\begin{matrix}
- x & {if~x>0}\\
- ax & \text{otherwise}
-\end{matrix} 
-\right.
+$$f(x) = \max(\alpha x, x)
 $$
 
 **Properties**
