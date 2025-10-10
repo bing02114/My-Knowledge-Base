@@ -57,7 +57,8 @@ $$f(x)=max(0,x)$$
 
 ### 4.Leaky ReLU
 
-$$ f(x)=\left\{
+$$ 
+f(x)=\left\{
 \begin{matrix}
  x & if~x>0\\
  ax & otherwise
