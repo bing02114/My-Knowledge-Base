@@ -21,7 +21,7 @@ Standard LLMs have several limitations that RAG aims to address:
 
 ---
 
-### **3. How RAG Works: The Core Workflow 
+### 3. How RAG Works: The Core Workflow 
 
 The RAG process can be broken down into two main phases: **Retrieval** and **Generation**. 
 
@@ -44,7 +44,7 @@ The RAG process can be broken down into two main phases: **Retrieval** and **Gen
 
 ---
 
-### **4. Core Components of a RAG System 
+### 4. Core Components of a RAG System 
 
 - **Knowledge Base**: This is the external data source (e.g., PDFs, documents, websites, databases). The data is typically pre-processed by splitting it into smaller, manageable chunks. 
     
