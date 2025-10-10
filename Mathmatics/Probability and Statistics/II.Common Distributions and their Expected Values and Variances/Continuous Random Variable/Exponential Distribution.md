@@ -22,6 +22,7 @@
 ### III.Mean and Variance
 
 **Mean**
+
 $$E(T)=\frac{1}{\lambda}$$
 
 **Variance**

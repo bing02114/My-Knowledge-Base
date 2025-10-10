@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/2.Projection Matrices & Least Squares Approximations.md",
+                "file": "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/Exponential Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.Projection Matrices & Least Squares Approximations"
+              "title": "Exponential Distribution"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
-    "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/1.Orthogonality.md",
+    "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Discrete Random Variable/Poisson Distribution.md",
     "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/2.Projection Matrices & Least Squares Approximations.md",
+    "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/1.Orthogonality.md",
     "Mathmatics/Linear Algebra/4.Determinant/1.Determinants.md",
     "Mathmatics/Linear Algebra/5.Eigenvalues and Eigenvectors/1.Introduction to Eigenvalues and Eigenvectors.md",
     "Mathmatics/Linear Algebra/5.Eigenvalues and Eigenvectors/2.Special Matrices and Their Properties.md",
