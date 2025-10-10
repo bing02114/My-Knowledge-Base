@@ -15,6 +15,7 @@
 
 ### 3.Independence
 
->Let X,Y have marginal probability densities $$f_{X}(x)$$$$f_{Y}(y)$$
+>Let X,Y have marginal probability densities $$f_{X}(x)$$
+>$$f_{Y}(y)$$
 >The necessary and sufficient condition for X,Y to be mutually independent
 
