@@ -60,8 +60,8 @@ $$f(x)=max(0,x)$$
 $$ 
 f(x)=\left\{
 \begin{matrix}
- x & if~x>0\\
- ax & otherwise
+ x & {if~x>0}\\
+ ax & \text{otherwise}
 \end{matrix} 
 \right.
 $$
