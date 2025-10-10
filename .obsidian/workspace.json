@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Large Language Model/V.Applications & Evaluation/RAG.md",
+                "file": "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/I.Chi-squared Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAG"
+              "title": "I.Chi-squared Distribution"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -184,34 +185,40 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Mathmatics/Probability and Statistics/images/chisquared.png",
+    "Mathmatics/Probability and Statistics/images",
+    "Mathmatics/Probability and Statistics/新建文件夹",
+    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/V.Law of Large Numbers and Central Limit Theorem.md",
+    "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/I.Chi-squared Distribution.md",
+    "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics",
+    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/IV.Covariance and Correlation Coefficient.md",
+    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/III.Moments.md",
+    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/IV.Covariance and Correlation Coefficient",
+    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/II.Variance.md",
+    "Pasted image 20251010194131.png",
+    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/I.Expected Value.md",
+    "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions/III.Distribution and Density Functions of Functions of Random Vectors.md",
+    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables",
+    "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions/II.Density Function.md",
+    "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/I.Normal Distribution.md",
+    "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions/I.Distribution Function.md",
+    "Large Language Model/V.Applications & Evaluation/RAG.md",
     "Large Language Model/III.Key Technologies & Optimizations/Alignment/Reinforcement Learning from Human Feedback (RLHF).md",
     "Deep Learning/Activation Funcitons/Activation Functions.md",
     "Deep Learning/Loss Funcitons/Classification.md",
     "Deep Learning/Loss Funcitons/Regression.md",
     "README.md",
     "Mathmatics/Linear Algebra/6.Transformations and Decompositions/2.Signular Value Decomposition.md",
-    "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions/II.Density Function.md",
-    "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions/I.Distribution Function.md",
     "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/VI.Lognormal Distribution.md",
     "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions",
     "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/IV.Uniform Distribution.md",
     "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/V.Gamma Distribution.md",
     "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/III.Weibull Distribution.md",
     "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/II.Exponential Distribution.md",
-    "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/I.Normal Distribution.md",
     "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Discrete Random Variable/V.Geometric Distribution.md",
     "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Discrete Random Variable/IV.Hypergeometric Distribution.md",
     "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Discrete Random Variable/III.Poisson Distribution.md",
-    "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Discrete Random Variable/II.Binomial Distribution.md",
-    "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Discrete Random Variable/I.Bernoulli Distribution.md",
-    "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Probability Density Function.md",
-    "Mathmatics/Probability and Statistics/I.Basic Concepts/Basic Concepts.md",
     "Mathmatics/Probability and Statistics/I.Basic Concepts",
-    "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/2.Projection Matrices & Least Squares Approximations.md",
-    "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/1.Orthogonality.md",
-    "Mathmatics/Linear Algebra/4.Determinant/1.Determinants.md",
-    "Mathmatics/Linear Algebra/5.Eigenvalues and Eigenvectors/1.Introduction to Eigenvalues and Eigenvectors.md",
-    "Mathmatics/Linear Algebra/5.Eigenvalues and Eigenvectors/2.Special Matrices and Their Properties.md",
     "Mathmatics/Linear Algebra/images/JordanForm.png",
     "1.Matrices and Linear Equations",
     "Mathmatics/Linear Algebra/images/EquationOfCholesky.png",
@@ -219,16 +226,10 @@
     "Mathmatics/Linear Algebra/images/positive.png",
     "Mathmatics/Linear Algebra/Decompositions",
     "Mathmatics/Linear Algebra/Spatial Meaning of Special Matrices",
-    "Mathmatics/Linear Algebra/6.Transformations and Decompositions",
-    "Mathmatics/Linear Algebra/5.Eigenvalues and Eigenvectors",
-    "Mathmatics/Linear Algebra/4.Determinant",
-    "Deep Learning/Activation Funcitons",
-    "Deep Learning/Loss Funcitons/未命名",
     "Deep Learning/images/RNN.png",
     "Mathmatics/Linear Algebra/images/projection.png",
     "BellmanEquationQ.png",
     "Reinforcement Learning/images/BellmanOptimalityEquationsV.png",
-    "Reinforcement Learning/images/BellmanOptimalityEquationsQ.png",
-    "Reinforcement Learning/images/BellmanEquationV.png"
+    "Reinforcement Learning/images/BellmanOptimalityEquationsQ.png"
   ]
 }
