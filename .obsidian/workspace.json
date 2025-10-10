@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/Exponential Distribution.md",
+                "file": "Mathmatics/Probability and Statistics/I.Basic Concepts/Basic Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exponential Distribution"
+              "title": "Basic Concepts"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -184,6 +185,9 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/Exponential Distribution.md",
+    "Mathmatics/Probability and Statistics/I.Basic Concepts/Basic Concepts.md",
+    "Mathmatics/Probability and Statistics/I.Basic Concepts",
     "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Discrete Random Variable/Poisson Distribution.md",
     "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/2.Projection Matrices & Least Squares Approximations.md",
     "Mathmatics/Linear Algebra/3.Orthogonality and Its Applications/1.Orthogonality.md",
@@ -218,12 +222,9 @@
     "Mathmatics/Numerical Analysis/5.Interpolation Methods.md",
     "Mathmatics/Numerical Analysis/4.Iterative Solutions for Nonlinear Equations.md",
     "Mathmatics/Numerical Analysis/3.Iterative Solutions for Systems of Linear Equations.md",
-    "Mathmatics/Numerical Analysis/2.Analytical Solution of Linear Equations.md",
-    "Mathmatics/Numerical Analysis/1.Basic Concepts.md",
     "Deep Learning/Activation Funcitons",
     "Deep Learning/Loss Funcitons/未命名",
     "Deep Learning/Loss Funcitons",
-    "Deep Learning/Models",
     "Deep Learning/images/RNN.png",
     "Mathmatics/Linear Algebra/images/projection.png",
     "BellmanEquationQ.png",
