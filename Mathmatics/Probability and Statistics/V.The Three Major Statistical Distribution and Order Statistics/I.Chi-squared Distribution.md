@@ -19,5 +19,9 @@ $$X = \sum_{i=1}^{n} X_i^2 \sim \Gamma(\frac{n}{2}, \frac{1}{2})$$
 
 ### 3.Properties
 
-
+* Expectation: $E(\chi_n^2)=n$
+* Variance: $Var(\chi_n^2)=2n$
+* Additive Property: If $X \sim \chi_{n_1}^2, Y \sim \chi_{n_2}^2$, and X, Y are independent, then $$X+Y \sim \chi_{n_1+n_2}^2$$
 ### 4.Upper α-Quantile
+
+>If $X \sim \chi_n^2$, and we set $P(X > c) = \alpha$, then c, denoted as $\chi_\alpha^2(n)$, is called the upper α-quantile of the $\chi_n^2$​ distribution.
