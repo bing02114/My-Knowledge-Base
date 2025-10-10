@@ -36,4 +36,7 @@ Let $X_1, \dots, X_m$ be i.i.d. from $N(\mu_1, \sigma_1^2)$ and $Y_1, \dots, Y_n
 >$S_w = \sqrt{\frac{(m-1)S_1^2 + (n-1)S_2^2}{n+m-2}}$
 
 
+Let $X_1, \dots, X_m$ be i.i.d. from $N(\mu_1, \sigma_1^2)$ and $Y_1, \dots, Y_n$ be i.i.d. from $N(\mu_2, \sigma_2^2)$, and the two samples are independent. Then (F-statistic):
+
+$$F = \frac{S_1^2 / \sigma_1^2}{S_2^2 / \sigma_2^2} \sim F(m-1, n-1)$$
 
