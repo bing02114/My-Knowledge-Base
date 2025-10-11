@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/V.Distribution of Sample Mean and Sample Variance from a Normal Population.md",
+                "file": "Mathmatics/Probability and Statistics/VI.Parameter Estimation/III.Interval Estimation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "V.Distribution of Sample Mean and Sample Variance from a Normal Population"
+              "title": "III.Interval Estimation"
             }
           }
         ]
@@ -184,8 +184,12 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
-    "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/IV.Order Statistics.md",
+    "Mathmatics/Probability and Statistics/VI.Parameter Estimation/I.Estimatation.md",
+    "Mathmatics/Probability and Statistics/VI.Parameter Estimation/II.Point Estimation.md",
+    "Mathmatics/Probability and Statistics/VI.Parameter Estimation/III.Interval Estimation.md",
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/V.Distribution of Sample Mean and Sample Variance from a Normal Population.md",
+    "Mathmatics/Probability and Statistics/VI.Parameter Estimation",
+    "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/IV.Order Statistics.md",
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/III.F-Distribution.md",
     "Mathmatics/Probability and Statistics/images/F.png",
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/I.Chi-squared Distribution.md",
@@ -217,9 +221,6 @@
     "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/VI.Lognormal Distribution.md",
     "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions",
     "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/IV.Uniform Distribution.md",
-    "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/V.Gamma Distribution.md",
-    "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/III.Weibull Distribution.md",
-    "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/II.Exponential Distribution.md",
     "Mathmatics/Probability and Statistics/I.Basic Concepts",
     "Mathmatics/Linear Algebra/images/JordanForm.png",
     "1.Matrices and Linear Equations",
@@ -227,7 +228,6 @@
     "Mathmatics/Linear Algebra/images/SVD.jpg",
     "Mathmatics/Linear Algebra/images/positive.png",
     "Mathmatics/Linear Algebra/Decompositions",
-    "Mathmatics/Linear Algebra/Spatial Meaning of Special Matrices",
     "Deep Learning/images/RNN.png",
     "Mathmatics/Linear Algebra/images/projection.png"
   ]
