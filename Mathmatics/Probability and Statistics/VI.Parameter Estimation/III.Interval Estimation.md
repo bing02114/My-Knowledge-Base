@@ -156,7 +156,7 @@ Let $\overline{X_n}$​ and $\overline{Y_m}$​ be the sample means of {$X_i$​
         
     - **Formula:**  
 	    
-	    $[(\bar{X}_n - \bar{Y}_m) - z_{\frac{\alpha}{2}}\sqrt{\frac{\sigma_1^2}{n} + \frac{\sigma_2^2}{m}}, (\bar{X}_n - \bar{Y}_m) + z_{\frac{\alpha}{2}}\sqrt{\frac{\sigma_1^2}{n} + \frac{\sigma_2^2}{m}}]$
+	    $[(\bar{X}_{n} - \bar{Y}_{m}) - z_{\frac{\alpha}{2}}\sqrt{\frac{\sigma_1^2}{n} + \frac{\sigma_2^2}{m}}, (\bar{X}_{n} - \bar{Y}_{m}) + z_{\frac{\alpha}{2}}\sqrt{\frac{\sigma_1^2}{n} + \frac{\sigma_2^2}{m}}]$
         
 - **One-Sided Upper Confidence Limit:**
     
