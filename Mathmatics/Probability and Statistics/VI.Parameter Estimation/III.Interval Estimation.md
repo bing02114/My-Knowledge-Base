@@ -102,7 +102,7 @@ $$P(\omega_{1-\alpha/2} \le S(T, g(\theta)) \le \omega_{\alpha/2}) = 1-\alpha$$
     
     - Given that μ is unknown, find the two-sided confidence interval for σ² with a confidence level of 1−α.
         
-- **Pivot Quantity (枢轴量):**
+- **Pivot Quantity:**
     
     - The pivot quantity is:
         
