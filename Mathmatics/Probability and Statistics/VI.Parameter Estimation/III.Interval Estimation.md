@@ -162,13 +162,15 @@ Let $\overline{X_n}$​ and $\overline{Y_m}$​ be the sample means of {$X_i$​
     
     - The one-sided upper confidence limit is:
         
-    - **Formula:**  $$(\bar{X}_n - \bar{Y}_m) + z_{\alpha}\sqrt{\frac{\sigma_1^2}{n} + \frac{\sigma_2^2}{m}}$$
+    - **Formula:**   
+	    $$(\bar{X}_n - \bar{Y}_m) + z_{\alpha}\sqrt{\frac{\sigma_1^2}{n} + \frac{\sigma_2^2}{m}}$$
         
 - **One-Sided Lower Confidence Limit:**
     
     - The one-sided lower confidence limit is:
         
-    - **Formula:** $$(\bar{X}_n - \bar{Y}_m) - z_{\alpha}\sqrt{\frac{\sigma_1^2}{n} + \frac{\sigma_2^2}{m}}$$
+    - **Formula:**  
+	    $$(\bar{X}_n - \bar{Y}_m) - z_{\alpha}\sqrt{\frac{\sigma_1^2}{n} + \frac{\sigma_2^2}{m}}$$
 
 #### 4.3 Confidence Interval for $μ1​−μ2$​ (with $σ12​,σ22$​ unknown, but $σ12​=σ22​=σ2$)
 
@@ -188,7 +190,8 @@ Let $\overline{X_n}$​ and $\overline{Y_m}$​ be the sample means of {$X_i$​
     
     - **EN:** The two-sided confidence interval for μ1​−μ2​ is:
         
-    - **Formula:** $$[(\bar{X}_n - \bar{Y}_m) - t_{\frac{\alpha}{2}}(n+m-2)S_w\sqrt{\frac{1}{n}+\frac{1}{m}}, (\bar{X}_n - \bar{Y}_m) + t_{\frac{\alpha}{2}}(n+m-2)S_w\sqrt{\frac{1}{n}+\frac{1}{m}}]$$
+    - **Formula:**  
+	    $$[(\bar{X}_n - \bar{Y}_m) - t_{\frac{\alpha}{2}}(n+m-2)S_w\sqrt{\frac{1}{n}+\frac{1}{m}}, (\bar{X}_n - \bar{Y}_m) + t_{\frac{\alpha}{2}}(n+m-2)S_w\sqrt{\frac{1}{n}+\frac{1}{m}}]$$
         
 
 #### 4.4 Confidence Interval for $μ1​−μ2$​ (with $σ12​,σ22​ $unknown, but $σ12​/σ22​=b2$ known)
@@ -209,7 +212,9 @@ Let $\overline{X_n}$​ and $\overline{Y_m}$​ be the sample means of {$X_i$​
     
     - The two-sided confidence interval for μ1​−μ2​ is:
         
-    - **Formula:** $$[(\bar{X}_n - \bar{Y}_m) - t_{\frac{\alpha}{2}}(n+m-2)S_b\sqrt{\frac{b^2}{n}+\frac{1}{m}}, (\bar{X}_n - \bar{Y}_m) + t_{\frac{\alpha}{2}}(n+m-2)S_b\sqrt{\frac{b^2}{n}+\frac{1}{m}}]$$
+    - **Formula:** 
+	    
+	    $$[(\bar{X}_n - \bar{Y}_m) - t_{\frac{\alpha}{2}}(n+m-2)S_b\sqrt{\frac{b^2}{n}+\frac{1}{m}}, (\bar{X}_n - \bar{Y}_m) + t_{\frac{\alpha}{2}}(n+m-2)S_b\sqrt{\frac{b^2}{n}+\frac{1}{m}}]$$
 
 #### 4.5 Confidence Interval for the Ratio of Variances $\frac{\sigma^2_2}{\sigma^2_1}$
 
