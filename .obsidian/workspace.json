@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -184,9 +185,11 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Mathmatics/Probability and Statistics/VII.Hypothesis Testing/I.Tests for the Mean and Variance of a Single Normal Population.md",
+    "Mathmatics/Probability and Statistics/VI.Parameter Estimation/III.Interval Estimation.md",
+    "Mathmatics/Probability and Statistics/VII.Hypothesis Testing",
     "Mathmatics/Probability and Statistics/VI.Parameter Estimation/I.Estimatation.md",
     "Mathmatics/Probability and Statistics/VI.Parameter Estimation/II.Point Estimation.md",
-    "Mathmatics/Probability and Statistics/VI.Parameter Estimation/III.Interval Estimation.md",
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/V.Distribution of Sample Mean and Sample Variance from a Normal Population.md",
     "Mathmatics/Probability and Statistics/VI.Parameter Estimation",
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/IV.Order Statistics.md",
@@ -220,14 +223,12 @@
     "Mathmatics/Linear Algebra/6.Transformations and Decompositions/2.Signular Value Decomposition.md",
     "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/VI.Lognormal Distribution.md",
     "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions",
-    "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/IV.Uniform Distribution.md",
     "Mathmatics/Probability and Statistics/I.Basic Concepts",
     "Mathmatics/Linear Algebra/images/JordanForm.png",
     "1.Matrices and Linear Equations",
     "Mathmatics/Linear Algebra/images/EquationOfCholesky.png",
     "Mathmatics/Linear Algebra/images/SVD.jpg",
     "Mathmatics/Linear Algebra/images/positive.png",
-    "Mathmatics/Linear Algebra/Decompositions",
     "Deep Learning/images/RNN.png",
     "Mathmatics/Linear Algebra/images/projection.png"
   ]
