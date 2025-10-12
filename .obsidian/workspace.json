@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Computer Vision/III.Image Filtering/III.Specific and Advanced Filter Types.md",
+                "file": "Courses/Scalable Systems and Data/IV.Outline of Indexes for Main Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "III.Specific and Advanced Filter Types"
+              "title": "IV.Outline of Indexes for Main Memory"
             }
           }
         ]
@@ -184,8 +184,18 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
-    "Courses/Computer Vision/III.Image Filtering/II.Convolution and convolution mask.md",
+    "Courses/Scalable Systems and Data/III.Database Storage Layer.md",
+    "Courses/Scalable Systems and Data/IV.Outline of Indexes for Main Memory.md",
+    "Courses/Scalable Systems and Data/images/AnatomyofDisk.png",
+    "Courses/Scalable Systems and Data/images/StorageHierarchy.png",
+    "Courses/Scalable Systems and Data/images/searchengine.png",
+    "Courses/Scalable Systems and Data/images/DBMSLayer.png",
+    "Courses/Scalable Systems and Data/images/屏幕截图 2025-10-12 182530.png",
+    "Courses/Scalable Systems and Data/images",
+    "Courses/Scalable Systems and Data/新建文件夹",
     "Courses/Computer Vision/III.Image Filtering/III.Specific and Advanced Filter Types.md",
+    "Courses/Scalable Systems and Data",
+    "Courses/Computer Vision/III.Image Filtering/II.Convolution and convolution mask.md",
     "Courses/Computer Vision/III.Image Filtering/I.Image Filtering.md",
     "Courses/Computer Vision/III.Image Filtering/IV.Structure adaptive filtering.md",
     "Courses/Machine Learning Systems and Hardware/I.OperatorAnalysis/FLOPs.md",
@@ -205,7 +215,6 @@
     "Mathmatics/Probability and Statistics/VI.Parameter Estimation/I.Estimatation.md",
     "Mathmatics/Probability and Statistics/VI.Parameter Estimation/II.Point Estimation.md",
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/V.Distribution of Sample Mean and Sample Variance from a Normal Population.md",
-    "Mathmatics/Probability and Statistics/VI.Parameter Estimation",
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/IV.Order Statistics.md",
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/III.F-Distribution.md",
     "Mathmatics/Probability and Statistics/images/F.png",
@@ -213,8 +222,6 @@
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/II.t-Distribution.md",
     "Mathmatics/Probability and Statistics/images/t.png",
     "Mathmatics/Probability and Statistics/images/chisquared.png",
-    "Mathmatics/Probability and Statistics/images",
-    "Mathmatics/Probability and Statistics/新建文件夹",
     "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/V.Law of Large Numbers and Central Limit Theorem.md",
     "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/IV.Covariance and Correlation Coefficient.md",
     "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/III.Moments.md",
@@ -222,13 +229,6 @@
     "Pasted image 20251010194131.png",
     "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/I.Expected Value.md",
     "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions/III.Distribution and Density Functions of Functions of Random Vectors.md",
-    "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions/II.Density Function.md",
-    "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/I.Normal Distribution.md",
-    "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions/I.Distribution Function.md",
-    "Mathmatics/Linear Algebra/images/JordanForm.png",
-    "Mathmatics/Linear Algebra/images/EquationOfCholesky.png",
-    "Mathmatics/Linear Algebra/images/SVD.jpg",
-    "Mathmatics/Linear Algebra/images/positive.png",
-    "Artificial Intelligence/Deep Learning/images/RNN.png"
+    "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions/II.Density Function.md"
   ]
 }
