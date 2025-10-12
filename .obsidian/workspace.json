@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathmatics/Probability and Statistics/VII.Hypothesis Testing/I.Tests for the Mean and Variance of a Single Normal Population.md",
+                "file": "Courses/Machine Learning Systems and Hardware/I.OperatorAnalysis/Roofline Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I.Tests for the Mean and Variance of a Single Normal Population"
+              "title": "Roofline Model"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -184,10 +185,16 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Courses/Machine Learning Systems and Hardware/I.OperatorAnalysis/FLOPs.md",
+    "Courses/Machine Learning Systems and Hardware/I.OperatorAnalysis/Roofline Model.md",
+    "Mathmatics/Probability and Statistics/VII.Hypothesis Testing/I.Tests for the Mean and Variance of a Single Normal Population.md",
+    "Courses/Machine Learning Systems and Hardware/I.OperatorAnalysis",
+    "Courses/Machine Learning Systems and Hardware",
+    "Artificial Intelligence",
+    "Courses",
     "Mathmatics/Probability and Statistics/VII.Hypothesis Testing/II.Two-Sample Tests for Normal Populations.md",
     "Mathmatics/Probability and Statistics/VII.Hypothesis Testing/III.Goodness of Fit Test.md",
     "Pasted image 20251011172131.png",
-    "Mathmatics/Probability and Statistics/VII.Hypothesis Testing/I.Tests for the Mean and Variance of a Single Normal Population.md",
     "Mathmatics/Probability and Statistics/VI.Parameter Estimation/III.Interval Estimation.md",
     "Mathmatics/Probability and Statistics/VII.Hypothesis Testing",
     "Mathmatics/Probability and Statistics/VI.Parameter Estimation/I.Estimatation.md",
@@ -212,22 +219,17 @@
     "Pasted image 20251010194131.png",
     "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/I.Expected Value.md",
     "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions/III.Distribution and Density Functions of Functions of Random Vectors.md",
-    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables",
     "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions/II.Density Function.md",
     "Mathmatics/Probability and Statistics/II.Common Distributions and their Expected Values and Variances/Continuous Random Variable/I.Normal Distribution.md",
     "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions/I.Distribution Function.md",
-    "Large Language Model/V.Applications & Evaluation/RAG.md",
-    "Large Language Model/III.Key Technologies & Optimizations/Alignment/Reinforcement Learning from Human Feedback (RLHF).md",
-    "Deep Learning/Activation Funcitons/Activation Functions.md",
-    "Deep Learning/Loss Funcitons/Classification.md",
-    "Deep Learning/Loss Funcitons/Regression.md",
-    "Mathmatics/Probability and Statistics/III.Random Vectors and Their Probability Distributions",
-    "Mathmatics/Probability and Statistics/I.Basic Concepts",
+    "Artificial Intelligence/Large Language Model/V.Applications & Evaluation/RAG.md",
+    "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Alignment/Reinforcement Learning from Human Feedback (RLHF).md",
+    "Artificial Intelligence/Deep Learning/Activation Funcitons/Activation Functions.md",
+    "Artificial Intelligence/Deep Learning/Loss Funcitons/Classification.md",
     "Mathmatics/Linear Algebra/images/JordanForm.png",
-    "1.Matrices and Linear Equations",
     "Mathmatics/Linear Algebra/images/EquationOfCholesky.png",
     "Mathmatics/Linear Algebra/images/SVD.jpg",
     "Mathmatics/Linear Algebra/images/positive.png",
-    "Deep Learning/images/RNN.png"
+    "Artificial Intelligence/Deep Learning/images/RNN.png"
   ]
 }

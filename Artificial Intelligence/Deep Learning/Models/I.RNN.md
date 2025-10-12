@@ -6,7 +6,7 @@
 
 ### 2.The Core Architecture
 
-![](RNN.png)
+![](Artificial%20Intelligence/Deep%20Learning/images/RNN.png)
 $$h_t=tanh(UX_t+Vh_{t-1}+b_h)$$
 
 $$L_t=softmax(Wh_t+b_L)$$

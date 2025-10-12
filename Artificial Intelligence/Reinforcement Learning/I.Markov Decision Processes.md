@@ -18,7 +18,7 @@
 
 #### 1.3 The Agent-Environment Interaction Loop
 
-![](../Reinforcement%20Learning/images/interaction%20loop.png)
+![](Artificial%20Intelligence/Reinforcement%20Learning/images/interaction%20loop.png)
 #### 1.4 Types of MDPs
 
 > 1. Episodic: Tasks with a clear start and a terminal state, forming an "episode"
@@ -104,7 +104,7 @@ $$
 
 **for State Values**
 
-![](../Reinforcement%20Learning/images/BellmanEquationV.png)
+![](Artificial%20Intelligence/Reinforcement%20Learning/images/BellmanEquationV.png)
 >$$1.[r+\gamma V^{\pi}(s')]$$
 >  `immediate reward r + the discounted value of the next state
 >$$2.\sum_{s',r}P(s',r|s,a)[r+\gamma V^{\pi}(s')]$$
@@ -118,7 +118,7 @@ $$
 
 **for Action Values**
 
-![](../Reinforcement%20Learning/images/BellmanEquationQ.png)
+![](Artificial%20Intelligence/Reinforcement%20Learning/images/BellmanEquationQ.png)
 
 #### 4.3 Optimal Value Functions
 
@@ -136,8 +136,8 @@ $$
 
 **for State Values**
 
-![](../Reinforcement%20Learning/images/BellmanOptimalityEquationsV.png)
+![](Artificial%20Intelligence/Reinforcement%20Learning/images/BellmanOptimalityEquationsV.png)
 
 **for Action Values**
 
-![](../Reinforcement%20Learning/images/BellmanOptimalityEquationsQ.png)
+![](Artificial%20Intelligence/Reinforcement%20Learning/images/BellmanOptimalityEquationsQ.png)
