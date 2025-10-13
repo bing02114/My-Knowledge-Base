@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/II.Dynamic Programming.md",
+                "file": "Artificial Intelligence/Reinforcement Learning/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "II.Dynamic Programming"
+              "title": "README"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -185,6 +184,7 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Artificial Intelligence/Reinforcement Learning/II.Dynamic Programming.md",
     "Courses/Computer Vision/V.Fourier Methods/Fourier Method.md",
     "Courses/Computer Vision/IV.Edge Detection/Edge Detection.md",
     "Courses/Computer Vision/V.Fourier Methods",
@@ -195,7 +195,6 @@
     "Courses/Computer Vision/III.Image Filtering/III.Specific and Advanced Filter Types.md",
     "Courses/Computer Vision/IV.Edge Detection",
     "Courses/Machine Learning Systems and Hardware/II.CompileMap/I.The Role and Pipleline of ML Compilation.md",
-    "Artificial Intelligence/Reinforcement Learning/II.Dynamic Programming.md",
     "Courses/Machine Learning Systems and Hardware/II.CompileMap/II.Fundamentals of ML Hardware.md",
     "Courses/Scalable Systems and Data/IV.Outline of Indexes for Main Memory.md",
     "Courses/Machine Learning Systems and Hardware/II.CompileMap",
