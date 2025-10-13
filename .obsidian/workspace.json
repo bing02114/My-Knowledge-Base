@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Machine Learning Systems and Hardware/II.CompileMap/I.The Role and Pipleline of ML Compilation.md",
+                "file": "Artificial Intelligence/Reinforcement Learning/II.Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I.The Role and Pipleline of ML Compilation"
+              "title": "II.Dynamic Programming"
             }
           }
         ]
@@ -185,9 +185,18 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Courses/Computer Vision/V.Fourier Methods/Fourier Method.md",
+    "Courses/Computer Vision/IV.Edge Detection/Edge Detection.md",
+    "Courses/Computer Vision/V.Fourier Methods",
+    "Courses/Computer Vision/未命名.md",
+    "Courses/Computer Vision/image/EdgeDetectionOperators.png",
+    "Courses/Computer Vision/image",
+    "Courses/Computer Vision/新建文件夹",
+    "Courses/Computer Vision/III.Image Filtering/III.Specific and Advanced Filter Types.md",
+    "Courses/Computer Vision/IV.Edge Detection",
+    "Courses/Machine Learning Systems and Hardware/II.CompileMap/I.The Role and Pipleline of ML Compilation.md",
     "Artificial Intelligence/Reinforcement Learning/II.Dynamic Programming.md",
     "Courses/Machine Learning Systems and Hardware/II.CompileMap/II.Fundamentals of ML Hardware.md",
-    "Courses/Machine Learning Systems and Hardware/II.CompileMap/I.The Role and Pipleline of ML Compilation.md",
     "Courses/Scalable Systems and Data/IV.Outline of Indexes for Main Memory.md",
     "Courses/Machine Learning Systems and Hardware/II.CompileMap",
     "Courses/Scalable Systems and Data/III.Database Storage Layer.md",
@@ -198,7 +207,6 @@
     "Courses/Scalable Systems and Data/images/屏幕截图 2025-10-12 182530.png",
     "Courses/Scalable Systems and Data/images",
     "Courses/Scalable Systems and Data/新建文件夹",
-    "Courses/Computer Vision/III.Image Filtering/III.Specific and Advanced Filter Types.md",
     "Courses/Scalable Systems and Data",
     "Courses/Computer Vision/III.Image Filtering/II.Convolution and convolution mask.md",
     "Courses/Computer Vision/III.Image Filtering/I.Image Filtering.md",
@@ -208,10 +216,6 @@
     "Courses/Computer Vision",
     "Courses/Machine Learning Systems and Hardware/I.OperatorAnalysis/II.Roofline Model.md",
     "Mathmatics/Probability and Statistics/VII.Hypothesis Testing/I.Tests for the Mean and Variance of a Single Normal Population.md",
-    "Courses/Machine Learning Systems and Hardware/I.OperatorAnalysis",
-    "Courses/Machine Learning Systems and Hardware",
-    "Artificial Intelligence",
-    "Courses",
     "Mathmatics/Probability and Statistics/VII.Hypothesis Testing/II.Two-Sample Tests for Normal Populations.md",
     "Mathmatics/Probability and Statistics/VII.Hypothesis Testing/III.Goodness of Fit Test.md",
     "Pasted image 20251011172131.png",
@@ -226,10 +230,6 @@
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/II.t-Distribution.md",
     "Mathmatics/Probability and Statistics/images/t.png",
     "Mathmatics/Probability and Statistics/images/chisquared.png",
-    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/V.Law of Large Numbers and Central Limit Theorem.md",
-    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/IV.Covariance and Correlation Coefficient.md",
-    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/III.Moments.md",
-    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/II.Variance.md",
-    "Pasted image 20251010194131.png"
+    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/V.Law of Large Numbers and Central Limit Theorem.md"
   ]
 }
