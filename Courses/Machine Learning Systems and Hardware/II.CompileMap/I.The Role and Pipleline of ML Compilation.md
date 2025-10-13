@@ -42,12 +42,12 @@ $$e2e\_Perf = F(FLOPs,Infrastructure,Hardware)$$
 
 **Why**
 
-* Makes data dependencies explicit
-* Facilitate graph / tensor optimizations
+* Makes data dependencies **explicit**
+* **Facilitate** graph / tensor optimizations
 
 **Representation (DAG):**
 
-* Directed acyclic graph (DAG)
+* Directed **acyclic** graph (DAG)
 * Rectangle node: tensor with shape, dtype, layout, etc.
 * Square node: operation with attributes (e.g., stride, padding)
 * Edges: data dependencies and control flow
@@ -63,6 +63,7 @@ $$e2e\_Perf = F(FLOPs,Infrastructure,Hardware)$$
 ![](../images/forwardDAG.png)
 
 ![](../images/backwardDAG.png)
+
 
 **Gradient Decent:**
 $$w^{t+1}=w^{t}-𝜼\frac{\partial{Loss}}{\partial w}$$
@@ -154,3 +155,25 @@ $$w^{t+1}=w^{t}-𝜼\frac{\partial{Loss}}{\partial w}$$
 • Enables kernel fusion, layout tuning, tiling, etc.
 
 • More flexible and tunable, but codegen is more complex.
+
+**Code Generation Path**
+
+• Different paths for different hardware backends
+
+• Enables hardware-aware kernel optimization
+
+**GPU backend**
+
+• CUDA C++ (via NVTRC to PTX)
+
+• Triton Kernel (via Triton JIT)
+
+• AMD GPUs take different routes (ROCm IR)
+
+**CPU backend**
+
+• C++ code (via LLVM)
+
+**Other Architecutre**
+
+• Requires custom backend support

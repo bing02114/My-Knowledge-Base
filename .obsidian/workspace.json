@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -185,6 +186,7 @@
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
     "Courses/Machine Learning Systems and Hardware/II.CompileMap/II.Fundamentals of ML Hardware.md",
+    "Courses/Machine Learning Systems and Hardware/images/memoryHirerachy.png",
     "Courses/Machine Learning Systems and Hardware/II.CompileMap/I.The Role and Pipleline of ML Compilation.md",
     "Artificial Intelligence/Reinforcement Learning/II.Dynamic Programming.md",
     "Artificial Intelligence/Reinforcement Learning/I.Markov Decision Processes.md",
@@ -227,8 +229,6 @@
     "Mathmatics/Probability and Statistics/VI.Parameter Estimation/II.Point Estimation.md",
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/V.Distribution of Sample Mean and Sample Variance from a Normal Population.md",
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/IV.Order Statistics.md",
-    "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/III.F-Distribution.md",
-    "Mathmatics/Probability and Statistics/images/F.png",
-    "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/I.Chi-squared Distribution.md"
+    "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/III.F-Distribution.md"
   ]
 }
