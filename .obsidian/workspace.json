@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/README.md",
+                "file": "Courses/Machine Learning Systems and Hardware/II.CompileMap/II.Fundamentals of ML Hardware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "II.Fundamentals of ML Hardware"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -184,6 +185,13 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Courses/Machine Learning Systems and Hardware/II.CompileMap/I.The Role and Pipleline of ML Compilation.md",
+    "Courses/Machine Learning Systems and Hardware/images/backwardDAG.png",
+    "Courses/Machine Learning Systems and Hardware/images/forwardDAG.png",
+    "Courses/Machine Learning Systems and Hardware/images",
+    "Courses/Machine Learning Systems and Hardware/新建文件夹",
+    "Courses/Machine Learning Systems and Hardware/II.CompileMap/II.Fundamentals of ML Hardware.md",
+    "Artificial Intelligence/Reinforcement Learning/README.md",
     "Artificial Intelligence/Reinforcement Learning/II.Dynamic Programming.md",
     "Courses/Computer Vision/V.Fourier Methods/Fourier Method.md",
     "Courses/Computer Vision/IV.Edge Detection/Edge Detection.md",
@@ -194,8 +202,6 @@
     "Courses/Computer Vision/新建文件夹",
     "Courses/Computer Vision/III.Image Filtering/III.Specific and Advanced Filter Types.md",
     "Courses/Computer Vision/IV.Edge Detection",
-    "Courses/Machine Learning Systems and Hardware/II.CompileMap/I.The Role and Pipleline of ML Compilation.md",
-    "Courses/Machine Learning Systems and Hardware/II.CompileMap/II.Fundamentals of ML Hardware.md",
     "Courses/Scalable Systems and Data/IV.Outline of Indexes for Main Memory.md",
     "Courses/Machine Learning Systems and Hardware/II.CompileMap",
     "Courses/Scalable Systems and Data/III.Database Storage Layer.md",
@@ -211,8 +217,6 @@
     "Courses/Computer Vision/III.Image Filtering/I.Image Filtering.md",
     "Courses/Computer Vision/III.Image Filtering/IV.Structure adaptive filtering.md",
     "Courses/Machine Learning Systems and Hardware/I.OperatorAnalysis/I.FLOPs.md",
-    "Courses/Computer Vision/III.Image Filtering",
-    "Courses/Computer Vision",
     "Courses/Machine Learning Systems and Hardware/I.OperatorAnalysis/II.Roofline Model.md",
     "Mathmatics/Probability and Statistics/VII.Hypothesis Testing/I.Tests for the Mean and Variance of a Single Normal Population.md",
     "Mathmatics/Probability and Statistics/VII.Hypothesis Testing/II.Two-Sample Tests for Normal Populations.md",
@@ -225,10 +229,6 @@
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/IV.Order Statistics.md",
     "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/III.F-Distribution.md",
     "Mathmatics/Probability and Statistics/images/F.png",
-    "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/I.Chi-squared Distribution.md",
-    "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/II.t-Distribution.md",
-    "Mathmatics/Probability and Statistics/images/t.png",
-    "Mathmatics/Probability and Statistics/images/chisquared.png",
-    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/V.Law of Large Numbers and Central Limit Theorem.md"
+    "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/I.Chi-squared Distribution.md"
   ]
 }
