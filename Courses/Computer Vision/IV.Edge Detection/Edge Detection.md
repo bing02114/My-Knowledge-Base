@@ -69,11 +69,59 @@ $$tan^{-1}(g_{y}/g_{x})$$
 
 #### 4.2 Laplace Operator
 
+$$h=\left[
+\begin{matrix}
+0 & 1 & 0\\
+1 & -4 & 0\\
+0 & 1 & 0\\
+\end{matrix}
+\right]
+$$
+
+$$h=\left[
+\begin{matrix}
+1 & 1 & 1\\
+1 & -8 & 1\\
+1 & 1 & 1\\
+\end{matrix}
+\right]
+$$
+
 #### 4.3 Marr-Hildreth Detector
 
+$$LoG=\nabla^2\{G(x,y,\sigma)\}^*f(x,y) $$
+
+▪ A larger area surrounding the current pixel is taken into account compared to classical edge operators of small size, the influence of more distant points decreases according to the width of the Gaussian;
+
+▪ The width of the Gaussian does not affect the location of the zero crossings, but as it
+increases less significant edges are suppressed;
+
+▪ The operator can be decomposed into row and column filters which permits a significant increase in computation speed;
+
+▪ Neurophysiological experiments provide evidence that human eye retina performs
+operations very similar to the LoG operations;
+
+▪ The operator can be very effectively approximated by convolution with a mask that is the difference of two Gaussian masks with substantially different σ.
 
 ### 5.Edge Grouping
 
 #### 5.1 Purpose
+
+>Edge detection only provides a pixel-based representation of the likelihood of a
+>pixel being an edge or not, it is not a geometrical representation of the boundary
+>of the object
+
 #### 5.2 Method
+
+>The simplest, and also the least effective method of grouping edges is to use
+>heuristic search. That is to say, the algorithm starts from a single boundary
+>pixel, and then attempts to join neighbouring pixels on the basis of their edge
+>strength and direction.
+
 #### 5.3 Heuristic
+
+$$|φ(x_i,y_i)-φ(x_j,y_j)|<\theta$$
+
+>For a given image, let the gradient magnitude be specified by g and the gradient
+>direction by angle φ. One can define heuristics based on gradient to indicate
+>when two adjacent pixels can be joined if
