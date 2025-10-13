@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/II.Dynamic Programming.md",
+                "file": "Courses/Machine Learning Systems and Hardware/II.CompileMap/I.The Role and Pipleline of ML Compilation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "II.Dynamic Programming"
+              "title": "I.The Role and Pipleline of ML Compilation"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Artificial Intelligence/Reinforcement Learning/II.Dynamic Programming.md",
     "Courses/Machine Learning Systems and Hardware/II.CompileMap/II.Fundamentals of ML Hardware.md",
     "Courses/Machine Learning Systems and Hardware/II.CompileMap/I.The Role and Pipleline of ML Compilation.md",
     "Courses/Scalable Systems and Data/IV.Outline of Indexes for Main Memory.md",
@@ -229,7 +230,6 @@
     "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/IV.Covariance and Correlation Coefficient.md",
     "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/III.Moments.md",
     "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/II.Variance.md",
-    "Pasted image 20251010194131.png",
-    "Mathmatics/Probability and Statistics/IV.The Numerical Characteristics of Random Variables/I.Expected Value.md"
+    "Pasted image 20251010194131.png"
   ]
 }
