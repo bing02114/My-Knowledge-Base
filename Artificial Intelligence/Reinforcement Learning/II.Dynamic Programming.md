@@ -24,7 +24,7 @@ $$V_{k+1}(s)=\sum_{a}\pi (a|s)\sum_{s',r}P(s',r|s,a)[r+\gamma V_{k}(s')]$$
 **Jacobi: Synchronous Updates**
 
 * Use $V_{k}(s')$ for all next states
-* Update all states simultaneously
+* <font color="red">Update all states simultaneously</font>
 * Requires two arrays: old and new values
 
 $$V_{new}(s)\leftarrow \sum_{a}\pi(a|s)\sum_{s',r}P(s',r|s,a)[r+\gamma V_{old}(s')]$$
@@ -32,7 +32,7 @@ $$V_{new}(s)\leftarrow \sum_{a}\pi(a|s)\sum_{s',r}P(s',r|s,a)[r+\gamma V_{old}(s
 **Gauss-Seidel: In-Place Updates**
 
 * Use most recent values available
-* Update states one at a time
+* <font color="Red">Update states one at a time</font>
 * Can use single array, often converges faster
 
 $$V(s)\leftarrow \sum_{a}\pi(a|s)\sum_{s',r}P(s',r|s,a)[r+\gamma V(s')]$$

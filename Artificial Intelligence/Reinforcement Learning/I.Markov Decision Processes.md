@@ -141,3 +141,9 @@ $$
 **for Action Values**
 
 ![](Artificial%20Intelligence/Reinforcement%20Learning/images/BellmanOptimalityEquationsQ.png)
+
+>The value of a state, $V_{π}(s)$, is the expectation of the action-values, $Q_{π}(s,a)$, under the policy π. 
+>
+><font color="Red">Under the optimal policy, this expectation reduces to a maximization operation, because the optimal policy selects the action that maximizes the action-value. </font>
+>
+><font color="Red">Therefore, the optimal state-value function is equal to the maximum of the optimal action-value function: V∗​(s)=maxa​Q∗​(s,a)</font>
