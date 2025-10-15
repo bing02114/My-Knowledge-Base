@@ -13,7 +13,7 @@ class LinearRegressionNormalEq:
             XTy = X_argumented.T @ y
             self.weights = XTX_inv @ XTy
         except np.linalg.LinAlgError:
-            print("X.T @ X is singular matrix, which is invertible.")
+            raise RuntimeError("XTX is not invertible")
             self.weights = None
 
     def predict(self, X):
@@ -22,14 +22,29 @@ class LinearRegressionNormalEq:
         X_argumented = np.c_[np.ones((X.shape[0],1)),X]
         return X_argumented @ self.weights
 
-X_train = np.array([[1],[2],[3],[4],[5],[6]])
-y_train = np.array([2,4,6,8,10,12])
+X_train = np.array([
+    [1, 1],
+    [1, 2],
+    [2, 2],
+    [2, 3]
+])
+
+# y_train 根据真实关系 y = 2 + 3*x1 + 4*x2 生成
+y_train = np.array([
+    [9],   # 2 + 3*1 + 4*1
+    [13],  # 2 + 3*1 + 4*2
+    [16],  # 2 + 3*2 + 4*2
+    [20]   # 2 + 3*2 + 4*3
+])
 
 model_ne = LinearRegressionNormalEq()
 model_ne.fit(X_train, y_train)
 
 print("(b,w1):", model_ne.weights.flatten())
 
-X_new = np.array(([0],[2]))
+X_new = np.array([
+    [1,1],
+    [2,2]
+])
 predictions = model_ne.predict(X_new)
 print("predictions:", predictions.flatten())

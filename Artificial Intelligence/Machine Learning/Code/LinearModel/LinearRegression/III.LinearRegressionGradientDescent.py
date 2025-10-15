@@ -1,12 +1,10 @@
 import numpy as np
 
 class LinearRegressionGradientDescent:
-
-    def __init__(self, learning_rate = 0.01, n_iterations = 1000):
+    def __init__(self, learning_rate = 0.1, n_iterations = 1000):
         self.learning_rate = learning_rate
         self.n_iterations = n_iterations
         self.weights = None
-        self.loss_history = []
 
     def fit(self, X, y):
         X_argumented = np.c_[np.ones((X.shape[0],1)),X]
@@ -18,8 +16,6 @@ class LinearRegressionGradientDescent:
             errors = predictions - y
             gradients = (2/m) * X_argumented.T @ errors
             self.weights = self.weights - self.learning_rate * gradients
-            loss = np.mean(errors**2)
-            self.loss_history.append(loss)
 
     def predict(self, X):
         if self.weights is None:
@@ -28,8 +24,8 @@ class LinearRegressionGradientDescent:
         X_argumented = np.c_[np.ones((X.shape[0],1)),X]
         return X_argumented @ self.weights
 
-X_train = np.array([1,2,3,4]).reshape(-1,1)
-y_train = np.array([1,2,3,4]).reshape(-1,1)
+X_train = np.array([[1],[2],[3],[4]])
+y_train = np.array([[1],[2],[3],[4]])
 
 # 实例化并训练模型
 model_gd = LinearRegressionGradientDescent(learning_rate=0.1, n_iterations=1000)
