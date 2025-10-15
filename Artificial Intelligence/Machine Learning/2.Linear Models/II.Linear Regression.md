@@ -1,13 +1,24 @@
-### 1. Basic Form
+### 1.Objective
 
-$$f(x)=w^{T}x+b$$
+>Linear regression attempts to learn a linear model that predicts a real-valued output as accurately as possible.
+>
+>The goal is to make $f(x_{i})≃ y_{i}$
 
-***
-### 2.Learning a linear model to predict real-valued outputs
+### 2.Parameter Estimation
 
+#### 2.1 Least Square Method
 
+>This method finds the parameters w and b that minimize the mean squared error (also known as square loss). It corresponds to finding a line that minimizes the sum of Euclidean distances from all sample points to the line.
 
-### 3.Single variable linear regression
+$$\theta=(X^{T}X)^{-1}X^{T}y$$
 
+#### 2.2 Variation
 
-#### 4.
+**Log-linear Regression**
+
+$$lny=w^{T}x+b$$
+
+**Generalized Linear Model**
+
+$$y=g^{-1}(w^{T}x+b)$$
+

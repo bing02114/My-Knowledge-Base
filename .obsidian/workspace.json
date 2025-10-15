@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -182,10 +183,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1f8bf7a0a955ba84",
+  "active": "1550c133d21316c7",
   "lastOpenFiles": [
-    "Artificial Intelligence/Machine Learning/2.Linear Models/I.Evaluation.md",
+    "Artificial Intelligence/Machine Learning/2.Linear Models/I.Basic Form.md",
     "Artificial Intelligence/Machine Learning/2.Linear Models/II.Linear Regression.md",
+    "Artificial Intelligence/Machine Learning/2.Linear Models/I.Evaluation.md",
     "Pasted image 20251014112322.png",
     "Pasted image 20251014105955.png",
     "Courses/Mathematices for machine learning/I.Linear Model.md",
@@ -228,7 +230,6 @@
     "Mathmatics/Probability and Statistics/VII.Hypothesis Testing/III.Goodness of Fit Test.md",
     "Mathmatics/Probability and Statistics/VI.Parameter Estimation/III.Interval Estimation.md",
     "Mathmatics/Probability and Statistics/VI.Parameter Estimation/I.Estimatation.md",
-    "Mathmatics/Probability and Statistics/VI.Parameter Estimation/II.Point Estimation.md",
-    "Mathmatics/Probability and Statistics/V.The Three Major Statistical Distribution and Order Statistics/V.Distribution of Sample Mean and Sample Variance from a Normal Population.md"
+    "Mathmatics/Probability and Statistics/VI.Parameter Estimation/II.Point Estimation.md"
   ]
 }
