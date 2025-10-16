@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/2.Linear Models/III.Logistic Regression.md",
+                "file": "Artificial Intelligence/Machine Learning/2.Linear Models/IV.Linear Discriminant Analysis (LDA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "III.Logistic Regression"
+              "title": "IV.Linear Discriminant Analysis (LDA)"
             }
           }
         ]
@@ -185,13 +185,17 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/2.Linear Models/V.Evaluation.md",
+    "Artificial Intelligence/Machine Learning/2.Linear Models/IV.Linear Discriminant Analysis (LDA).md",
+    "Artificial Intelligence/Frameworks and Libraries/Scikit-learn/I.Linear Model.md",
+    "Artificial Intelligence/Machine Learning/2.Linear Models/III.Logistic Regression.md",
+    "Artificial Intelligence/Machine Learning/Code/LinearModel/LogisticRegression/II.LogisticRegressionGradientAscent.py",
+    "Artificial Intelligence/Machine Learning/Code/LinearModel/LogisticRegression/I.LogisticRegression.py",
+    "Artificial Intelligence/Machine Learning/Code/LinearModel/LogisticRegression",
     "Mathmatics/Numerical Analysis/4.Iterative Solutions for Nonlinear Equations.md",
     "Mathmatics/Numerical Analysis/3.Iterative Solutions for Systems of Linear Equations.md",
-    "Artificial Intelligence/Machine Learning/2.Linear Models/III.Logistic Regression.md",
     "Artificial Intelligence/Machine Learning/2.Linear Models/II.Linear Regression.md",
     "Artificial Intelligence/Machine Learning/2.Linear Models/I.Basic Form.md",
-    "Artificial Intelligence/Machine Learning/2.Linear Models/III.Evaluation.md",
-    "Artificial Intelligence/Frameworks and Libraries/Scikit-learn/I.Linear Model.md",
     "Courses/Computer Vision/VI.Shape Representation and Matching Notes/II.Shape Discriminants.md",
     "Artificial Intelligence/Machine Learning/Code/LinearModel/LinearRegression/III.LinearRegressionGradientDescent.py~",
     "Artificial Intelligence/Machine Learning/Code/LinearModel/LinearRegression/II.LinearRegressionNormalEQ.py~",
@@ -201,9 +205,6 @@
     "Artificial Intelligence/Machine Learning/Code/LinearModel/LinearRegression/III.LinearRegressionGradientDescent.py",
     "Artificial Intelligence/Machine Learning/Code/LinearModel/LinearRegression/II.LinearRegressionNormalEQ.py",
     "Artificial Intelligence/Machine Learning/Code/LinearModel/LinearRegression/I.LinearRegression.py",
-    "Artificial Intelligence/Machine Learning/Code/LinearModel/LinearRegression",
-    "Artificial Intelligence/Machine Learning/Code/LinearModel/II.LinearRegressionNormalEQ.py~",
-    "Artificial Intelligence/Machine Learning/Code/LinearModel/II.LinearRegressionNormalEQ.py",
     "Pasted image 20251014112322.png",
     "Pasted image 20251014105955.png",
     "Courses/Mathematices for machine learning/I.Linear Model.md",
@@ -229,7 +230,6 @@
     "Courses/Computer Vision/III.Image Filtering/II.Convolution and convolution mask.md",
     "Courses/Computer Vision/III.Image Filtering/I.Image Filtering.md",
     "Courses/Computer Vision/III.Image Filtering/IV.Structure adaptive filtering.md",
-    "Courses/Machine Learning Systems and Hardware/I.OperatorAnalysis/I.FLOPs.md",
-    "Courses/Machine Learning Systems and Hardware/I.OperatorAnalysis/II.Roofline Model.md"
+    "Courses/Machine Learning Systems and Hardware/I.OperatorAnalysis/I.FLOPs.md"
   ]
 }

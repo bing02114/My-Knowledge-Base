@@ -68,4 +68,6 @@ $$\nabla_{\theta}log(L(\theta))=\sum^{m}_{i=1}(y_{i}-\hat{y_{i}})=X^{T}(y-\hat{y
 
 #### 4.5 The Parameter Update Rule
 
+**Gradient Ascent**
+
 $$\theta_{new}\leftarrow \theta_{old}+θnew​←θold​+η∇θ​L(θ)$$
