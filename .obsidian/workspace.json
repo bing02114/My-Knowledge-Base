@@ -185,6 +185,11 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Artificial Intelligence/Machine Learning/Code/LinearModel/Linear Discriminant Analysis/II.LDAGeneralizedRayleighQuotient.py~",
+    "Artificial Intelligence/Machine Learning/Code/LinearModel/Linear Discriminant Analysis/II.LDAGeneralizedRayleighQuotient.py",
+    "Artificial Intelligence/Machine Learning/Code/LinearModel/Linear Discriminant Analysis/I.LDA",
+    "Artificial Intelligence/Machine Learning/Code/LinearModel/Linear Discriminant Analysis",
+    "Artificial Intelligence/Machine Learning/Code/LinearModel/LDA",
     "Artificial Intelligence/Machine Learning/2.Linear Models/V.Evaluation.md",
     "Artificial Intelligence/Machine Learning/2.Linear Models/IV.Linear Discriminant Analysis (LDA).md",
     "Artificial Intelligence/Frameworks and Libraries/Scikit-learn/I.Linear Model.md",
@@ -201,10 +206,6 @@
     "Artificial Intelligence/Machine Learning/Code/LinearModel/LinearRegression/II.LinearRegressionNormalEQ.py~",
     "Artificial Intelligence/Machine Learning/Code/LinearModel/LinearRegression/A.PY",
     "Courses/Computer Vision/VI.Shape Representation and Matching Notes/I.Template Matching.md",
-    "Courses/Computer Vision/VI.Shape Representation and Matching Notes",
-    "Artificial Intelligence/Machine Learning/Code/LinearModel/LinearRegression/III.LinearRegressionGradientDescent.py",
-    "Artificial Intelligence/Machine Learning/Code/LinearModel/LinearRegression/II.LinearRegressionNormalEQ.py",
-    "Artificial Intelligence/Machine Learning/Code/LinearModel/LinearRegression/I.LinearRegression.py",
     "Pasted image 20251014112322.png",
     "Pasted image 20251014105955.png",
     "Courses/Mathematices for machine learning/I.Linear Model.md",
@@ -229,7 +230,6 @@
     "Courses/Scalable Systems and Data/images/StorageHierarchy.png",
     "Courses/Computer Vision/III.Image Filtering/II.Convolution and convolution mask.md",
     "Courses/Computer Vision/III.Image Filtering/I.Image Filtering.md",
-    "Courses/Computer Vision/III.Image Filtering/IV.Structure adaptive filtering.md",
-    "Courses/Machine Learning Systems and Hardware/I.OperatorAnalysis/I.FLOPs.md"
+    "Courses/Computer Vision/III.Image Filtering/IV.Structure adaptive filtering.md"
   ]
 }
