@@ -6,7 +6,7 @@
 
 $$TSS = \sum^{n}_{i=1}(y_{i}-\overline{y})^2$$
 
-### 2.Residual Sum of Squares (RSS)
+### 2.Residual Sum of Squares (RSS/SSR/SSE)
 
 >RSS measures the variance that is **left unexplained** by the model after it has been fit. It is the sum of the squared prediction errors (residuals).
 
