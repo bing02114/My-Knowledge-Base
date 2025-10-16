@@ -1,7 +1,7 @@
 
 >Scikit-learn's decision tree module **implements an optimised version of the CART algorithm**, and it **does not** provide separate, distinct implementations of ID3 or C4.5.
 
-### 1. Optimised Version of CART
+### 1.Classifier
 
 ``` python
 from sklearn.tree import DecisionTreeClassifier
@@ -14,8 +14,7 @@ cart_model = DecisionTreeClassifier(criterion='gini', random_state=42)
 id3_like_model = DecisionTreeClassifier(criterion='entropy', random_state=42)
 ```
 
-### 2. Key Hyperparameters
-
+#### 2. Key Hyperparameters
 
 ### **Hyperparameters for Tree Structure and Splitting**
 
@@ -138,4 +137,101 @@ These are the most important parameters for preventing overfitting. They stop th
 - **Tuning Advice**: **Always set this to a fixed integer during development and experimentation.** This ensures that your results are reproducible.
 
 
-### 3. Example
+#### 3. Example
+
+``` python
+# 1. Import necessary libraries  
+from sklearn.datasets import load_iris  
+from sklearn.model_selection import train_test_split  
+from sklearn.tree import DecisionTreeClassifier  
+from sklearn.metrics import accuracy_score, classification_report  
+  
+# 2. Load the data  
+# The Iris dataset has 3 classes (species of iris) and 4 features.  
+iris = load_iris()  
+X, y = iris.data, iris.target  
+  
+# 3. Split the data into training and testing sets  
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)  
+  
+# 4. Instantiate and train the model  
+# We set random_state for reproducibility  
+model_clf = DecisionTreeClassifier(max_depth=3, random_state=42)  
+model_clf.fit(X_train, y_train)  
+  
+# 5. Make predictions on the test set  
+y_pred = model_clf.predict(X_test)  
+  
+# 6. Evaluate the model's performance  
+accuracy = accuracy_score(y_test, y_pred)  
+print(f"Decision Tree Classifier Accuracy: {accuracy:.4f}\n")  
+print("Classification Report:")  
+print(classification_report(y_test, y_pred, target_names=iris.target_names))
+```
+
+***
+
+### 2.Regression
+
+#### 2.1 Function
+
+``` python
+from sklearn.tree import DecisionTreeClassifier
+
+# This uses the CART algorithm with its standard Gini Impurity criterion
+cart_model = DecisionTree(criterion='gini', random_state=42)
+```
+
+#### 2.2 Key Hyperparameters
+
+**Criterion**
+
+- **`'squared_error'` (Default)**: Uses Mean Squared Error (MSE). It chooses the split that minimizes the squared error within the child nodes. This is equivalent to minimizing variance.
+    
+- **`'friedman_mse'`**: A variation of MSE with an improvement for potential splits.
+    
+- **`'absolute_error'`**: Uses Mean Absolute Error (MAE). This is less sensitive to outliers than MSE.
+    
+- **`'poisson'`**: For modeling count data.
+
+#### 2.3 Example
+
+``` python
+# 1. Import necessary libraries  
+import numpy as np  
+import matplotlib.pyplot as plt  
+from sklearn.tree import DecisionTreeRegressor  
+from sklearn.metrics import mean_squared_error, r2_score  
+  
+# 2. Create some synthetic non-linear data  
+np.random.seed(42)  
+X = np.sort(5 * np.random.rand(80, 1), axis=0)  
+y = np.sin(X).ravel() + np.random.randn(80) * 0.1 # A sine wave with some noise  
+  
+# 3. Instantiate and train the model  
+# We set max_depth to prevent the tree from overfitting to the noise  
+model_reg = DecisionTreeRegressor(max_depth=6, random_state=42)  
+model_reg.fit(X, y)  
+  
+# 4. Make predictions  
+# We create a dense set of points to see the model's prediction line  
+X_test = np.arange(0.0, 5.0, 0.01)[:, np.newaxis]  
+y_pred = model_reg.predict(X_test)  
+  
+# 5. Evaluate the model's performance  
+y_train_pred = model_reg.predict(X)  
+mse = mean_squared_error(y, y_train_pred)  
+r2 = r2_score(y, y_train_pred)  
+print(f"Decision Tree Regressor Mean Squared Error: {mse:.4f}")  
+print(f"Decision Tree Regressor R-squared: {r2:.4f}\n")  
+  
+# 6. Visualize the results  
+plt.figure(figsize=(10, 6))  
+plt.scatter(X, y, s=20, edgecolor="black", c="cornflowerblue", label="data")  
+plt.plot(X_test, y_pred, color="red", label=f"prediction (max_depth={model_reg.max_depth})", linewidth=2)  
+plt.xlabel("data")  
+plt.ylabel("target")  
+plt.title("Decision Tree Regression")  
+plt.legend()  
+plt.show()
+```
