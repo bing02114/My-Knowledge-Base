@@ -15,6 +15,8 @@ $$sigmoid(x)=\frac{1}{1+e^{-z}}$$
 $$ln\frac{y}{1-y}=w^{T}x+b$$
 ### 4.Parameter Estimation
 
+![](Courses/Mathematices%20for%20machine%20learning/images/LogisticRegression.jpg)
+
 >The parameters **w** and _b_ are estimated using the "maximum likelihood method
 
 #### 4.1 Defining the Probability
@@ -27,7 +29,7 @@ $$ln\frac{y}{1-y}=w^{T}x+b$$
 
 $$p(y=1|x)=\frac{e^{w^{T}x+b}}{1+e^{w^{T}x+b}}$$
 
-$$p(y=0|)=\frac{1}{1+e^{w^{T}x+b}}$$
+$$p(y=0|x)=\frac{1}{1+e^{w^{T}x+b}}$$
 
 $$p(y_{i}=1|x_{i};\theta)=\hat{y_{i}}=\sigma(\theta^{T}x_{i})$$
 
@@ -64,7 +66,7 @@ $$=\sum^{m}_{i=1}(y_{i}-\hat{y_{i}})x_{ij}$$
 
 therefore, the gradient is:
 
-$$\nabla_{\theta}log(L(\theta))=\sum^{m}_{i=1}(y_{i}-\hat{y_{i}})=X^{T}(y-\hat{y})$$
+$$\nabla_{\theta}log(L(\theta))=\sum^{m}_{i=1}(y_{i}-\hat{y_{i}})x_{ij}=X^{T}(y-\hat{y})$$
 
 #### 4.5 The Parameter Update Rule
 

@@ -27,6 +27,8 @@ $$y=g^{-1}(w^{T}x+b)$$
 ***
 ### 3.Finding the optimal parameters
 
+![](Courses/Mathematices%20for%20machine%20learning/images/MLE.jpg)
+
 #### 3.1 The Analytical Solution (Normal Equation)
 
 **Formula**
