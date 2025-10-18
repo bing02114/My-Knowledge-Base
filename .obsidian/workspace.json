@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
+                "file": "Courses/Scalable Systems and Data/VI.Databases on Multicores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "II.Generalized Linear Models & Gradient Descent"
+              "title": "VI.Databases on Multicores"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -184,11 +185,14 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Courses/Scalable Systems and Data/V.Solid State Storage and Databases.md",
+    "Courses/Scalable Systems and Data/VI.Databases on Multicores.md",
+    "Courses/Scalable Systems and Data/V.In-Memory Databases.md",
+    "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
     "Courses/Mathematices for machine learning/I.Linear Model.md",
     "Artificial Intelligence/Machine Learning/2.Linear Models/III.Logistic Regression.md",
     "Artificial Intelligence/Machine Learning/2.Linear Models/II.Linear Regression.md",
     "Courses/Mathematices for machine learning/images/LogisticRegression.jpg",
-    "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
     "Courses/Mathematices for machine learning/images/pytorchEinstein.png",
     "Courses/Mathematices for machine learning/images/MLE.jpg",
     "Artificial Intelligence/Machine Learning/5.Support Vector Machine/II.Dual Problem.md",
@@ -223,9 +227,6 @@
     "Artificial Intelligence/Machine Learning/3.Decision Tree/images/Mdecisiontree.png",
     "Artificial Intelligence/Machine Learning/3.Decision Tree/images/decisiontree.png",
     "Artificial Intelligence/Machine Learning/3.Decision Tree/IV.Continuous and Missing Values.md",
-    "Artificial Intelligence/Machine Learning/3.Decision Tree/II.Partition Selection.md",
-    "Artificial Intelligence/Machine Learning/3.Decision Tree/I.Basic Process.md",
-    "Artificial Intelligence/Machine Learning/2.Linear Models/VII.Evaluation.md",
     "Pasted image 20251014112322.png",
     "Pasted image 20251014105955.png",
     "Courses/Machine Learning Systems and Hardware/images/memoryHirerachy.png",
