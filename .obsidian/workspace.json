@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/5.Support Vector Machine/II.Dual Problem.md",
+                "file": "Artificial Intelligence/Machine Learning/6.Bayesian Classifiers/III.Naive Bayes Classifier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "II.Dual Problem"
+              "title": "III.Naive Bayes Classifier"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -184,8 +185,17 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
-    "Artificial Intelligence/Machine Learning/5.Support Vector Machine/I.Margin and Support Vectors.md",
+    "Artificial Intelligence/Machine Learning/6.Bayesian Classifiers/II.Maximum Likelihood Estimation.md",
+    "Artificial Intelligence/Machine Learning/6.Bayesian Classifiers/III.Naive Bayes Classifier.md",
+    "Artificial Intelligence/Machine Learning/6.Bayesian Classifiers/I.Bayesian Classifiers.md",
+    "Artificial Intelligence/Machine Learning/5.Support Vector Machine/VI.Kernel Methods.md",
+    "Artificial Intelligence/Machine Learning/5.Support Vector Machine/V.Support Vector Regression (SVR).md",
+    "Artificial Intelligence/Machine Learning/5.Support Vector Machine/IV.Soft Margin and Regularization.md",
+    "Artificial Intelligence/Deep Learning/Loss Funcitons/Classification.md",
+    "Artificial Intelligence/Deep Learning/Loss Funcitons/Regression.md",
+    "Artificial Intelligence/Machine Learning/5.Support Vector Machine/III.Kernel Functions.md",
     "Artificial Intelligence/Machine Learning/5.Support Vector Machine/II.Dual Problem.md",
+    "Artificial Intelligence/Machine Learning/5.Support Vector Machine/I.Margin and Support Vectors.md",
     "Artificial Intelligence/Machine Learning/2.Linear Models/IV.Linear Discriminant Analysis (LDA).md",
     "Artificial Intelligence/Machine Learning/2.Linear Models/VII.Evaluation.md",
     "Artificial Intelligence/Machine Learning/2.Linear Models/VI.Class-Imbalance Problem.md",
@@ -201,18 +211,9 @@
     "Courses/Mathematices for machine learning/images/LogisticRegression.jpg",
     "Courses/Mathematices for machine learning/images/pytorchEinstein.png",
     "Courses/Mathematices for machine learning/images/MLE.jpg",
-    "Artificial Intelligence/Machine Learning/5.Support Vector Machine/III.Kernel Functions.md",
-    "Artificial Intelligence/Deep Learning/Loss Funcitons/Classification.md",
     "Courses/Reinforcement Learning/Tutorial/Policy Evaluation.md",
     "Courses/Reinforcement Learning/Tutorial/Understanding MDPs.md",
-    "Artificial Intelligence/Machine Learning/5.Support Vector Machine/V.Support Vector Regression (SVR).md",
-    "Artificial Intelligence/Machine Learning/5.Support Vector Machine/IV.Soft Margin and Regularization.md",
     "Artificial Intelligence/Machine Learning/4.Neural Networks/VI.Deep Learning.md",
-    "Artificial Intelligence/Machine Learning/4.Neural Networks/V.Other Common Neural Networks.md",
-    "Artificial Intelligence/Machine Learning/4.Neural Networks/IV.Gloval Minimum and Local Minima.md",
-    "Artificial Intelligence/Machine Learning/4.Neural Networks/III.Backpropagation Algorithm.md",
-    "Artificial Intelligence/Machine Learning/4.Neural Networks/II.Perceptron and Multi-layer Networks.md",
-    "Artificial Intelligence/Machine Learning/4.Neural Networks/I.Neuron Model.md",
     "Artificial Intelligence/Machine Learning/4.Neural Networks/images/sigmoid.png",
     "Artificial Intelligence/Machine Learning/4.Neural Networks/images",
     "Artificial Intelligence/Machine Learning/4.Neural Networks/新建文件夹",

@@ -70,7 +70,7 @@ $$\max_{\alpha}\{\min_{w,b}L(w,b,\alpha)\}$$
 
 **Objective**: Maximize with respect to $\alpha$
 
-$$\max_{\alpha}L(\alpha)=\sum^{m}_{i=1}\alpha_{i}-\frac{1}{2}\sum^{m}_{i=1}\sum^{m}_{j=1}\alpha_{i}\alpha{j}y_{i}y_{j}(x_{i}^{T}x_{j})$$
+$$\max_{\alpha}L(\alpha)=\sum^{m}_{i=1}\alpha_{i}-\frac{1}{2}\sum^{m}_{i=1}\sum^{m}_{j=1}\alpha_{i}\alpha_{j}y_{i}y_{j}(x_{i}^{T}x_{j})$$
 
 **Subject to the constraint**
 
