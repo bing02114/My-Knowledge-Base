@@ -50,6 +50,15 @@ The method of Lagrange Multipliers is a technique for transforming a **constrain
 
 $$L(w,b,a)=\frac{1}{2}||w||^{2}+\sum^{m}_{i=1}\alpha_{i}[1-y_{i}(w^{T}x_{i}+b)]$$
 
+**The Goal**
+
+$$\min_{w,b}\{\max_{\alpha}L(w,b,\alpha)\}$$
+
+	The Dual Problem:
+
+$$\max_{\alpha}\{\min_{w,b}L(w,b,\alpha)\}$$
+
+
 **Minimize w.r.t Primal Variables**
 
 * $\nabla_{w}L=w-\sum \alpha_{i}y_{i}x_{i}=0 \rightarrow w=\sum^{m}_{i=1}\alpha_{i}y_{i}x_{i}$
@@ -61,7 +70,7 @@ $$L(w,b,a)=\frac{1}{2}||w||^{2}+\sum^{m}_{i=1}\alpha_{i}[1-y_{i}(w^{T}x_{i}+b)]$
 
 **Objective**: Maximize with respect to $\alpha$
 
-$$\max_{\alpha}W(\alpha)=\sum^{m}_{i=1}\alpha_{i}-\frac{1}{2}\sum^{m}_{i=1}\sum^{m}_{j=1}\alpha_{i}\alpha{j}y_{i}y_{j}(x_{i}^{T}x_{j})$$
+$$\max_{\alpha}L(\alpha)=\sum^{m}_{i=1}\alpha_{i}-\frac{1}{2}\sum^{m}_{i=1}\sum^{m}_{j=1}\alpha_{i}\alpha{j}y_{i}y_{j}(x_{i}^{T}x_{j})$$
 
 **Subject to the constraint**
 
