@@ -87,3 +87,27 @@ $$DoG(x,y,\sigma)=I * G(K\sigma)-I*G(\sigma)$$
 
 >The DoG function produces strong responses along edges, even if the edge is poorly defined in the perpendicular direction. Edges are not ideal features because they are not distinctive (you don't know _where_ along the edge you are). SIFT needs features that are well-localized in all directions (like corners).
 
+**Hessian Matrix**
+
+>To detect edges, SIFT computes the 2x2 Hessian matrix (H) of second-order derivatives at the keypoint's location.
+
+$$H=\left(
+\begin{matrix}
+D_{xx} & D_{xy} \\
+D_{xy} & D_{yy} \\
+\end{matrix}
+\right)$$
+
+**Principal Curvatures**
+
+>The eigenvalues of this Hessian, $\alpha$ and $\beta$, are proportional to the principal curvatures of the DoG function. The ratio of these eigenvalues tells us about the local geometry
+
+- For a **corner-like feature**, the curvatures in both directions will be large and roughly equal. Thus, the eigenvalues α and β will be of similar magnitude.
+    
+- For an **edge-like feature**, there will be a large curvature across the edge but a very small curvature along the edge. This leads to one eigenvalue being much larger than the other.
+
+**Ratio Check**
+
+Let α be the larger eigenvalue and β be the smaller one. SIFT checks the ratio r=α/β. A threshold is set for this ratio (e.g., 10). If $\frac{(\alpha+\beta)^{2}}{\alpha \beta}\gt \frac{(r+1)^{2}}{r}$​, the keypoint lies on an edge and is rejected. This check is more numerically stable than calculating the eigenvalues directly and is derived from the trace and determinant of the Hessian, similar to the Harris corner detector
+
+>After this second stage, the remaining points are high-quality, stable, and precisely located keypoints, ready for the next stages of orientation assignment and descriptor generation.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/III.Monte Carlo.md",
+                "file": "Courses/Computer Vision/VII.Interest Point Detection/VI.Automatic Scale Selection & SIFT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "III.Monte Carlo"
+              "title": "VI.Automatic Scale Selection & SIFT"
             }
           }
         ]
@@ -185,13 +185,14 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV",
+    "Artificial Intelligence/Reinforcement Learning/III.Monte Carlo.md",
     "Artificial Intelligence/Reinforcement Learning/images/offpolicyMC.png.~tmp",
     "Artificial Intelligence/Reinforcement Learning/images/offpolicyMC.png",
     "Artificial Intelligence/Reinforcement Learning/images/onpolicyMC.png",
     "Artificial Intelligence/Reinforcement Learning/images/FirstVisitMC.png",
     "Artificial Intelligence/Reinforcement Learning/images/DPvsMC.png",
     "Courses/Computer Vision/VII.Interest Point Detection/VI.Automatic Scale Selection & SIFT.md",
-    "Artificial Intelligence/Reinforcement Learning/III.Monte Carlo.md",
     "Courses/Computer Vision/VII.Interest Point Detection/V.Invariance Properties.md",
     "Courses/Computer Vision/VII.Interest Point Detection/IV.Shi-Tomasi Corner Detector.md",
     "Courses/Computer Vision/VII.Interest Point Detection/III.The Harris Detector.md",
@@ -229,7 +230,6 @@
     "Artificial Intelligence/Machine Learning/4.Neural Networks/新建文件夹",
     "Artificial Intelligence/Machine Learning/Code/DecisionTree/HandCode/Pruing.py~",
     "Artificial Intelligence/Machine Learning/Code/DecisionTree/HandCode/Pruing.py",
-    "Artificial Intelligence/Machine Learning/Code/DecisionTree/HandCode/C4.5.py~",
     "Artificial Intelligence/Machine Learning/3.Decision Tree/images/Mdecisiontree.png"
   ]
 }
