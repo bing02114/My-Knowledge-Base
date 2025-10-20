@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Machine Learning/7.Ensemble Learning/II.Boosting/IV.XGBoost.md",
+                "file": "Courses/Machine Learning Systems and Hardware/III.GPU/IV.GPU Memory System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IV.XGBoost"
+              "title": "IV.GPU Memory System"
             }
           }
         ]
@@ -184,6 +184,10 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Courses/Machine Learning Systems and Hardware/III.GPU/III.GPU Programming Model & Architecture.md",
+    "Courses/Machine Learning Systems and Hardware/III.GPU/II.Parallelism Concepts.md",
+    "Courses/Machine Learning Systems and Hardware/III.GPU/I.Introduction to GPUs.md",
+    "Artificial Intelligence/Machine Learning/7.Ensemble Learning/II.Boosting/IV.XGBoost.md",
     "Artificial Intelligence/Machine Learning/7.Ensemble Learning/II.Boosting/III.GBDT.md",
     "Artificial Intelligence/Machine Learning/7.Ensemble Learning/II.Boosting/II.AdaBoost.md",
     "Artificial Intelligence/Machine Learning/7.Ensemble Learning/III.Bagging and Random Forest/II.Random Forest.md",
@@ -192,7 +196,6 @@
     "Artificial Intelligence/Machine Learning/7.Ensemble Learning/III.Bagging and Random Forest/I.Bagging.md",
     "Artificial Intelligence/Machine Learning/7.Ensemble Learning/I.Individual and Ensemble.md",
     "Artificial Intelligence/Machine Learning/7.Ensemble Learning/III.Bagging and Random Forest",
-    "Artificial Intelligence/Machine Learning/7.Ensemble Learning/II.Boosting/IV.XGBoost.md",
     "Artificial Intelligence/Machine Learning/7.Ensemble Learning/II.Boosting/I.Boosting.md",
     "Artificial Intelligence/Machine Learning/7.Ensemble Learning/II.Boosting",
     "Courses/Computer Vision/VII.Interest Point Detection/VI.Automatic Scale Selection & SIFT.md",
@@ -204,9 +207,6 @@
     "Courses/Machine Learning Systems and Hardware/III.GPU/V.Matrix Multiplication Optimization.md",
     "Courses/Computer Vision/VII.Interest Point Detection",
     "Courses/Machine Learning Systems and Hardware/III.GPU/IV.GPU Memory System.md",
-    "Courses/Machine Learning Systems and Hardware/III.GPU/III.GPU Programming Model & Architecture.md",
-    "Courses/Machine Learning Systems and Hardware/III.GPU/II.Parallelism Concepts.md",
-    "Courses/Machine Learning Systems and Hardware/III.GPU/I.Introduction to GPUs.md",
     "Artificial Intelligence/Machine Learning/6.Bayesian Classifiers/III.Naive Bayes Classifier.md",
     "Courses/Machine Learning Systems and Hardware/III.GPU",
     "Artificial Intelligence/Machine Learning/6.Bayesian Classifiers/VI.EM Algorithm.md",
