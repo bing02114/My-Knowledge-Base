@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/Models/RNN/III.GRU.md",
+                "file": "Artificial Intelligence/Deep Learning/Regularization/Regularization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "III.GRU"
+              "title": "Regularization"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -185,6 +184,10 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/Normalization/Normalization.md",
+    "Programming Language/CUDE Programming/README.md",
+    "Artificial Intelligence/Deep Learning/Models/RNN/III.GRU.md",
+    "Programming Language/CUDE Programming",
     "Artificial Intelligence/Deep Learning/Models/RNN/II.LSTM.md",
     "Artificial Intelligence/Deep Learning/Models/RNN/I.RNN.md",
     "Artificial Intelligence/Deep Learning/Models/CNN/I.CNN.md",
@@ -200,7 +203,6 @@
     "Artificial Intelligence/Deep Learning/Models/Diffusion/III.Diffusion Model.md",
     "Artificial Intelligence/Deep Learning/Models/Diffusion/I.GAN.md",
     "Artificial Intelligence/Deep Learning/Models/Diffusion/II.VAE.md",
-    "Artificial Intelligence/Deep Learning/Models/RNN/III.GRU.md",
     "Artificial Intelligence/Deep Learning/Models/Diffusion",
     "Artificial Intelligence/Deep Learning/Models/Transformer",
     "Artificial Intelligence/Deep Learning/Models/CNN",
@@ -214,14 +216,12 @@
     "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes",
     "Courses/Scalable Systems and Data/PaperReading/II.Dynamo/Notes.md",
     "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Questions.md",
-    "Courses/Scalable Systems and Data/PaperReading/II.Dynamo",
     "Courses/Mathematices for machine learning/III.Deep Learning and Automatic Differentiation.md",
     "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
     "Artificial Intelligence/Large Language Model/README.md",
     "Artificial Intelligence/Machine Learning/9.Dimensionality Reduciton and Metric Learning/III.Principal Component Analysis (PCA).md",
     "Artificial Intelligence/Machine Learning/9.Dimensionality Reduciton and Metric Learning/II.Low-Dimensional Embedding.md",
     "Artificial Intelligence/Machine Learning/9.Dimensionality Reduciton and Metric Learning/I.K-Nearest Neighbor Learning.md",
-    "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/VI.Hierarchical Clustering.md",
     "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/images/abcd.png",
     "Artificial Intelligence/Reinforcement Learning/images/offpolicyMC.png",
     "Artificial Intelligence/Reinforcement Learning/images/onpolicyMC.png",
