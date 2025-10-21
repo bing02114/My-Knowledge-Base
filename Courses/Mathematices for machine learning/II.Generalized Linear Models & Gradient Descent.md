@@ -7,6 +7,10 @@
 
 $$y=g^{-1}(\theta^{T}x)$$
 
+with basic expansion
+
+$$y=g^{-1}(\theta^{T}\phi(x))$$
+
 #### 1.2 Example
 
 **1.Poisson Regression**
