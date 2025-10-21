@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/Regularization/Regularization.md",
+                "file": "Artificial Intelligence/Deep Learning/Models/Transformer/I.Transformer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regularization"
+              "title": "I.Transformer"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -184,6 +185,13 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Artificial Intelligence/Deep Learning/Models/Transformer/images/transformer.png",
+    "Artificial Intelligence/Deep Learning/Models/Transformer/images",
+    "Artificial Intelligence/Deep Learning/Models/Transformer/新建文件夹",
+    "Artificial Intelligence/Deep Learning/Models/Transformer/II.ViT.md",
+    "Artificial Intelligence/Deep Learning/Models/Transformer/I.Transformer.md",
+    "Artificial Intelligence/Deep Learning/Optimizer/Optimizer.md",
+    "Artificial Intelligence/Deep Learning/Regularization/Regularization.md",
     "Artificial Intelligence/Deep Learning/Normalization/Normalization.md",
     "Programming Language/CUDE Programming/README.md",
     "Artificial Intelligence/Deep Learning/Models/RNN/III.GRU.md",
@@ -196,7 +204,6 @@
     "Artificial Intelligence/Deep Learning/Loss Funcitons/Classification.md",
     "Artificial Intelligence/Deep Learning/Loss Funcitons/Regression.md",
     "Artificial Intelligence/Deep Learning/Activation Funcitons/Activation Functions.md",
-    "Artificial Intelligence/Deep Learning/Regularization/Regularization.md",
     "Artificial Intelligence/Deep Learning/Regularization",
     "Artificial Intelligence/Deep Learning/Normalization",
     "Artificial Intelligence/Deep Learning/Models/Diffusion/IV.Stable Diffusion.md",
@@ -206,22 +213,16 @@
     "Artificial Intelligence/Deep Learning/Models/Diffusion",
     "Artificial Intelligence/Deep Learning/Models/Transformer",
     "Artificial Intelligence/Deep Learning/Models/CNN",
-    "Artificial Intelligence/Deep Learning/Models/RNN",
     "Artificial Intelligence/Deep Learning/images/RNN.png",
     "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/3.实现细节.md",
     "Pasted image 20251020141619.png",
     "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/2.基本信息.md",
     "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/1.行文逻辑.md",
     "Courses/Scalable Systems and Data/PaperReading/II.Dynamo/Questions.md",
-    "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes",
     "Courses/Scalable Systems and Data/PaperReading/II.Dynamo/Notes.md",
     "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Questions.md",
     "Courses/Mathematices for machine learning/III.Deep Learning and Automatic Differentiation.md",
     "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
-    "Artificial Intelligence/Large Language Model/README.md",
-    "Artificial Intelligence/Machine Learning/9.Dimensionality Reduciton and Metric Learning/III.Principal Component Analysis (PCA).md",
-    "Artificial Intelligence/Machine Learning/9.Dimensionality Reduciton and Metric Learning/II.Low-Dimensional Embedding.md",
-    "Artificial Intelligence/Machine Learning/9.Dimensionality Reduciton and Metric Learning/I.K-Nearest Neighbor Learning.md",
     "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/images/abcd.png",
     "Artificial Intelligence/Reinforcement Learning/images/offpolicyMC.png",
     "Artificial Intelligence/Reinforcement Learning/images/onpolicyMC.png",
