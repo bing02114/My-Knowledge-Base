@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/Activation Funcitons/Activation Functions.md",
+                "file": "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/3.实现细节.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activation Functions"
+              "title": "3.实现细节"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -185,6 +184,17 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/2.基本信息.md",
+    "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/3.实现细节.md",
+    "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/1.行文逻辑.md",
+    "Courses/Scalable Systems and Data/PaperReading/II.Dynamo/Questions.md",
+    "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes",
+    "Courses/Scalable Systems and Data/PaperReading/II.Dynamo/Notes.md",
+    "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Questions.md",
+    "Courses/Scalable Systems and Data/PaperReading/II.Dynamo",
+    "Courses/Scalable Systems and Data/PaperReading/I.Bigtable",
+    "Artificial Intelligence/Deep Learning/Activation Funcitons/Activation Functions.md",
+    "Courses/Scalable Systems and Data/PaperReading",
     "Courses/Mathematices for machine learning/III.Deep Learning and Automatic Differentiation.md",
     "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
     "Artificial Intelligence/Large Language Model/README.md",
@@ -205,10 +215,6 @@
     "Courses/Computer Vision/VII.Interest Point Detection/VI.Automatic Scale Selection & SIFT.md",
     "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/Density",
     "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/IV.Prototype Clustering",
-    "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/III.Distance Calculation",
-    "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/II.Performance Measures",
-    "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/I.Clustering Task",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV",
     "Artificial Intelligence/Reinforcement Learning/III.Monte Carlo.md",
     "Artificial Intelligence/Reinforcement Learning/images/offpolicyMC.png",
     "Artificial Intelligence/Reinforcement Learning/images/onpolicyMC.png",
@@ -220,13 +226,6 @@
     "Courses/Computer Vision/VII.Interest Point Detection/II.Interest Points and Corner Detection.md",
     "Courses/Computer Vision/VII.Interest Point Detection/I.Introduction to Feature Detection.md",
     "Pasted image 20251020141619.png",
-    "Courses/Machine Learning Systems and Hardware/III.GPU/IV.GPU Memory System.md",
-    "Courses/Machine Learning Systems and Hardware/III.GPU/III.GPU Programming Model & Architecture.md",
-    "Courses/Machine Learning Systems and Hardware/III.GPU/II.Parallelism Concepts.md",
-    "Courses/Machine Learning Systems and Hardware/III.GPU/I.Introduction to GPUs.md",
-    "Artificial Intelligence/Machine Learning/7.Ensemble Learning/II.Boosting/IV.XGBoost.md",
-    "Artificial Intelligence/Machine Learning/7.Ensemble Learning/II.Boosting/III.GBDT.md",
-    "Artificial Intelligence/Machine Learning/7.Ensemble Learning/II.Boosting/II.AdaBoost.md",
     "Courses/Mathematices for machine learning/images/LogisticRegression.jpg",
     "Courses/Mathematices for machine learning/images/pytorchEinstein.png",
     "Courses/Mathematices for machine learning/images/MLE.jpg",
