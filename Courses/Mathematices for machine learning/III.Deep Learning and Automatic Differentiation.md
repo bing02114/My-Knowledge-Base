@@ -60,3 +60,13 @@ where `n` is the number of input parameters and `T` is the complexity of the for
 
 **Use Case**: Efficient when the number of inputs (n) is much smaller than the number of outputs (m).
 
+#### 3.2 Reverse Mode AD
+
+**Idea**: Also known as **Backpropagation**. It first performs a forward pass to compute the value of all intermediate variables. Then, it traverses the graph in reverse, from the final output back to the inputs, propagating the gradients
+
+**Computational Graphs**: This process is best understood using computational graphs, which represent the function as a directed graph of operations. The chain rule is applied at each node to calculate the gradient
+
+**Complexity**: O(mT), where m is the number of outputs. **It computes one row of the Jacobian matrix at a time**
+
+**Use Case**: Highly efficient for training neural networks because the loss function is a scalar, meaning there is only one output (m=1). This makes it much faster than forward mode when there are many parameters (n)
+

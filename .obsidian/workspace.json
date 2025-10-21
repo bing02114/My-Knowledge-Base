@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Mathematices for machine learning/III.Deep Learning and Automatic Differentiation.md",
+                "file": "Artificial Intelligence/Deep Learning/Activation Funcitons/Activation Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "III.Deep Learning and Automatic Differentiation"
+              "title": "Activation Functions"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -184,8 +185,8 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
-    "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
     "Courses/Mathematices for machine learning/III.Deep Learning and Automatic Differentiation.md",
+    "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
     "Artificial Intelligence/Large Language Model/README.md",
     "Programming Language/JAVA",
     "Programming Language/Python",
