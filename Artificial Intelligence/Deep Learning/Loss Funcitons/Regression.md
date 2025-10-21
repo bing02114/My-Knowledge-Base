@@ -8,6 +8,10 @@ $$\text{MAE} = \frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{y}_i)$$
 
 >It is robust to outliers. Because it does not square the errors, large errors are not penalized as heavily as in MSE.
 
+**Derivative**
+
+$$\frac{1}{n}sign(\hat{y_{i}}-y_{i})$$
+
 
 ### 2.Mean Squared Error (MSE) / L2
 
@@ -18,6 +22,10 @@ $$MSE=\frac{1}{n}\sum^{n}_{i=1}(y_{i}-\hat{y_{i}})^2$$
 **Properties**
 
 >**It penalizes large errors more heavily than small errors due to the squaring. It is differentiable, which makes it easy to use with gradient-based optimization methods. However, it is sensitive to outliers.**
+
+**Derivative**
+
+$$\frac{2}{n}(\hat{y_{i}}-y_{i})$$
 
 
 ### 3.Huber Loss

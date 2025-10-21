@@ -7,6 +7,9 @@ $$L=-\frac{1}{n}\sum^{n}_{i=1}[y_{i}log(\hat{y_{i}})+(1-y_i)log(1-\hat{y_{i}})]$
 
 >The loss increases as the predicted probability diverges from the actual label. A perfect model would have a log loss of 0.
 
+**Derivative**
+
+$$\frac{1}{n}\frac{\hat{y_{i}}-y_{i}}{\hat{y_{i}}(1-\hat{y_i{}})}$$
 
 ### 2.Categorical Cross-Entropy
 
@@ -17,6 +20,10 @@ $$L=-\frac{1}{n}\sum^{n}_{i=1}\sum^{C}_{j=1}y_{ij}log(\hat{y_{ij}})$$
 **Properties**
 
 >It measures the **dissimilarity between the true distribution (one-hot encoded vector) and the predicted distribution (output from a softmax layer).**
+
+**Derivative**
+
+$$\frac{\partial L_{i}}{\partial z_{ij}}=\hat{y}_{ij}-y_{ij}$$
 
 ### 3.Hinge Loss
 

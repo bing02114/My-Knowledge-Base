@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/3.实现细节.md",
+                "file": "Artificial Intelligence/Deep Learning/Models/RNN/III.GRU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.实现细节"
+              "title": "III.GRU"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -182,10 +183,31 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1f8bf7a0a955ba84",
+  "active": "1550c133d21316c7",
   "lastOpenFiles": [
-    "Pasted image 20251020141619.png",
+    "Artificial Intelligence/Deep Learning/Models/RNN/II.LSTM.md",
+    "Artificial Intelligence/Deep Learning/Models/RNN/I.RNN.md",
+    "Artificial Intelligence/Deep Learning/Models/CNN/I.CNN.md",
+    "Artificial Intelligence/Deep Learning/Optimizer",
+    "Artificial Intelligence/Frameworks and Libraries/Pytorch",
+    "Artificial Intelligence/Deep Learning/Loss Funcitons/Classification.md",
+    "Artificial Intelligence/Deep Learning/Loss Funcitons/Regression.md",
+    "Artificial Intelligence/Deep Learning/Activation Funcitons/Activation Functions.md",
+    "Artificial Intelligence/Deep Learning/Regularization/Regularization.md",
+    "Artificial Intelligence/Deep Learning/Regularization",
+    "Artificial Intelligence/Deep Learning/Normalization",
+    "Artificial Intelligence/Deep Learning/Models/Diffusion/IV.Stable Diffusion.md",
+    "Artificial Intelligence/Deep Learning/Models/Diffusion/III.Diffusion Model.md",
+    "Artificial Intelligence/Deep Learning/Models/Diffusion/I.GAN.md",
+    "Artificial Intelligence/Deep Learning/Models/Diffusion/II.VAE.md",
+    "Artificial Intelligence/Deep Learning/Models/RNN/III.GRU.md",
+    "Artificial Intelligence/Deep Learning/Models/Diffusion",
+    "Artificial Intelligence/Deep Learning/Models/Transformer",
+    "Artificial Intelligence/Deep Learning/Models/CNN",
+    "Artificial Intelligence/Deep Learning/Models/RNN",
+    "Artificial Intelligence/Deep Learning/images/RNN.png",
     "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/3.实现细节.md",
+    "Pasted image 20251020141619.png",
     "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/2.基本信息.md",
     "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/1.行文逻辑.md",
     "Courses/Scalable Systems and Data/PaperReading/II.Dynamo/Questions.md",
@@ -193,41 +215,20 @@
     "Courses/Scalable Systems and Data/PaperReading/II.Dynamo/Notes.md",
     "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Questions.md",
     "Courses/Scalable Systems and Data/PaperReading/II.Dynamo",
-    "Courses/Scalable Systems and Data/PaperReading/I.Bigtable",
-    "Artificial Intelligence/Deep Learning/Activation Funcitons/Activation Functions.md",
-    "Courses/Scalable Systems and Data/PaperReading",
     "Courses/Mathematices for machine learning/III.Deep Learning and Automatic Differentiation.md",
     "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
     "Artificial Intelligence/Large Language Model/README.md",
-    "Programming Language/JAVA",
-    "Programming Language/Python",
     "Artificial Intelligence/Machine Learning/9.Dimensionality Reduciton and Metric Learning/III.Principal Component Analysis (PCA).md",
     "Artificial Intelligence/Machine Learning/9.Dimensionality Reduciton and Metric Learning/II.Low-Dimensional Embedding.md",
     "Artificial Intelligence/Machine Learning/9.Dimensionality Reduciton and Metric Learning/I.K-Nearest Neighbor Learning.md",
     "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/VI.Hierarchical Clustering.md",
-    "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/V.Density Clustering.md",
-    "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/IV.Prototype Clustering.md",
-    "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/III.Distance Calculation.md",
-    "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/II.Performance Measures.md",
     "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/images/abcd.png",
-    "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/images",
-    "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/新建文件夹",
-    "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/I.Clustering Task.md",
-    "Courses/Computer Vision/VII.Interest Point Detection/VI.Automatic Scale Selection & SIFT.md",
-    "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/Density",
-    "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/IV.Prototype Clustering",
-    "Artificial Intelligence/Reinforcement Learning/III.Monte Carlo.md",
     "Artificial Intelligence/Reinforcement Learning/images/offpolicyMC.png",
     "Artificial Intelligence/Reinforcement Learning/images/onpolicyMC.png",
     "Artificial Intelligence/Reinforcement Learning/images/FirstVisitMC.png",
     "Artificial Intelligence/Reinforcement Learning/images/DPvsMC.png",
-    "Courses/Computer Vision/VII.Interest Point Detection/V.Invariance Properties.md",
-    "Courses/Computer Vision/VII.Interest Point Detection/IV.Shi-Tomasi Corner Detector.md",
-    "Courses/Computer Vision/VII.Interest Point Detection/III.The Harris Detector.md",
-    "Courses/Computer Vision/VII.Interest Point Detection/II.Interest Points and Corner Detection.md",
     "Courses/Mathematices for machine learning/images/LogisticRegression.jpg",
     "Courses/Mathematices for machine learning/images/pytorchEinstein.png",
-    "Courses/Mathematices for machine learning/images/MLE.jpg",
-    "Artificial Intelligence/Machine Learning/4.Neural Networks/images/sigmoid.png"
+    "Courses/Mathematices for machine learning/images/MLE.jpg"
   ]
 }

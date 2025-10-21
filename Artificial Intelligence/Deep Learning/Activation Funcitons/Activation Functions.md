@@ -16,11 +16,15 @@ $$\sigma(x)=\frac{1}{1+e^{-x}}$$
 
 >* **Vanshing Gradients**
 >* **Not Zero-Centered**
->* **Computationally Expensive**>
+>* **Computationally Expensive**
 
+**Derivative**
+
+$$\sigma(x)(1-\sigma(x))$$
+***
 ### 2.Tanh (Hyperbolic Tangent) Function
 
-$$tanh(x)=\frac{e^{x}-e^{-x}}{e^{x}+e^{-x}}$$
+$$\tanh(x)=\frac{e^{x}-e^{-x}}{e^{x}+e^{-x}}$$
 
 **Output Range**: (-1,1)
 
@@ -31,6 +35,10 @@ $$tanh(x)=\frac{e^{x}-e^{-x}}{e^{x}+e^{-x}}$$
 **Disadvantages**
 
 >It still suffers from the **vanishing gradient problem** for large positive or negative values.
+
+**Derivative**
+
+$$1-\tanh^{2}(x)$$
 
 ### 3.ReLU (Rectified Linear Unit) Function
 
@@ -83,3 +91,9 @@ $$Softmax(x_i)=\frac{e^{x_i}}{\sum^{K}_{j=1}e^{x_j}}$$
 **Properties**
 
 >The output can be interpreted as the model's confidence or probability for each class. The class with the highest probability is the model's final prediction.
+
+**Derivative**
+
+$$\frac{\partial S_{i}}{\partial z_{j}}=S_{i}(δ_{ij}-S_{j})$$
+
+where δij​=1 if i=j and 0 otherwise
