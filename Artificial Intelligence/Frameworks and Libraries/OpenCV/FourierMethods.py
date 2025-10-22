@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 try:
-    image = cv2.imread('image.jpg', cv2.IMREAD_GRAYSCALE)
+    image = cv2.imread('images/image.jpg', cv2.IMREAD_GRAYSCALE)
     if image is None:
         raise FileNotFoundError
 
@@ -28,13 +28,13 @@ dft_shift = np.fft.fftshift(dft)
 
 rows, cols = image.shape
 crows, ccols = rows // 2, cols // 2
-mask = np.zeros((rows,cols,2),np.uint8)
-mask[crows-30:crows+30, ccols-30:ccols+30] = 1
+mask = np.ones((rows,cols,2),np.uint8)
+mask[crows-30:crows+30, ccols-30:ccols+30] = 0
 
 fshift = dft_shift * mask
 f_ishift = np.fft.ifftshift(fshift)
 
-image_back = cv2.idft(fshift)
+image_back = cv2.idft(f_ishift)
 image_back = cv2.magnitude(image_back[:,:,0],image_back[:,:,1])
 image_back = np.uint8(cv2.normalize(image_back, None, 0, 255, cv2.NORM_MINMAX))
 

@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 try:
-    image = cv2.imread('image.jpg', cv2.IMREAD_GRAYSCALE)
+    image = cv2.imread('images/image.jpg', cv2.IMREAD_GRAYSCALE)
     if image is None:
         raise FileNotFoundError
 
@@ -29,6 +29,8 @@ contours, hierarchy = cv2.findContours(thresh,cv2.RETR_TREE, cv2.CHAIN_APPROX_SI
 contour_image = cv2.cvtColor(image,cv2.COLOR_GRAY2BGR)
 cv2.drawContours(contour_image, contours, -1, (0,255,0), 2)
 
+print(f"找到了 {len(contours)} 个轮廓。")
+
 if contours:
     cnt = max(contours, key=cv2.contourArea)
 
@@ -49,12 +51,12 @@ if contours:
         # 在图上标记质心
         cv2.circle(contour_image, (cx, cy), 5, (0, 0, 255), -1)
 
-# display_image("Contours and Centroid", contour_image)
+display_image("Contours and Centroid", contour_image)
 
 # 假设你有一张 'image.jpg' 和一张更小的 'template.jpg'
 try:
-    img_gray = cv2.imread('image.jpg', 0)
-    template = cv2.imread('template.jpg', 0)
+    img_gray = cv2.imread('images/image.jpg', 0)
+    template = cv2.imread('images/template.jpg', 0)
     if img_gray is None or template is None:
         raise FileNotFoundError
 
@@ -69,7 +71,7 @@ try:
     bottom_right = (top_left[0] + w, top_left[1] + h)
 
     # 在原图上绘制矩形框
-    img_bgr = cv2.imread('image.jpg')
+    img_bgr = cv2.imread('images/image.jpg')
     cv2.rectangle(img_bgr, top_left, bottom_right, (0, 0, 255), 2)
 
     # display_image("Template Matching Result", cv2.cvtColor(img_bgr, cv2.COLOR_BGR2RGB))
@@ -81,8 +83,8 @@ except FileNotFoundError:
 # 3.Feature Point Matching
 # 假设有两张图片，'image1.jpg' 和 'image2.jpg'
 try:
-    img1 = cv2.imread('image1.jpg', 0)
-    img2 = cv2.imread('image2.jpg', 0)
+    img1 = cv2.imread('images/image1.jpg', 0)
+    img2 = cv2.imread('images/image2.jpg', 0)
     if img1 is None or img2 is None:
         raise FileNotFoundError
 
@@ -105,7 +107,7 @@ try:
     # 3. 绘制前10个最佳匹配
     img_matches = cv2.drawMatches(img1, kp1, img2, kp2, matches[:10], None, flags=cv2.DrawMatchesFlags_NOT_DRAW_SINGLE_POINTS)
 
-    display_image("Feature Matches", img_matches)
+    # display_image("Feature Matches", img_matches)
 
 except FileNotFoundError:
     print("\n跳过特征匹配示例，因为需要 'image1.jpg' 和 'image2.jpg'。")
