@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Large Language Model/README.md",
+                "file": "Artificial Intelligence/Frameworks and Libraries/OpenCV/II.EdgeDetection/EdgeDetection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "EdgeDetection"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -184,9 +185,33 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/EdgeDetection.py~",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/I.ImageFiltering/Image Filter.md",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/II.EdgeDetection/EdgeDetection.md",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/II.EdgeDetection",
+    "Courses/Computer Vision/VIII.Feature Descriptors and Matching/V.Feature Matching Strategies.md",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/I.ImageFiltering",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/image2.jpg.~tmp",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/image2.jpg",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/image - 副本.jpg",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/image1.jpg.~tmp",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/image1.jpg",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/ShapeDetectionAndMatching.py~",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/template.jpg.~tmp",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/template.jpg",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/ShapeDetectionAndMatching.py",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/FourierMethods.py~",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/FourierMethods.py",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/ImageFiltering.py",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/image.jpg",
+    "Courses/Computer Vision/README.md",
+    "Courses/Computer Vision/VIII.Feature Descriptors and Matching/IV.SURF Descriptor.md",
+    "Courses/Computer Vision/VIII.Feature Descriptors and Matching/III.SIFT Descriptor.md",
+    "Courses/Computer Vision/VIII.Feature Descriptors and Matching/II.Properties of a Good Feature Descriptor.md",
+    "Courses/Computer Vision/VIII.Feature Descriptors and Matching/I.Image Processing with Local Features.md",
+    "Artificial Intelligence/Large Language Model/README.md",
     "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Inference/Inference Optimization.md",
     "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Inference/Decoding Strategies.md",
-    "Artificial Intelligence/Large Language Model/README.md",
     "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Training/Fine-tuning.md",
     "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Training/Pre-training.md",
     "Artificial Intelligence/Large Language Model/II.Core Archeitecutre-Transformer/II.Core Component-Attention Mechanism.md",
@@ -198,37 +223,13 @@
     "Artificial Intelligence/Large Language Model/IV.Model Classification & Evolution/Encoder-Decoder.md",
     "Artificial Intelligence/Large Language Model/IV.Model Classification & Evolution/Decoder-Only.md",
     "Artificial Intelligence/Large Language Model/IV.Model Classification & Evolution/Encoder-Only.md",
-    "Artificial Intelligence/Large Language Model/IV.Model Classification & Evolution/未命名",
-    "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Inference",
-    "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Training",
     "Artificial Intelligence/Large Language Model/II.Core Archeitecutre-Transformer/III.Other Key Modules.md",
     "Artificial Intelligence/Deep Learning/Models/Transformer/I.Transformer.md",
     "Artificial Intelligence/Deep Learning/Models/Transformer/images/transformer.png",
-    "Artificial Intelligence/Deep Learning/Models/Transformer/images",
-    "Artificial Intelligence/Deep Learning/Models/Transformer/新建文件夹",
     "Artificial Intelligence/Deep Learning/Models/Transformer/II.ViT.md",
-    "Artificial Intelligence/Deep Learning/Optimizer/Optimizer.md",
-    "Artificial Intelligence/Deep Learning/Regularization/Regularization.md",
-    "Artificial Intelligence/Deep Learning/Normalization/Normalization.md",
-    "Programming Language/CUDE Programming/README.md",
-    "Artificial Intelligence/Deep Learning/Models/RNN/III.GRU.md",
-    "Programming Language/CUDE Programming",
-    "Artificial Intelligence/Deep Learning/Models/RNN/II.LSTM.md",
-    "Artificial Intelligence/Deep Learning/Models/RNN/I.RNN.md",
-    "Artificial Intelligence/Deep Learning/Models/CNN/I.CNN.md",
-    "Artificial Intelligence/Deep Learning/Optimizer",
-    "Artificial Intelligence/Frameworks and Libraries/Pytorch",
-    "Artificial Intelligence/Deep Learning/Loss Funcitons/Classification.md",
-    "Artificial Intelligence/Deep Learning/Regularization",
-    "Artificial Intelligence/Deep Learning/Normalization",
     "Artificial Intelligence/Deep Learning/images/RNN.png",
     "Pasted image 20251020141619.png",
     "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/images/abcd.png",
-    "Artificial Intelligence/Reinforcement Learning/images/offpolicyMC.png",
-    "Artificial Intelligence/Reinforcement Learning/images/onpolicyMC.png",
-    "Artificial Intelligence/Reinforcement Learning/images/FirstVisitMC.png",
-    "Artificial Intelligence/Reinforcement Learning/images/DPvsMC.png",
-    "Courses/Mathematices for machine learning/images/LogisticRegression.jpg",
-    "Courses/Mathematices for machine learning/images/pytorchEinstein.png"
+    "Artificial Intelligence/Reinforcement Learning/images/offpolicyMC.png"
   ]
 }
