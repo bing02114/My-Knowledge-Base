@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Frameworks and Libraries/OpenCV/IV.ShapeRepresentationAndMatching/ShapeRepresentationAndMatching.md",
+                "file": "Artificial Intelligence/Frameworks and Libraries/OpenCV/VI.FeatureDescriptorsAndMatching/Feature Descriptors And Matching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ShapeRepresentationAndMatching"
+              "title": "Feature Descriptors And Matching"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -185,9 +184,16 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/FeatureDescriptorsAndMatching.py~",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/FeatureDescriptorsAndMatching.py",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/FeatureDescriptorsAndMatching",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/V.InterestPointDetection/Interest Point Detection.md",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/VI.FeatureDescriptorsAndMatching/Feature Descriptors And Matching.md",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/VI.FeatureDescriptorsAndMatching",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/IV.ShapeRepresentationAndMatching/ShapeRepresentationAndMatching.md",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/V.InterestPointDetection",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/ShapeDetectionAndMatching.py~",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/III.FourierMethods/Fourier Methods.md",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/IV.ShapeRepresentationAndMatching/ShapeRepresentationAndMatching.md",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/IV.ShapeRepresentationAndMatching",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/II.EdgeDetection/EdgeDetection.md",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/III.FourierMethods",
@@ -199,13 +205,9 @@
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/EdgeDetection.py~",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/I.ImageFiltering/Image Filter.md",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/II.EdgeDetection",
     "Courses/Computer Vision/VIII.Feature Descriptors and Matching/V.Feature Matching Strategies.md",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/I.ImageFiltering",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/image2.jpg.~tmp",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image2.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image - 副本.jpg",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/image1.jpg.~tmp",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image1.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/template.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image.jpg",
@@ -227,8 +229,6 @@
     "Artificial Intelligence/Large Language Model/V.Applications & Evaluation/RAG.md",
     "Artificial Intelligence/Large Language Model/IV.Model Classification & Evolution/Encoder-Decoder.md",
     "Artificial Intelligence/Large Language Model/IV.Model Classification & Evolution/Decoder-Only.md",
-    "Artificial Intelligence/Large Language Model/IV.Model Classification & Evolution/Encoder-Only.md",
-    "Artificial Intelligence/Large Language Model/II.Core Archeitecutre-Transformer/III.Other Key Modules.md",
     "Artificial Intelligence/Deep Learning/Models/Transformer/images/transformer.png"
   ]
 }
