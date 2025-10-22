@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Deep Learning/Models/Transformer/I.Transformer.md",
+                "file": "Artificial Intelligence/Large Language Model/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I.Transformer"
+              "title": "README"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -185,11 +184,29 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Inference/Inference Optimization.md",
+    "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Inference/Decoding Strategies.md",
+    "Artificial Intelligence/Large Language Model/README.md",
+    "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Training/Fine-tuning.md",
+    "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Training/Pre-training.md",
+    "Artificial Intelligence/Large Language Model/II.Core Archeitecutre-Transformer/II.Core Component-Attention Mechanism.md",
+    "Artificial Intelligence/Large Language Model/II.Core Archeitecutre-Transformer/I.Overall Structure.md",
+    "Artificial Intelligence/Large Language Model/I.Fundamental Concepts/III.Language Modeling.md",
+    "Artificial Intelligence/Large Language Model/I.Fundamental Concepts/II.Embedding.md",
+    "Artificial Intelligence/Large Language Model/I.Fundamental Concepts/I.Tokenizer.md",
+    "Artificial Intelligence/Large Language Model/V.Applications & Evaluation/RAG.md",
+    "Artificial Intelligence/Large Language Model/IV.Model Classification & Evolution/Encoder-Decoder.md",
+    "Artificial Intelligence/Large Language Model/IV.Model Classification & Evolution/Decoder-Only.md",
+    "Artificial Intelligence/Large Language Model/IV.Model Classification & Evolution/Encoder-Only.md",
+    "Artificial Intelligence/Large Language Model/IV.Model Classification & Evolution/未命名",
+    "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Inference",
+    "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Training",
+    "Artificial Intelligence/Large Language Model/II.Core Archeitecutre-Transformer/III.Other Key Modules.md",
+    "Artificial Intelligence/Deep Learning/Models/Transformer/I.Transformer.md",
     "Artificial Intelligence/Deep Learning/Models/Transformer/images/transformer.png",
     "Artificial Intelligence/Deep Learning/Models/Transformer/images",
     "Artificial Intelligence/Deep Learning/Models/Transformer/新建文件夹",
     "Artificial Intelligence/Deep Learning/Models/Transformer/II.ViT.md",
-    "Artificial Intelligence/Deep Learning/Models/Transformer/I.Transformer.md",
     "Artificial Intelligence/Deep Learning/Optimizer/Optimizer.md",
     "Artificial Intelligence/Deep Learning/Regularization/Regularization.md",
     "Artificial Intelligence/Deep Learning/Normalization/Normalization.md",
@@ -202,34 +219,16 @@
     "Artificial Intelligence/Deep Learning/Optimizer",
     "Artificial Intelligence/Frameworks and Libraries/Pytorch",
     "Artificial Intelligence/Deep Learning/Loss Funcitons/Classification.md",
-    "Artificial Intelligence/Deep Learning/Loss Funcitons/Regression.md",
-    "Artificial Intelligence/Deep Learning/Activation Funcitons/Activation Functions.md",
     "Artificial Intelligence/Deep Learning/Regularization",
     "Artificial Intelligence/Deep Learning/Normalization",
-    "Artificial Intelligence/Deep Learning/Models/Diffusion/IV.Stable Diffusion.md",
-    "Artificial Intelligence/Deep Learning/Models/Diffusion/III.Diffusion Model.md",
-    "Artificial Intelligence/Deep Learning/Models/Diffusion/I.GAN.md",
-    "Artificial Intelligence/Deep Learning/Models/Diffusion/II.VAE.md",
-    "Artificial Intelligence/Deep Learning/Models/Diffusion",
-    "Artificial Intelligence/Deep Learning/Models/Transformer",
-    "Artificial Intelligence/Deep Learning/Models/CNN",
     "Artificial Intelligence/Deep Learning/images/RNN.png",
-    "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/3.实现细节.md",
     "Pasted image 20251020141619.png",
-    "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/2.基本信息.md",
-    "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Notes/1.行文逻辑.md",
-    "Courses/Scalable Systems and Data/PaperReading/II.Dynamo/Questions.md",
-    "Courses/Scalable Systems and Data/PaperReading/II.Dynamo/Notes.md",
-    "Courses/Scalable Systems and Data/PaperReading/I.Bigtable/Questions.md",
-    "Courses/Mathematices for machine learning/III.Deep Learning and Automatic Differentiation.md",
-    "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
     "Artificial Intelligence/Machine Learning/8.Clustering Algorithm/images/abcd.png",
     "Artificial Intelligence/Reinforcement Learning/images/offpolicyMC.png",
     "Artificial Intelligence/Reinforcement Learning/images/onpolicyMC.png",
     "Artificial Intelligence/Reinforcement Learning/images/FirstVisitMC.png",
     "Artificial Intelligence/Reinforcement Learning/images/DPvsMC.png",
     "Courses/Mathematices for machine learning/images/LogisticRegression.jpg",
-    "Courses/Mathematices for machine learning/images/pytorchEinstein.png",
-    "Courses/Mathematices for machine learning/images/MLE.jpg"
+    "Courses/Mathematices for machine learning/images/pytorchEinstein.png"
   ]
 }

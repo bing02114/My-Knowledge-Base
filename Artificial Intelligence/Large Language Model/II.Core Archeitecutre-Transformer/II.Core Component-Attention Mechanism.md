@@ -50,3 +50,25 @@
 - **Increased Model Capacity:** 
 	
 	- It increases the model's capacity to capture complex patterns without significantly increasing the computational cost compared to using a single, very large attention mechanism.
+
+***
+### 3.Attention Mechanism Optimizations
+
+#### 1. MQA (Multi-Query Attention)
+
+- **Concept:**
+    
+    - **All heads share a single Key (K) and Value (V) head.** While there are still multiple Query (Q) heads (one for each attention head), the Key and Value projections are no longer split. This single K and V is then used by all Q heads to compute attention scores.
+        
+    - It drastically reduces the size of the K-V cache that needs to be stored and read during decoding, which is a major bottleneck.
+        
+
+---
+
+#### 2. GQA (Grouped-Query Attention)
+
+- **Concept:**
+    
+    - **An intermediate approach between standard Multi-Head Attention (MHA) and Multi-Query Attention (MQA).** Instead of all heads sharing one K/V pair, the Query heads are divided into several groups. **Heads within the same group share a single Key (K) and Value (V) head.**
+        
+    - It offers a trade-off: it is faster than MHA because it reduces the K-V cache size, but it often retains higher model quality than MQA because it allows for more representational diversity than having only one K/V pair.
