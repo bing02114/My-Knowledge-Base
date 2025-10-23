@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Frameworks and Libraries/OpenCV/VI.FeatureDescriptorsAndMatching/Feature Descriptors And Matching.md",
+                "file": "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feature Descriptors And Matching"
+              "title": "VIII.Feature Descriptors and Matching"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -185,11 +184,21 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Courses/Computer Vision/Exams Analysis/VII.Interest Point Detection.md",
+    "Courses/Computer Vision/Exams Analysis/VI.Shape Representation and Matching.md",
+    "Courses/Computer Vision/Exams Analysis/V.FourierMethods.md",
+    "Courses/Computer Vision/Exams Analysis/IV.Edge Detection.md",
+    "Courses/Computer Vision/Exams Analysis/III.ImageFiltering.md",
+    "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
+    "Courses/Computer Vision/IV.Edge Detection/Edge Detection.md",
+    "Courses/Computer Vision/README.md",
+    "Courses/Computer Vision/Exams Analysis",
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/VI.FeatureDescriptorsAndMatching/Feature Descriptors And Matching.md",
+    "Courses/Scheduling and Resource Allocation",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/FeatureDescriptorsAndMatching.py~",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/FeatureDescriptorsAndMatching.py",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/FeatureDescriptorsAndMatching",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/V.InterestPointDetection/Interest Point Detection.md",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/VI.FeatureDescriptorsAndMatching/Feature Descriptors And Matching.md",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/VI.FeatureDescriptorsAndMatching",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/IV.ShapeRepresentationAndMatching/ShapeRepresentationAndMatching.md",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/V.InterestPointDetection",
@@ -198,13 +207,10 @@
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/IV.ShapeRepresentationAndMatching",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/II.EdgeDetection/EdgeDetection.md",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/III.FourierMethods",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/FourierMethods.py~",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/template.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/image2.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/image1.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/image.jpg",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/images",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/EdgeDetection.py~",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/I.ImageFiltering/Image Filter.md",
     "Courses/Computer Vision/VIII.Feature Descriptors and Matching/V.Feature Matching Strategies.md",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image2.jpg",
@@ -212,7 +218,6 @@
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image1.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/template.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image.jpg",
-    "Courses/Computer Vision/README.md",
     "Courses/Computer Vision/VIII.Feature Descriptors and Matching/IV.SURF Descriptor.md",
     "Courses/Computer Vision/VIII.Feature Descriptors and Matching/III.SIFT Descriptor.md",
     "Courses/Computer Vision/VIII.Feature Descriptors and Matching/II.Properties of a Good Feature Descriptor.md",
@@ -224,12 +229,6 @@
     "Artificial Intelligence/Large Language Model/III.Key Technologies & Optimizations/Training/Pre-training.md",
     "Artificial Intelligence/Large Language Model/II.Core Archeitecutre-Transformer/II.Core Component-Attention Mechanism.md",
     "Artificial Intelligence/Large Language Model/II.Core Archeitecutre-Transformer/I.Overall Structure.md",
-    "Artificial Intelligence/Large Language Model/I.Fundamental Concepts/III.Language Modeling.md",
-    "Artificial Intelligence/Large Language Model/I.Fundamental Concepts/II.Embedding.md",
-    "Artificial Intelligence/Large Language Model/I.Fundamental Concepts/I.Tokenizer.md",
-    "Artificial Intelligence/Large Language Model/V.Applications & Evaluation/RAG.md",
-    "Artificial Intelligence/Large Language Model/IV.Model Classification & Evolution/Encoder-Decoder.md",
-    "Artificial Intelligence/Large Language Model/IV.Model Classification & Evolution/Decoder-Only.md",
     "Artificial Intelligence/Deep Learning/Models/Transformer/images/transformer.png"
   ]
 }
