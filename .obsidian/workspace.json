@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
+                "file": "Courses/Scheduling and Resource Allocation/I.Single Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "II.Generalized Linear Model & Gradient Descent"
+              "title": "I.Single Machine Learning"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -184,8 +185,9 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
-    "Courses/Mathematices for machine learning/Exam Anslysis/III.Deep Learning and Automatic Differentiation.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
+    "Courses/Scheduling and Resource Allocation/I.Single Machine Learning.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/III.Deep Learning and Automatic Differentiation.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/I.Linear Model.md",
     "Courses/Mathematices for machine learning/I.Linear Model.md",
     "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
@@ -223,7 +225,6 @@
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/image2.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/image1.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/image.jpg",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/I.ImageFiltering/Image Filter.md",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image2.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image - 副本.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image1.jpg",
