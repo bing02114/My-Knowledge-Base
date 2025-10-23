@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Scheduling and Resource Allocation/I.Single Machine Learning.md",
+                "file": "Courses/Scheduling and Resource Allocation/VI.Workflow scheduling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I.Single Machine Learning"
+              "title": "VI.Workflow scheduling"
             }
           }
         ]
@@ -185,8 +185,18 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
-    "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
+    "Courses/Scheduling and Resource Allocation/V.Parallel.md",
+    "Courses/Scheduling and Resource Allocation/VI.Workflow scheduling.md",
+    "Pasted image 20251023210637.png",
+    "Courses/Scheduling and Resource Allocation/images/Parallel.png",
+    "Courses/Scheduling and Resource Allocation/IV.Enumeration and local search.md",
+    "Courses/Scheduling and Resource Allocation/III.Single machine scheduling with due dates.md",
+    "Courses/Scheduling and Resource Allocation/images/EDD.png",
+    "Courses/Scheduling and Resource Allocation/images",
+    "Courses/Scheduling and Resource Allocation/新建文件夹",
+    "Courses/Scheduling and Resource Allocation/II.Single machine scheduling with release times.md",
     "Courses/Scheduling and Resource Allocation/I.Single Machine Learning.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/III.Deep Learning and Automatic Differentiation.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/I.Linear Model.md",
     "Courses/Mathematices for machine learning/I.Linear Model.md",
@@ -210,26 +220,16 @@
     "Courses/Computer Vision/IV.Edge Detection/Edge Detection.md",
     "Courses/Computer Vision/README.md",
     "Courses/Computer Vision/Exams Analysis",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/VI.FeatureDescriptorsAndMatching/Feature Descriptors And Matching.md",
     "Courses/Scheduling and Resource Allocation",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/FeatureDescriptorsAndMatching.py~",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/FeatureDescriptorsAndMatching.py",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/FeatureDescriptorsAndMatching",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/V.InterestPointDetection/Interest Point Detection.md",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/VI.FeatureDescriptorsAndMatching",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/IV.ShapeRepresentationAndMatching/ShapeRepresentationAndMatching.md",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/V.InterestPointDetection",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/III.FourierMethods/Fourier Methods.md",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/II.EdgeDetection/EdgeDetection.md",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/template.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/image2.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/image1.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/image.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image2.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image - 副本.jpg",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/image1.jpg",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/template.jpg",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/image.jpg",
-    "Artificial Intelligence/Deep Learning/Models/Transformer/images/transformer.png"
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/image1.jpg"
   ]
 }
