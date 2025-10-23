@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Reinforcement Learning/Exam Analysis/I.MDPs.md",
+                "file": "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I.MDPs"
+              "title": "II.Generalized Linear Model & Gradient Descent"
             }
           }
         ]
@@ -184,21 +184,27 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
-    "Courses/Reinforcement Learning/Exam Analysis/II.DP.md",
-    "Courses/Reinforcement Learning/Exam Analysis/III.MC.md",
-    "Courses/Reinforcement Learning/Exam Analysis/IV.TD.md",
-    "Courses/Reinforcement Learning/Exam Analysis/I.MDPs.md",
-    "Courses/Reinforcement Learning/Exam Analysis/V.Value-function Approximation.md",
-    "Courses/Reinforcement Learning/Exam Analysis/VII.Model-Based RL + Exploration and Exploitation.md",
-    "Courses/Reinforcement Learning/Exam Analysis/VI.Policy Gradient Methods.md",
-    "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
-    "Courses/Reinforcement Learning/Exam Analysis/未命名",
-    "Courses/Reinforcement Learning/Exam Analysis",
+    "Courses/Mathematices for machine learning/Exam Anslysis/III.Deep Learning and Automatic Differentiation.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/I.Linear Model.md",
+    "Courses/Mathematices for machine learning/I.Linear Model.md",
+    "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
     "Courses/Computer Vision/Exams Analysis/VII.Interest Point Detection.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis",
+    "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
     "Courses/Computer Vision/Exams Analysis/VI.Shape Representation and Matching.md",
     "Courses/Computer Vision/Exams Analysis/V.FourierMethods.md",
     "Courses/Computer Vision/Exams Analysis/IV.Edge Detection.md",
     "Courses/Computer Vision/Exams Analysis/III.ImageFiltering.md",
+    "Courses/Reinforcement Learning/Exam Analysis/I.MDPs.md",
+    "Courses/Reinforcement Learning/Exam Analysis/II.DP.md",
+    "Courses/Reinforcement Learning/Exam Analysis/III.MC.md",
+    "Courses/Reinforcement Learning/Exam Analysis/IV.TD.md",
+    "Courses/Reinforcement Learning/Exam Analysis/V.Value-function Approximation.md",
+    "Courses/Reinforcement Learning/Exam Analysis/VII.Model-Based RL + Exploration and Exploitation.md",
+    "Courses/Reinforcement Learning/Exam Analysis/VI.Policy Gradient Methods.md",
+    "Courses/Reinforcement Learning/Exam Analysis/未命名",
+    "Courses/Reinforcement Learning/Exam Analysis",
     "Courses/Computer Vision/IV.Edge Detection/Edge Detection.md",
     "Courses/Computer Vision/README.md",
     "Courses/Computer Vision/Exams Analysis",
@@ -211,7 +217,6 @@
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/VI.FeatureDescriptorsAndMatching",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/IV.ShapeRepresentationAndMatching/ShapeRepresentationAndMatching.md",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/V.InterestPointDetection",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/ShapeDetectionAndMatching.py~",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/III.FourierMethods/Fourier Methods.md",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/II.EdgeDetection/EdgeDetection.md",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/template.jpg",
@@ -219,16 +224,11 @@
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/image1.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/image.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/I.ImageFiltering/Image Filter.md",
-    "Courses/Computer Vision/VIII.Feature Descriptors and Matching/V.Feature Matching Strategies.md",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image2.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image - 副本.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image1.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/template.jpg",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/image.jpg",
-    "Courses/Computer Vision/VIII.Feature Descriptors and Matching/IV.SURF Descriptor.md",
-    "Courses/Computer Vision/VIII.Feature Descriptors and Matching/III.SIFT Descriptor.md",
-    "Courses/Computer Vision/VIII.Feature Descriptors and Matching/II.Properties of a Good Feature Descriptor.md",
-    "Courses/Computer Vision/VIII.Feature Descriptors and Matching/I.Image Processing with Local Features.md",
     "Artificial Intelligence/Deep Learning/Models/Transformer/images/transformer.png"
   ]
 }
