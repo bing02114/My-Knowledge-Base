@@ -65,8 +65,8 @@ import matplotlib.pyplot as plt
 # Load the two images.
 # --- 中文 ---
 # 加载两张图片。
-img1_bgr = cv2.imread('images/image1.jpg') # Load color image
-img2_bgr = cv2.imread('images/image.jpg') # Load color image
+img1_bgr = cv2.imread('images/boat1.png') # Load color image
+img2_bgr = cv2.imread('images/boat2.png') # Load color image
 
 if img1_bgr is None or img2_bgr is None:
     print("Error: Could not load one or both images.")

@@ -163,7 +163,7 @@ import os
 # --- 中文 ---
 # 定义图像的路径。请确保此处有一个图像文件。
 # 例如，您可以使用前面例子中的 'building.jpg'。
-image_path = 'images/image.jpg'
+image_path = 'images/boat2.png'
 
 # --- English ---
 # Load the image from disk.
