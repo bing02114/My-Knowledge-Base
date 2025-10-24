@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
+                "file": "Courses/Mathematices for machine learning/Exam Anslysis/IV.Convexity,Convergence,and Optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIII.Feature Descriptors and Matching"
+              "title": "IV.Convexity,Convergence,and Optimization"
             }
           }
         ]
@@ -184,12 +184,16 @@
   },
   "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Courses/Mathematices for machine learning/Exam Anslysis/III.Deep Learning and Automatic Differentiation.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/I.Linear Model.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/IV.Convexity,Convergence,and Optimization.md",
+    "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
     "Courses/Computer Vision/Exams Analysis/VII.Interest Point Detection.md",
     "Courses/Computer Vision/Exams Analysis/VI.Shape Representation and Matching.md",
     "Courses/Computer Vision/Exams Analysis/V.FourierMethods.md",
     "Courses/Computer Vision/Exams Analysis/IV.Edge Detection.md",
     "Courses/Computer Vision/Exams Analysis/III.ImageFiltering.md",
-    "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
     "Courses/Mathematices for machine learning/IV.Convexity,Convergence,and Optimization.md",
     "Courses/Mathematices for machine learning/images/convergence.jpg",
     "Courses/Mathematices for machine learning/images/upbound1.jpg",
@@ -209,9 +213,6 @@
     "Courses/Scheduling and Resource Allocation/新建文件夹",
     "Courses/Scheduling and Resource Allocation/II.Single machine scheduling with release times.md",
     "Courses/Scheduling and Resource Allocation/I.Single Machine Learning.md",
-    "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
-    "Courses/Mathematices for machine learning/Exam Anslysis/III.Deep Learning and Automatic Differentiation.md",
-    "Courses/Mathematices for machine learning/Exam Anslysis/I.Linear Model.md",
     "Courses/Mathematices for machine learning/I.Linear Model.md",
     "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
     "Courses/Mathematices for machine learning/Exam Anslysis",
