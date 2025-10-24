@@ -1,12 +1,20 @@
 ### 1.Progress Bounds for Gradient Descent
 
+![](../images/upbound.jpg)
 
+![](../images/upbound1.jpg)
 ### 2.Convex Optimization
 
+**An optimization problem is convex if and only if**
 
+* The function is convex
+* The solution set is convex
 
-### 3.Convergence in Machine Learning
+**Implications of Convexity**
 
+* All local minimums are global minimums
+* If a function is strictly convex, then the global minimum is unique
 
+### 3.Convergence in Machine Learning / Linear Models
 
-### 4.Convergence in Linear Models
+![](../images/convergence.jpg)
