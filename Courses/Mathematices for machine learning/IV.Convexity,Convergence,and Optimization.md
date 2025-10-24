@@ -1,8 +1,8 @@
 ### 1.Progress Bounds for Gradient Descent
 
-![](Courses/Mathematices%20for%20machine%20learning/images/upbound.jpg)
+![](./images/upbound.jpg)
 
-![](Courses/Mathematices%20for%20machine%20learning/images/upbound1.jpg)
+![](./images/upbound1.jpg)
 ### 2.Convex Optimization
 
 **An optimization problem is convex if and only if**
@@ -17,4 +17,4 @@
 
 ### 3.Convergence in Machine Learning / Linear Models
 
-![](Courses/Mathematices%20for%20machine%20learning/images/convergence.jpg)
+![](./images/convergence.jpg)
