@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Mathematices for machine learning/IV.Convexity,Convergence,and Optimization.md",
+                "file": "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IV.Convexity,Convergence,and Optimization"
+              "title": "VIII.Feature Descriptors and Matching"
             }
           }
         ]
@@ -182,8 +182,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1f8bf7a0a955ba84",
+  "active": "1550c133d21316c7",
   "lastOpenFiles": [
+    "Courses/Computer Vision/Exams Analysis/VII.Interest Point Detection.md",
+    "Courses/Computer Vision/Exams Analysis/VI.Shape Representation and Matching.md",
+    "Courses/Computer Vision/Exams Analysis/V.FourierMethods.md",
+    "Courses/Computer Vision/Exams Analysis/IV.Edge Detection.md",
+    "Courses/Computer Vision/Exams Analysis/III.ImageFiltering.md",
+    "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
+    "Courses/Mathematices for machine learning/IV.Convexity,Convergence,and Optimization.md",
     "Courses/Mathematices for machine learning/images/convergence.jpg",
     "Courses/Mathematices for machine learning/images/upbound1.jpg",
     "Courses/Mathematices for machine learning/images/upbound.jpg",
@@ -192,7 +199,6 @@
     "Courses/Mathematices for machine learning/images/扫描全能王 2025-10-24 20.01_2.jpg",
     "Courses/Mathematices for machine learning/images/扫描全能王 2025-10-24 20.01_1.jpg",
     "Courses/Scheduling and Resource Allocation/VI.Workflow scheduling.md",
-    "Courses/Mathematices for machine learning/IV.Convexity,Convergence,and Optimization.md",
     "Courses/Scheduling and Resource Allocation/V.Parallel.md",
     "Pasted image 20251023210637.png",
     "Courses/Scheduling and Resource Allocation/images/Parallel.png",
@@ -208,13 +214,7 @@
     "Courses/Mathematices for machine learning/Exam Anslysis/I.Linear Model.md",
     "Courses/Mathematices for machine learning/I.Linear Model.md",
     "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
-    "Courses/Computer Vision/Exams Analysis/VII.Interest Point Detection.md",
     "Courses/Mathematices for machine learning/Exam Anslysis",
-    "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
-    "Courses/Computer Vision/Exams Analysis/VI.Shape Representation and Matching.md",
-    "Courses/Computer Vision/Exams Analysis/V.FourierMethods.md",
-    "Courses/Computer Vision/Exams Analysis/IV.Edge Detection.md",
-    "Courses/Computer Vision/Exams Analysis/III.ImageFiltering.md",
     "Courses/Reinforcement Learning/Exam Analysis/I.MDPs.md",
     "Courses/Reinforcement Learning/Exam Analysis/II.DP.md",
     "Courses/Reinforcement Learning/Exam Analysis/III.MC.md",
@@ -228,7 +228,6 @@
     "Courses/Scheduling and Resource Allocation",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/FeatureDescriptorsAndMatching.py~",
     "Artificial Intelligence/Frameworks and Libraries/OpenCV/FeatureDescriptorsAndMatching.py",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/FeatureDescriptorsAndMatching",
-    "Artificial Intelligence/Frameworks and Libraries/OpenCV/images/template.jpg"
+    "Artificial Intelligence/Frameworks and Libraries/OpenCV/FeatureDescriptorsAndMatching"
   ]
 }
