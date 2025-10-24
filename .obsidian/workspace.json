@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Mathematices for machine learning/Exam Anslysis/IV.Convexity,Convergence,and Optimization.md",
+                "file": "Courses/Mathematices for machine learning/IV.Convexity,Convergence,and Optimization.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -183,7 +182,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1550c133d21316c7",
+  "active": "1f8bf7a0a955ba84",
   "lastOpenFiles": [
     "Courses/Mathematices for machine learning/images/convergence.jpg",
     "Courses/Mathematices for machine learning/images/upbound1.jpg",
@@ -193,7 +192,7 @@
     "Courses/Mathematices for machine learning/images/扫描全能王 2025-10-24 20.01_2.jpg",
     "Courses/Mathematices for machine learning/images/扫描全能王 2025-10-24 20.01_1.jpg",
     "Courses/Scheduling and Resource Allocation/VI.Workflow scheduling.md",
-    "Courses/Mathematices for machine learning/Exam Anslysis/IV.Convexity,Convergence,and Optimization.md",
+    "Courses/Mathematices for machine learning/IV.Convexity,Convergence,and Optimization.md",
     "Courses/Scheduling and Resource Allocation/V.Parallel.md",
     "Pasted image 20251023210637.png",
     "Courses/Scheduling and Resource Allocation/images/Parallel.png",
