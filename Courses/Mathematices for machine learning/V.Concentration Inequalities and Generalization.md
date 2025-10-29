@@ -57,7 +57,46 @@ $$\forall \epsilon \gt0,\lim_{k\rightarrow \infty}P(|\hat{r}_k-a|\geq\epsilon)=0
 
 #### 3.1 Markov's Inequality
 
+* Provides a loose bound for any **non-negative** random variable
+
+![](./images/markovIeq.jpg)
+
+>The probability that a non-negative variable is greater than some value is limited by its expectation
+
 #### 3.2 Chebyshev's Inequality
+
+* Derived by applying Markov's inequalily to the variance of a random variable
+
+![](./images/chebyshev.jpg)
 
 ***
 ### 4.The Payoff - Law of Large Numbers and Sample Size
+
+#### 4.1 Weak Law of Large Numbers
+
+* The law is derived by applying Chebyshev's inequality to the sample mean
+
+**Unbiased Estimator**
+
+**Variance decreases with sample size**
+
+![](./images/EV.jpg)
+
+![](./images/weaklln.jpg)
+
+#### 4.2 Answering "How long should our trial run be"
+
+* We frame our goal using the **Probably Approximately Correct (PAC)** framework. We want the probability that our estimate is wrong by more than $\epsilon$ to be no more than δ
+
+* We set the bound from the Weak Law of Large Numbers to be less than or equal to our desired failure probability
+
+![](./images/k.jpg)
+
+#### 4.3 Generalization Bound 
+
+* This extends the analysis from a single model to a whole class of models (or hypotheses)
+
+$$P[\sup_{\theta \in \Theta}|R(\theta)-R_{emp}(\theta)|\gt \epsilon]\leq \frac{|\Theta|}{4n\epsilon^{2}}$$
+
+* This shows that the generalization error depends on **the size of the hypothesis class** and **the number of sample n**
+
