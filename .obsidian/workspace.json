@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8188be3a6495748a",
+        "id": "b46410af5cf6048d",
         "type": "tabs",
         "children": [
           {
-            "id": "3b233b9f7b47490a",
+            "id": "55b6e429e225cc24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Mathematices for machine learning/V.Concentration Inequalities and Generalization.md",
+                "file": "Courses/Computer Vision/Exams Analysis/III.ImageFiltering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "V.Concentration Inequalities and Generalization"
-            }
-          },
-          {
-            "id": "ea7f47662a69925f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Mathematices for machine learning/Exam Anslysis/V.Concentration Inequalities and Generalization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "V.Concentration Inequalities and Generalization"
+              "title": "III.ImageFiltering"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,13 +183,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ea7f47662a69925f",
+  "active": "55b6e429e225cc24",
   "lastOpenFiles": [
+    "Courses/Computer Vision/Exams Analysis/IV.Edge Detection.md",
+    "Courses/Computer Vision/Exams Analysis/V.FourierMethods.md",
+    "Courses/Computer Vision/Exams Analysis/III.ImageFiltering.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/I.Linear Model.md",
+    "Courses/Computer Vision/Exams Analysis/VI.Shape Representation and Matching.md",
+    "Courses/Computer Vision/Exams Analysis/X.Camera Geometry.md",
+    "Courses/Computer Vision/Exams Analysis/XI.Computational Stereo.md",
+    "Courses/Computer Vision/Exams Analysis/VIIII.Feature Tracking.md",
+    "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/V.Concentration Inequalities and Generalization.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/IV.Convexity,Convergence,and Optimization.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/III.Deep Learning and Automatic Differentiation.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
-    "Courses/Mathematices for machine learning/Exam Anslysis/I.Linear Model.md",
-    "Courses/Mathematices for machine learning/Exam Anslysis/V.Concentration Inequalities and Generalization.md",
     "Courses/Mathematices for machine learning/知识结构.excalidraw.md",
     "Courses/Mathematices for machine learning/I.Linear Model.md",
     "Courses/Mathematices for machine learning/V.Concentration Inequalities and Generalization.md",
@@ -219,15 +212,7 @@
     "Courses/Computer Vision/知识结构.md",
     "Courses/Computer Vision/README.md",
     "Courses/Scheduling and Resource Allocation/VI.Workflow scheduling.md",
-    "Courses/Scheduling and Resource Allocation/V.Parallel machine scheduling.md",
-    "Courses/Computer Vision/XI.Computational Stereo/II.Part2.md",
-    "Courses/Computer Vision/IX.Feature Tracking/V.Tracking Errors and Evaluation.md",
     "Courses/Computer Vision/XI.Computational Stereo/未命名",
-    "Courses/Computer Vision/XI.Computational Stereo/I.Part1.md",
-    "Courses/Machine Learning Systems and Hardware/IV.AI Hardware/II.AI Hardware.md",
-    "Courses/Machine Learning Systems and Hardware/IV.AI Hardware/I.Custom Kernel Integration.md",
-    "Courses/Machine Learning Systems and Hardware/III.GPU/IV.GPU Memory System.md",
-    "Courses/Machine Learning Systems and Hardware/III.GPU/III.GPU Programming Model & Architecture.md",
     "Courses/Machine Learning Systems and Hardware/IV.AI Hardware",
     "Courses/Mathematices for machine learning/CourseWork/未命名",
     "Courses/Mathematices for machine learning/CourseWork",
