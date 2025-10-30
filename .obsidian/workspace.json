@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0c491d7697674631",
+        "id": "8188be3a6495748a",
         "type": "tabs",
         "children": [
           {
-            "id": "1550c133d21316c7",
+            "id": "3b233b9f7b47490a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Machine Learning Systems and Hardware/IV.AI Hardware/I.Custom Kernel Integration.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "I.Custom Kernel Integration"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -182,10 +179,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1550c133d21316c7",
+  "active": "3b233b9f7b47490a",
   "lastOpenFiles": [
-    "Courses/Machine Learning Systems and Hardware/III.GPU/IV.GPU Memory System.md",
+    "Courses/Scheduling and Resource Allocation/VI.Workflow scheduling.md",
+    "Courses/Scheduling and Resource Allocation/V.Parallel machine scheduling.md",
+    "Courses/Computer Vision/XI.Computational Stereo/II.Part2.md",
+    "Courses/Computer Vision/IX.Feature Tracking/V.Tracking Errors and Evaluation.md",
+    "Courses/Computer Vision/XI.Computational Stereo/未命名",
+    "Courses/Computer Vision/XI.Computational Stereo/I.Part1.md",
+    "Courses/Machine Learning Systems and Hardware/IV.AI Hardware/II.AI Hardware.md",
     "Courses/Machine Learning Systems and Hardware/IV.AI Hardware/I.Custom Kernel Integration.md",
+    "Courses/Machine Learning Systems and Hardware/III.GPU/IV.GPU Memory System.md",
     "Courses/Machine Learning Systems and Hardware/III.GPU/III.GPU Programming Model & Architecture.md",
     "Courses/Machine Learning Systems and Hardware/III.GPU/II.Parallelism Concepts.md",
     "Courses/Machine Learning Systems and Hardware/III.GPU/I.Introduction to GPUs.md",
@@ -198,7 +202,6 @@
     "Courses/Mathematices for machine learning/CourseWork/未命名",
     "Courses/Computer Vision/VII.Interest Point Detection/II.Interest Points and Corner Detection.md",
     "Courses/Mathematices for machine learning/CourseWork",
-    "Courses/Computer Vision/XI.Computational Stereo/I.Part1.md",
     "Courses/Computer Vision/X.Camera Geometry/VI.Radial Distortion.md",
     "Courses/Computer Vision/XI.Computational Stereo",
     "Courses/Computer Vision/X.Camera Geometry/V.Other Projection Models.md",
@@ -206,13 +209,10 @@
     "Courses/Computer Vision/X.Camera Geometry/III.The Pinhole Camera Model.md",
     "Courses/Computer Vision/X.Camera Geometry/II.2D Planar Transformatinos.md",
     "Courses/Computer Vision/X.Camera Geometry/I.Introduction to Camara Models.md",
-    "Courses/Computer Vision/IX.Feature Tracking/V.Tracking Errors and Evaluation.md",
     "Courses/Computer Vision/X.Camera Geometry",
     "Courses/Computer Vision/IX.Feature Tracking/IV.Extended Kalman Filter (EKF).md",
     "Courses/Computer Vision/IX.Feature Tracking/III.Kalman Filter.md",
     "Courses/Computer Vision/IX.Feature Tracking/II.The Lucas-Kanade (LK) Tracker.md",
-    "Courses/Computer Vision/IX.Feature Tracking/I.Tracking in Image Sequence.md",
-    "Courses/Mathematices for machine learning/V.Concentration Inequalities and Generalization.md",
     "Courses/Computer Vision/IX.Feature Tracking",
     "Courses/Mathematices for machine learning/images/k.jpg",
     "Courses/Mathematices for machine learning/images/weaklln.jpg",
@@ -224,11 +224,8 @@
     "Courses/Mathematices for machine learning/images/扫描全能王 2025-10-28 10.59_4.jpg",
     "Courses/Mathematices for machine learning/images/扫描全能王 2025-10-28 10.59_3.jpg",
     "Courses/Mathematices for machine learning/images/扫描全能王 2025-10-28 10.59_2.jpg",
-    "Courses/Scheduling and Resource Allocation/Exam Analysis/IV.Enumeration and Local Search.md",
-    "Courses/Scheduling and Resource Allocation/Exam Analysis/III.Single Machine Scheduling with Due Date.md",
     "Courses/Scheduling and Resource Allocation/Exam Analysis",
     "Courses/Scheduling and Resource Allocation/images",
-    "Courses/Scheduling and Resource Allocation/新建文件夹",
-    "Courses/Mathematices for machine learning/Exam Anslysis"
+    "Courses/Scheduling and Resource Allocation/新建文件夹"
   ]
 }
