@@ -11,13 +11,32 @@
             "id": "3b233b9f7b47490a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Mathematices for machine learning/V.Concentration Inequalities and Generalization.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "V.Concentration Inequalities and Generalization"
+            }
+          },
+          {
+            "id": "ea7f47662a69925f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Mathematices for machine learning/Exam Anslysis/V.Concentration Inequalities and Generalization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V.Concentration Inequalities and Generalization"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -176,11 +194,30 @@
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3b233b9f7b47490a",
+  "active": "ea7f47662a69925f",
   "lastOpenFiles": [
+    "Courses/Mathematices for machine learning/Exam Anslysis/IV.Convexity,Convergence,and Optimization.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/III.Deep Learning and Automatic Differentiation.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/I.Linear Model.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/V.Concentration Inequalities and Generalization.md",
+    "Courses/Mathematices for machine learning/知识结构.excalidraw.md",
+    "Courses/Mathematices for machine learning/I.Linear Model.md",
+    "Courses/Mathematices for machine learning/V.Concentration Inequalities and Generalization.md",
+    "Courses/Mathematices for machine learning/未命名.canvas",
+    "Courses/Mathematices for machine learning/IV.Convexity,Convergence,and Optimization.md",
+    "Courses/Mathematices for machine learning/III.Deep Learning and Automatic Differentiation.md",
+    "Courses/Mathematices for machine learning/II.Generalized Linear Models & Gradient Descent.md",
+    "README.md",
+    "Courses/Computer Vision/IV.Edge Detection/Edge Detection.md",
+    "Courses/Computer Vision/X.Camera Geometry/III.The Pinhole Camera Model.md",
+    "Courses/Computer Vision/X.Camera Geometry/I.Introduction to Camara Models.md",
+    "Courses/Computer Vision/知识结构.md",
+    "Courses/Computer Vision/README.md",
     "Courses/Scheduling and Resource Allocation/VI.Workflow scheduling.md",
     "Courses/Scheduling and Resource Allocation/V.Parallel machine scheduling.md",
     "Courses/Computer Vision/XI.Computational Stereo/II.Part2.md",
@@ -191,28 +228,11 @@
     "Courses/Machine Learning Systems and Hardware/IV.AI Hardware/I.Custom Kernel Integration.md",
     "Courses/Machine Learning Systems and Hardware/III.GPU/IV.GPU Memory System.md",
     "Courses/Machine Learning Systems and Hardware/III.GPU/III.GPU Programming Model & Architecture.md",
-    "Courses/Machine Learning Systems and Hardware/III.GPU/II.Parallelism Concepts.md",
-    "Courses/Machine Learning Systems and Hardware/III.GPU/I.Introduction to GPUs.md",
-    "Courses/Machine Learning Systems and Hardware/II.CompileMap/I.The Role and Pipleline of ML Compilation.md",
-    "Courses/Machine Learning Systems and Hardware/II.CompileMap/II.Fundamentals of ML Hardware.md",
-    "Courses/Mathematices for machine learning/CourseWork/II.要求内容与论文结构.md",
     "Courses/Machine Learning Systems and Hardware/IV.AI Hardware",
-    "Courses/Mathematices for machine learning/CourseWork/I.完成思路.md",
-    "Courses/Mathematices for machine learning/CourseWork/未命名.md",
     "Courses/Mathematices for machine learning/CourseWork/未命名",
-    "Courses/Computer Vision/VII.Interest Point Detection/II.Interest Points and Corner Detection.md",
     "Courses/Mathematices for machine learning/CourseWork",
-    "Courses/Computer Vision/X.Camera Geometry/VI.Radial Distortion.md",
     "Courses/Computer Vision/XI.Computational Stereo",
-    "Courses/Computer Vision/X.Camera Geometry/V.Other Projection Models.md",
-    "Courses/Computer Vision/X.Camera Geometry/IV.The Camera Projection Matrix.md",
-    "Courses/Computer Vision/X.Camera Geometry/III.The Pinhole Camera Model.md",
-    "Courses/Computer Vision/X.Camera Geometry/II.2D Planar Transformatinos.md",
-    "Courses/Computer Vision/X.Camera Geometry/I.Introduction to Camara Models.md",
     "Courses/Computer Vision/X.Camera Geometry",
-    "Courses/Computer Vision/IX.Feature Tracking/IV.Extended Kalman Filter (EKF).md",
-    "Courses/Computer Vision/IX.Feature Tracking/III.Kalman Filter.md",
-    "Courses/Computer Vision/IX.Feature Tracking/II.The Lucas-Kanade (LK) Tracker.md",
     "Courses/Computer Vision/IX.Feature Tracking",
     "Courses/Mathematices for machine learning/images/k.jpg",
     "Courses/Mathematices for machine learning/images/weaklln.jpg",
