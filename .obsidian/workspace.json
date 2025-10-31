@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Computer Vision/Exams Analysis/III.ImageFiltering.md",
+                "file": "Courses/Reinforcement Learning/Exam Analysis/I.MDPs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "III.ImageFiltering"
+              "title": "I.MDPs"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "55b6e429e225cc24",
   "lastOpenFiles": [
+    "Courses/Computer Vision/Exams Analysis/III.ImageFiltering.md",
     "Courses/Computer Vision/Exams Analysis/IV.Edge Detection.md",
     "Courses/Computer Vision/Exams Analysis/V.FourierMethods.md",
-    "Courses/Computer Vision/Exams Analysis/III.ImageFiltering.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/I.Linear Model.md",
     "Courses/Computer Vision/Exams Analysis/VI.Shape Representation and Matching.md",
     "Courses/Computer Vision/Exams Analysis/X.Camera Geometry.md",
