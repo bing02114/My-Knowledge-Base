@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -183,7 +184,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1f8bf7a0a955ba84",
+  "active": "55b6e429e225cc24",
   "lastOpenFiles": [
     "Courses/Mathematices for machine learning/CourseWork/作业分析.pdf",
     "Courses/Mathematices for machine learning/VI.Cross Validation & Bias-Variance Trade-off.md",
