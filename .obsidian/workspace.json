@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -185,6 +186,10 @@
   },
   "active": "55b6e429e225cc24",
   "lastOpenFiles": [
+    "Courses/Mathematices for machine learning/images/PredictDecomp.jpg",
+    "Courses/Mathematices for machine learning/images/Decomposition.jpg",
+    "Courses/Mathematices for machine learning/images/扫描全能王 2025-11-2 11.13_2.jpg",
+    "Courses/Mathematices for machine learning/images/扫描全能王 2025-11-2 11.13_1.jpg",
     "Courses/Mathematices for machine learning/Exam Anslysis/VI.Cross Validation & Bias-Variance Trade-off.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/V.Concentration Inequalities and Generalization.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/IV.Convexity,Convergence,and Optimization.md",
@@ -212,7 +217,6 @@
     "Courses/Mathematices for machine learning/V.Concentration Inequalities and Generalization.md",
     "Courses/Mathematices for machine learning/未命名.canvas",
     "Courses/Mathematices for machine learning/IV.Convexity,Convergence,and Optimization.md",
-    "Courses/Mathematices for machine learning/III.Deep Learning and Automatic Differentiation.md",
     "Courses/Computer Vision/XI.Computational Stereo/未命名",
     "Courses/Machine Learning Systems and Hardware/IV.AI Hardware",
     "Courses/Mathematices for machine learning/CourseWork/未命名",
@@ -227,9 +231,6 @@
     "Courses/Mathematices for machine learning/images/chebyshev.jpg",
     "Courses/Mathematices for machine learning/images/markovIeq.jpg",
     "Courses/Mathematices for machine learning/images/扫描全能王 2025-10-28 10.59_5.jpg",
-    "Courses/Mathematices for machine learning/images/扫描全能王 2025-10-28 10.59_4.jpg",
-    "Courses/Mathematices for machine learning/images/扫描全能王 2025-10-28 10.59_3.jpg",
-    "Courses/Mathematices for machine learning/images/扫描全能王 2025-10-28 10.59_2.jpg",
     "Courses/Scheduling and Resource Allocation/Exam Analysis",
     "Courses/Scheduling and Resource Allocation/images"
   ]
