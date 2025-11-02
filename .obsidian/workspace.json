@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Mathematices for machine learning/Exam Anslysis/III.Deep Learning and Automatic Differentiation.md",
+                "file": "Courses/Mathematices for machine learning/VI.Cross Validation & Bias-Variance Trade-off.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "III.Deep Learning and Automatic Differentiation"
+              "title": "VI.Cross Validation & Bias-Variance Trade-off"
             }
           }
         ]
@@ -186,11 +186,12 @@
   "active": "55b6e429e225cc24",
   "lastOpenFiles": [
     "Courses/Mathematices for machine learning/Exam Anslysis/VI.Cross Validation & Bias-Variance Trade-off.md",
-    "Courses/Mathematices for machine learning/Exam Anslysis/IV.Convexity,Convergence,and Optimization.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/V.Concentration Inequalities and Generalization.md",
-    "Courses/Mathematices for machine learning/VI.Cross Validation & Bias-Variance Trade-off.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/IV.Convexity,Convergence,and Optimization.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/III.Deep Learning and Automatic Differentiation.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/I.Linear Model.md",
+    "Courses/Mathematices for machine learning/VI.Cross Validation & Bias-Variance Trade-off.md",
     "Courses/Reinforcement Learning/Exam Analysis/IV.TD.md",
     "Courses/Reinforcement Learning/Exam Analysis/III.MC.md",
     "Courses/Reinforcement Learning/Exam Analysis/II.DP.md",
@@ -206,7 +207,6 @@
     "Courses/Computer Vision/Exams Analysis/XI.Computational Stereo.md",
     "Courses/Computer Vision/Exams Analysis/VIIII.Feature Tracking.md",
     "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
-    "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
     "Courses/Mathematices for machine learning/知识结构.excalidraw.md",
     "Courses/Mathematices for machine learning/I.Linear Model.md",
     "Courses/Mathematices for machine learning/V.Concentration Inequalities and Generalization.md",
