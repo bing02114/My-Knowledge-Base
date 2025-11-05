@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Mathematices for machine learning/VII.Maximum Likelihood Estimation for Unsupervised Learning.md",
+                "file": "Courses/Mathematices for machine learning/Exam Anslysis/VII.Maximum Likelihood Estimation for Unsupervised Learning.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,8 +185,13 @@
   },
   "active": "55b6e429e225cc24",
   "lastOpenFiles": [
-    "Courses/Reinforcement Learning/Exam Analysis/V.Value-function Approximation.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/III.Deep Learning and Automatic Differentiation.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/VII.Maximum Likelihood Estimation for Unsupervised Learning.md",
+    "Pasted image 20251104115639.png",
+    "Courses/Mathematices for machine learning/Exam Anslysis/VI.Cross Validation & Bias-Variance Trade-off.md",
     "Courses/Mathematices for machine learning/VII.Maximum Likelihood Estimation for Unsupervised Learning.md",
+    "Courses/Reinforcement Learning/Exam Analysis/V.Value-function Approximation.md",
     "Courses/Reinforcement Learning/Exam Analysis/IV.TD.md",
     "Courses/Reinforcement Learning/Exam Analysis/III.MC.md",
     "Courses/Reinforcement Learning/Exam Analysis/VI.Policy Gradient Methods.md",
@@ -208,14 +213,9 @@
     "Courses/Mathematices for machine learning/images/Decomposition.jpg",
     "Courses/Mathematices for machine learning/images/扫描全能王 2025-11-2 11.13_2.jpg",
     "Courses/Mathematices for machine learning/images/扫描全能王 2025-11-2 11.13_1.jpg",
-    "Courses/Mathematices for machine learning/Exam Anslysis/VI.Cross Validation & Bias-Variance Trade-off.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/V.Concentration Inequalities and Generalization.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/IV.Convexity,Convergence,and Optimization.md",
-    "Courses/Mathematices for machine learning/Exam Anslysis/III.Deep Learning and Automatic Differentiation.md",
-    "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/I.Linear Model.md",
-    "Courses/Reinforcement Learning/Exam Analysis/II.DP.md",
-    "Courses/Reinforcement Learning/Exam Analysis/I.MDPs.md",
     "Courses/Mathematices for machine learning/CourseWork/作业分析.pdf",
     "Courses/Mathematices for machine learning/未命名.canvas",
     "Courses/Computer Vision/XI.Computational Stereo/未命名",
@@ -230,7 +230,6 @@
     "Courses/Mathematices for machine learning/images/weakllm.jpg",
     "Courses/Mathematices for machine learning/images/EV.jpg",
     "Courses/Mathematices for machine learning/images/chebyshev.jpg",
-    "Courses/Mathematices for machine learning/images/markovIeq.jpg",
     "Courses/Scheduling and Resource Allocation/Exam Analysis"
   ]
 }
