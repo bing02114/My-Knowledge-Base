@@ -186,6 +186,8 @@
   },
   "active": "55b6e429e225cc24",
   "lastOpenFiles": [
+    "xgb_accuracy_gridsearch_GPU.png",
+    "svm_rbf_accuracy_gridsearch_GPU.png",
     "polynomial_regression_accuracy_unified_plot_GPU.png",
     "Pasted image 20251106084022.png",
     "poly_features_n12_e8_sequential_viz.png",
@@ -230,8 +232,6 @@
     "Courses/Computer Vision/X.Camera Geometry",
     "Courses/Computer Vision/IX.Feature Tracking",
     "Courses/Mathematices for machine learning/images/k.jpg",
-    "Courses/Mathematices for machine learning/images/weaklln.jpg",
-    "Courses/Mathematices for machine learning/images/weakllm.jpg",
     "Courses/Scheduling and Resource Allocation/Exam Analysis"
   ]
 }
