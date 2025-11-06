@@ -186,6 +186,8 @@
   },
   "active": "55b6e429e225cc24",
   "lastOpenFiles": [
+    "kpca_rbf_visualization.png",
+    "manifold_learning_comparison.png",
     "mlp_accuracy_gridsearch_CPU(2).png",
     "polynomial_regression_accuracy_unified_plot_GPU(2).png",
     "mlp_accuracy_gridsearch_CPU(1).png",
@@ -195,8 +197,6 @@
     "mlp_accuracy_gridsearch_CPU.png",
     "3way_interaction_3D_plot.png",
     "pairplot_subset.png",
-    "correlation_heatmap.png",
-    "xgb_accuracy_gridsearch_GPU.png",
     "Courses/Mathematices for machine learning/CourseWork/实验结果.md",
     "Courses/Mathematices for machine learning/CourseWork/实验部分/研究过程.md",
     "Courses/Computer Vision/Exams Analysis/XI.Computational Stereo.md",
