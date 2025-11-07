@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -184,7 +183,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "55b6e429e225cc24",
+  "active": "1f8bf7a0a955ba84",
   "lastOpenFiles": [
     "model_combo_chart_pastel.png",
     "model_accuracy_comparison_all_lines_pastel.png",
