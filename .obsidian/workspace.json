@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Scheduling and Resource Allocation/Exam Analysis/VII.Game Theory.md",
+                "file": "Programming Language/CUDE Programming/II.BasicProgramming/CUDA矩阵加法运算程序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VII.Game Theory"
+              "title": "CUDA矩阵加法运算程序"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5024719238281
+    "width": 328.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -185,8 +186,15 @@
   },
   "active": "55b6e429e225cc24",
   "lastOpenFiles": [
-    "Courses/Scheduling and Resource Allocation/Exam Analysis/VI.Workflow Scheduling.md",
+    "Programming Language/CUDE Programming/I.Intro/NVCC编译流程与GPU计算能力.md",
+    "Programming Language/CUDE Programming/II.BasicProgramming/CUDA矩阵加法运算程序.md",
+    "Programming Language/CUDE Programming/II.BasicProgramming",
+    "Programming Language/CUDE Programming/I.Intro/线程模型结构.md",
+    "Programming Language/CUDE Programming/I.Intro/KernelFunction.md",
+    "Programming Language/CUDE Programming/I.Intro",
+    "Programming Language/CUDE Programming/README.md",
     "Courses/Scheduling and Resource Allocation/Exam Analysis/VII.Game Theory.md",
+    "Courses/Scheduling and Resource Allocation/Exam Analysis/VI.Workflow Scheduling.md",
     "Courses/Scheduling and Resource Allocation/VII.Intro to competitive decision making.md",
     "Courses/Scheduling and Resource Allocation/VIII.Potential and Congestion Games.md",
     "Courses/Mathematices for machine learning/VIII.Maximum Likelihood Estimation for Unsupervised Learning.md",
@@ -202,9 +210,7 @@
     "Courses/Mathematices for machine learning/CourseWork/Documents",
     "Courses/Mathematices for machine learning/CourseWork/Documents/I.完成思路.md",
     "Courses/Mathematices for machine learning/CourseWork/Documents/作业思路41125.pdf",
-    "Courses/Mathematices for machine learning/CourseWork/Documents/作业思路.pdf",
     "Courses/Mathematices for machine learning/CourseWork/Documents/作业思路.md",
-    "Courses/Mathematices for machine learning/CourseWork/Documents/作业分析.pdf",
     "Courses/Mathematices for machine learning/CourseWork/实验部分/figs/mlp_accuracy_gridsearch_CPU(3).png",
     "Courses/Mathematices for machine learning/CourseWork/实验部分/实验结果.md",
     "Courses/Mathematices for machine learning/CourseWork/实验部分/figs/model_combo_chart_pastel.png",
@@ -226,11 +232,6 @@
     "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
     "Courses/Computer Vision/XI.Computational Stereo/II.Part2.md",
     "Courses/Computer Vision/XI.Computational Stereo/I.Part1.md",
-    "Courses/Computer Vision/X.Camera Geometry/VI.Radial Distortion.md",
-    "Courses/Computer Vision/X.Camera Geometry/V.Other Projection Models.md",
-    "Courses/Computer Vision/X.Camera Geometry/IV.The Camera Projection Matrix.md",
-    "Courses/Computer Vision/X.Camera Geometry/III.The Pinhole Camera Model.md",
-    "Courses/Computer Vision/X.Camera Geometry/II.2D Planar Transformatinos.md",
     "Courses/Mathematices for machine learning/未命名.canvas"
   ]
 }
