@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Reinforcement Learning/VI.Policy Gradient Methods.md",
+                "file": "Courses/Mathematices for machine learning/CourseWork/Documents/Discussion-ENG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VI.Policy Gradient Methods"
+              "title": "Discussion-ENG"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5024719238281,
-    "collapsed": true
+    "width": 328.5024719238281
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -186,8 +185,13 @@
   },
   "active": "55b6e429e225cc24",
   "lastOpenFiles": [
-    "Courses/Computer Vision/XII.Photometric Stereo.md",
+    "Courses/Mathematices for machine learning/CourseWork/Documents/Discussion.md",
+    "Courses/Mathematices for machine learning/CourseWork/Documents/Discussion-ENG.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/VIII.Bayesian Machine Learning.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/VII.Maximum Likelihood Estimation for Unsupervised Learning.md",
+    "Courses/Mathematices for machine learning/VIIII.Bayesian Machine Learning.md",
     "Artificial Intelligence/Reinforcement Learning/VI.Policy Gradient Methods.md",
+    "Courses/Computer Vision/XII.Photometric Stereo.md",
     "Programming Language/CUDE Programming/II.BasicProgramming/CUDA矩阵加法运算程序.md",
     "Programming Language/CUDE Programming/I.Intro/NVCC编译流程与GPU计算能力.md",
     "Programming Language/CUDE Programming/II.BasicProgramming",
@@ -225,13 +229,8 @@
     "Courses/Mathematices for machine learning/CourseWork/实验部分/figs/3way_interaction_3D_plot.png",
     "Courses/Reinforcement Learning/Exam Analysis/V.Value-function Approximation.md",
     "Courses/Reinforcement Learning/Exam Analysis/VI.Policy Gradient Methods.md",
-    "Courses/Reinforcement Learning/Exam Analysis/IV.TD.md",
     "Courses/Mathematices for machine learning/CourseWork/实验部分/figs/mlp_xgb_pipeline_accuracy_CPU.png",
     "Courses/Mathematices for machine learning/CourseWork/实验部分/figs/mlp_feature_engineering_visualization.png",
-    "Courses/Computer Vision/Exams Analysis/XI.Computational Stereo.md",
-    "Courses/Computer Vision/Exams Analysis/X.Camera Geometry.md",
-    "Courses/Computer Vision/Exams Analysis/VIIII.Feature Tracking.md",
-    "Courses/Computer Vision/Exams Analysis/VIII.Feature Descriptors and Matching.md",
     "Courses/Mathematices for machine learning/未命名.canvas"
   ]
 }
