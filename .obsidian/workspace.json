@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Discussion-ENG"
             }
+          },
+          {
+            "id": "69f8d359eb7439ed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "55b6e429e225cc24",
+  "active": "69f8d359eb7439ed",
   "lastOpenFiles": [
     "Courses/Mathematices for machine learning/CourseWork/Documents/Discussion.md",
     "Courses/Mathematices for machine learning/CourseWork/Documents/Discussion-ENG.md",
