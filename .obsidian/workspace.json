@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Mathematices for machine learning/Exam Anslysis/VI.Cross Validation & Bias-Variance Trade-off.md",
+                "file": "Courses/Reinforcement Learning/Exam Analysis/IV.TD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VI.Cross Validation & Bias-Variance Trade-off"
+              "title": "IV.TD"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5024719238281
+    "width": 328.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "8dabf6bc5b8e12bc",
@@ -185,10 +186,13 @@
   },
   "active": "55b6e429e225cc24",
   "lastOpenFiles": [
+    "Courses/Reinforcement Learning/Exam Analysis/III.MC.md",
+    "Courses/Reinforcement Learning/Exam Analysis/II.DP.md",
+    "Courses/Reinforcement Learning/Exam Analysis/I.MDPs.md",
+    "Courses/Mathematices for machine learning/Exam Anslysis/VI.Cross Validation & Bias-Variance Trade-off.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/V.Concentration Inequalities and Generalization.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/VII.Maximum Likelihood Estimation.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/VIII.Bayesian Machine Learning.md",
-    "Courses/Mathematices for machine learning/Exam Anslysis/VI.Cross Validation & Bias-Variance Trade-off.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/IV.Convexity,Convergence,and Optimization.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/III.Deep Learning and Automatic Differentiation.md",
     "Courses/Mathematices for machine learning/Exam Anslysis/II.Generalized Linear Model & Gradient Descent.md",
@@ -208,9 +212,6 @@
     "Courses/Reinforcement Learning/Exam Analysis/VI.Policy Gradient Methods.md",
     "Courses/Reinforcement Learning/Exam Analysis/V.Value-function Approximation.md",
     "Courses/Reinforcement Learning/Exam Analysis/IV.TD.md",
-    "Courses/Reinforcement Learning/Exam Analysis/I.MDPs.md",
-    "Courses/Reinforcement Learning/Exam Analysis/II.DP.md",
-    "Courses/Reinforcement Learning/Exam Analysis/III.MC.md",
     "Programming Language/CUDE Programming/II.BasicProgramming",
     "Programming Language/CUDE Programming/I.Intro",
     "Courses/Mathematices for machine learning/CourseWork/Paper/DenoiseAutoEncoderForFeatureConstruction.pdf",
