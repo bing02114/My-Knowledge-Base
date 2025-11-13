@@ -4,13 +4,13 @@
 
 - **核心公式辨析：** 考试经常直接给出不同的更新公式，要求你识别它是哪种算法。
     
-    - **TD(0):** $V(S) \leftarrow V(S) + \alpha [R + \gamma V(S') - V(S)]$ 1。
+    - **TD(0):** $V(S) \leftarrow V(S) + \alpha [R + \gamma V(S') - V(S)]$ 。
         
-    - **SARSA:** 使用实际采取的下一个动作 $A'$ 更新：$Q(S,A) \leftarrow \dots + \alpha [R + \gamma Q(S',A') - Q(S,A)]$ 2。
+    - **SARSA:** 使用实际采取的下一个动作 $A'$ 更新：$Q(S,A) \leftarrow \dots + \alpha [R + \gamma Q(S',A') - Q(S,A)]$ 。
         
-    - **Q-learning:** 使用下一个状态的最大值更新：$Q(S,A) \leftarrow \dots + \alpha [R + \gamma \max_a Q(S',a) - Q(S,A)]$ 3。
+    - **Q-learning:** 使用下一个状态的最大值更新：$Q(S,A) \leftarrow \dots + \alpha [R + \gamma \max_a Q(S',a) - Q(S,A)]$ 。
         
-    - **Expected SARSA:** 使用下一个状态的期望值更新：$Q(S,A) \leftarrow \dots + \alpha [R + \gamma \sum \pi(a|S')Q(S',a) - Q(S,A)]$ 4。
+    - **Expected SARSA:** 使用下一个状态的期望值更新：$Q(S,A) \leftarrow \dots + \alpha [R + \gamma \sum \pi(a|S')Q(S',a) - Q(S,A)]$ 。
         
 - **Double Learning (双重学习):** 识别其更新规则（使用两个独立的估计 $Q_1, Q_2$，一个用于选动作，一个用于评估），并理解其目的是为了解决**最大化偏差 (Maximization Bias)** 5。
     
@@ -32,7 +32,7 @@
 
 - **数值计算：** 给定当前的价值估计 $V(s)$ 或 $Q(s,a)$、学习率 $\alpha$、折扣因子 $\gamma$ 以及一条简短的轨迹（或单步转移），计算更新后的价值。
     
-- **TD 误差 (TD Error):** 计算 $\delta_t = R_{t+1} + \gamma V(S_{t+1}) - V(S_t)$ 9。
+- **TD 误差 (TD Error):** 计算 $\delta_t = R_{t+1} + \gamma V(S_{t+1}) - V(S_t)$ 。
     
 
 **考察形式：**
@@ -69,16 +69,16 @@
 
 - **Bootstrapping 的影响：** TD 使用自举（即用估计更新估计），这引入了**偏差 (Bias)**，但也显著降低了**方差 (Variance)**（相比于 MC）。
     
-- **Off-policy 的挑战：** 纯 Off-policy 方法结合 Bootstrapping 和函数逼近（Function Approximation）时可能会发散（著名的“死亡三角” Triad），虽然这是 Lecture 4 的延伸，但理解 Q-learning 的 Off-policy 性质是基础 16。
+- **Off-policy 的挑战：** 纯 Off-policy 方法结合 Bootstrapping 和函数逼近（Function Approximation）时可能会发散（著名的“死亡三角” Triad），虽然这是 Lecture 4 的延伸，但理解 Q-learning 的 Off-policy 性质是基础。
     
 
 **考察形式：**
 
 - **多项选择题:**
     
-    - **2024-2025 Q1d:** 考察关于自举值 $\hat{V}_{TD}$ 的期望和方差的数学性质 17。
+    - **2024-2025 Q1d:** 考察关于自举值 $\hat{V}_{TD}$ 的期望和方差的数学性质。
         
-    - **2024-2025 Q1e:** 问“为什么 Q-learning 被认为是 Off-policy 算法？”（答案：因为它使用一个策略产生的奖励来更新，但旨在学习另一个最优策略）18。
+    - **2024-2025 Q1e:** 问“为什么 Q-learning 被认为是 Off-policy 算法？”（答案：因为它使用一个策略产生的奖励来更新，但旨在学习另一个最优策略) 。
         
 
 ### **备考建议 (针对 Lecture 4)**

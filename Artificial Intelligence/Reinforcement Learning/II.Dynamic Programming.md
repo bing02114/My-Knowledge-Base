@@ -48,7 +48,7 @@ $$\pi'(s)=argmax_{a}Q_{\pi}(s,a)$$
 
 Assumption:
 
-$$V^{\pi} \leq Q_{\pi}(s,\pi'(s))$$
+$$V^{\pi}(s) \leq Q_{\pi}(s,\pi'(s))$$
 
 Q-function def:
 
@@ -78,6 +78,16 @@ Definition of $V_{\pi'}$
 
 $$=V_{\pi'}(s)$$
 
+**About the assumption**
+
+$$Q_{\pi}(s,\pi'(s))=Q_{\pi}(s,\arg\max_a Q_{\pi}(s,a))$$
+
+$$=\max_{a}Q_{\pi}(s,a)$$
+
+$$\gt Q_{\pi}(s,\pi(s))$$
+
+$$=V^{\pi}(s)$$
+
 ### 4.Policy Iteration
 
 #### 4.1 Definition
@@ -90,7 +100,7 @@ $$=V_{\pi'}(s)$$
 2. **Repeat Until Convergence:**
 
 * Policy Evaluation: Compute $V^{\pi}_k$ using iterative evaluation
-* Policy Improvement: Set $\pi_{k+1}(s)=\arg\max_{a}Q_{\pi_{k}}(s,a)$
+* Policy Improvement: Set $\pi_{k+1}(s)=\arg\max_{a}Q_{\pi_{k}}(s,a)$ (Q is computed from V)
 
 3. Stop when $\pi_{k+1}=\pi_{k}$
 

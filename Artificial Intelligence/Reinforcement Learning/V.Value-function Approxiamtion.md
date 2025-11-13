@@ -28,7 +28,7 @@ $$\hat{V}(s,\theta)≈V^{\pi}(s)$$
 
 **Generalization**
 
->This is the key benefit. When we update θ based on one state, it affects the values of many _other_ similar states
+>This is the key benefit. When we update θ based on one state, it affects the values of many other similar states
 
 ***
 ### 2.Stochastic Gradient Descent (SGD)
@@ -78,8 +78,8 @@ $$U_t=R_{t+1}+\gamma\hat{V}(S_{t+1},\theta_t)$$
 #### 2.6 Semi-Gradient
 
 * The TD(0) update is called a "semi-gradient" method.
-* This is because the target Ut​=Rt+1​+γV^(St+1​,θt​) _itself_ depends on the parameters θt​
-* A "full" gradient would be complex and unstable. We "cheat" by treating the target as a fixed number, which is simpler, cheaper, and more stable.
+* This is because the target Ut​=Rt+1​+γV^(St+1​,θt​) itself depends on the parameters θt​
+* A "full" gradient would be complex and unstable. We "cheat" by **treating the target as a fixed number**, which is simpler, cheaper, and more stable.
 
 ***
 ### 3.Linear Function Approximation

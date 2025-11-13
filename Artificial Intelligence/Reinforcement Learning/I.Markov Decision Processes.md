@@ -19,6 +19,10 @@
 #### 1.3 The Agent-Environment Interaction Loop
 
 ![](Artificial%20Intelligence/Reinforcement%20Learning/images/interaction%20loop.png)
+
+>Goal: Learn to maximize cumulative reward
+
+
 #### 1.4 Types of MDPs
 
 > 1. Episodic: Tasks with a clear start and a terminal state, forming an "episode"
@@ -30,7 +34,7 @@
 ### 2. The Agent's Goal and Strategy
 #### 2.1 The Policy
 ##### 1. Environment Dynamics: The State Transition Probability
-$$P(s'|s,a) = P[S_{t+1}=s' | S_t=s, A_t=a]
+$$P(s'|s,a) = Pr[S_{t+1}=s' | S_t=s, A_t=a]
 $$
 ><font color="Red">The probability of transitoning to state's given current state s and action a</font>
 
@@ -39,7 +43,7 @@ $$
 >* Probability distribution: 
 >
 >$$\sum_{s'\in S}P(s'|s,a)=1~for~all~s,a$$
->* Stationary: Transition probabilities don' change over time
+>* Stationary: Transition probabilities don't change over time
 >* Markovian: Next state depends only on current state and action
 
 ##### 2. The Agent's Behavior: The Policy
@@ -122,8 +126,17 @@ $$
 
 #### 4.3 Optimal Value Functions
 
+>**Policy pi is better than or equal to policy pi' if :**
+>
+>$$V^{\pi}(s)\geq V^{\pi'}(s)$$   for all states $s\in S$
+
 >$$V^{\ast}(s)=max_{\pi}V^{\pi}(s)$$
 >$$Q^{\ast}(s,a)=max_{\pi}Q^{\pi}(s,a)$$
+
+<font color="Red">**An optimal policy is at least as good as every other policy in every state**</font>
+
+<font color="Red">There may be multiple optimal policies, but only one optimal state value function</font>
+
 
 **Relationship Between Optimal Functions**
 
